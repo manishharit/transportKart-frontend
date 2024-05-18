@@ -4,6 +4,7 @@ import { Footer } from './Footer';
 import homefourthSec from '../assets/homefourthSec.jpg'
 import ReactSearchBox from "react-search-box";
 import { Search } from './Search';
+import { Link } from 'react-router-dom'
 
 
 
@@ -47,7 +48,7 @@ export const UserCard = () => {
           <h1 className='text-2xl font-bold'>Company</h1>
         <p className='text-justify'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum odit eius autem commodi ducimus, deleniti repellat vitae tenetur ullam facilis, cupiditate culpa reprehenderit! Autem in laudantium ipsam provident illum suscipit.</p>
         
-        <button className="text-white font-semibold mt-5 pt-3 pb-3 pl-4 pr-4 rounded-xl bg-violet-600 ">Explore more</button>
+        <Link to={`/user/10/manish`} className="text-white font-semibold mt-5 pt-3 pb-3 pl-4 pr-4 rounded-xl bg-violet-600 ">Explore more</Link>
         </div>
         <div className='flex bg-orange-400 text-white pb-2 pt-2 mt-2 rounded-b-3xl '>
           <div className="flex-1 text-center">

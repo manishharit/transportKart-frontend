@@ -7,7 +7,7 @@ import homeContactbg from '../assets/homeContactbg.png'
 import creditcardicons from '../assets/creditcardicons.png'
 import { Footer } from "../components/Footer"
 import { NavBar } from "../components/NavBar"
-
+import { Link } from 'react-router-dom'
 export const Home = () => {
   return (
 
@@ -20,7 +20,7 @@ export const Home = () => {
                 <p className="text-slate-200 text-[1.2rem] font-semibold pb-5">
                       Where Trucks Meet Solution.
                 </p>
-                <button  className="text-white font-semibold pt-3 pb-3 pl-4 pr-4 rounded-xl bg-violet-600 ">Explore more</button>
+                <Link to="/explore" className="text-white font-semibold pt-3 pb-3 pl-4 pr-4 rounded-xl bg-violet-600 ">Explore more</Link>
             </div>
         </div>
     {/* home second */}
