@@ -12,7 +12,7 @@ import { UserCard } from './components/UserCard';
 import { CompanySite } from './components/CompanySite';
 
 
-const baseUrl = 'http://localhost:8080';
+const baseUrl = 'https://transportkart-backend.onrender.com';
 const router = createBrowserRouter([
   {
     path:"/",
