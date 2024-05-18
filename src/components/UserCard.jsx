@@ -1,14 +1,14 @@
-import React from 'react';
+import { useState, useEffect } from 'react';
 import { NavBar } from './NavBar';
 import { Footer } from './Footer';
 import homefourthSec from '../assets/homefourthSec.jpg'
 import ReactSearchBox from "react-search-box";
 import { Search } from './Search';
-import { Link } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 
 
 
-export const UserCard = () => {
+export const UserCard = ({ baseUrl }) => {
   const data = [
     {
       key: "john",
@@ -31,36 +31,60 @@ export const UserCard = () => {
       value: "Karius",
     },
   ];
+
+  const [userData, setData] = useState();
+
+  const handleDataFetch = (fetchedData) => {
+    setData(fetchedData);
+    console.log(fetchedData)
+  };
+
+  useEffect(()=>{
+
+  },[Search,handleDataFetch])
+  const navigate = useNavigate();
+  const handleExploreClick = (item) => {
+    navigate(`/user/${item.companyName}`, { state: { item } });
+  };
+
   return (
     <>
      <NavBar/>
-    <Search/> 
-    <div className='lg:flex lg:flex-wrap lg:justify-between mt-1'>
-    <div className='lg:w-[30%] '>
+    <Search baseUrl={baseUrl} onDataFetch={handleDataFetch}/> 
+    <div className='lg:flex lg:flex-wrap lg:justify-between mt-20 ml-5 mr-5 mb-10'>
+
+
+    { userData? 
+    userData.map((item, index) => {
+    return(
+      
+    <div key={index} className='lg:w-[30%] mb-4 bg-slate-100 rounded-3xl'>
       {/* image */}
-      <div className="lg:h-56 h-48">
-            <img className="rounded-t-3xl " src={homefourthSec} />
+      <div className="lg:h-[13rem] h-48">
+            <img className="rounded-t-3xl " src={item.imageUrl} />
       </div>
       <div></div>
       {/* card */}
-      <div className='bg-slate-100 rounded-b-3xl'>
+      <div className='rounded-b-3xl'>
         <div className='text-center p-5 '>
-          <h1 className='text-2xl font-bold'>Company</h1>
-        <p className='text-justify'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum odit eius autem commodi ducimus, deleniti repellat vitae tenetur ullam facilis, cupiditate culpa reprehenderit! Autem in laudantium ipsam provident illum suscipit.</p>
+          <h1 className='text-2xl font-bold'>{item.companyName}</h1>
+        <p className='text-justify mb-8'>{item.aboutUs}</p>
         
-        <Link to={`/user/10/manish`} className="text-white font-semibold mt-5 pt-3 pb-3 pl-4 pr-4 rounded-xl bg-violet-600 ">Explore more</Link>
+        {/* <Link to={`/user/${item.companyName}/${item.contactNo}/${item.whatsAppNo}/${item.fromCity}/${item.toCity}/${item.vehicleType}/${item.serviceType}/${item.numberOfEmployee}/${item.address}/${item.established}/${item.verified}/${item.numberOfTrucks}`} className="text-white font-semibold mt-5 pt-3 pb-3 pl-4 pr-4 rounded-xl bg-violet-600 ">Explore more</Link>
+         */}
+                 <button onClick={() => handleExploreClick(item)} className="text-white font-semibold mt-5 pt-3 pb-3 pl-4 pr-4 rounded-xl bg-violet-600 ">Explore more</button>
         </div>
         <div className='flex bg-orange-400 text-white pb-2 pt-2 mt-2 rounded-b-3xl '>
           <div className="flex-1 text-center">
-            <h1 className='text-3xl font-bold'>1990</h1>
+            <h1 className='text-3xl font-bold'>{item.established}</h1>
             <h1>Established</h1>
           </div>
           <div className="flex-1 text-center">
-            <h1 className='text-3xl font-bold'>true</h1>
+            <h1 className='text-3xl font-bold'>{item.verified?"True":"False"}</h1>
             <h1>Verified</h1>
           </div>
           <div className="flex-1 text-center">
-            <h1 className='text-3xl font-bold'>20</h1>
+            <h1 className='text-3xl font-bold'>{item.numberOfTrucks}</h1>
             <h1>No of trucks</h1>
           </div>
         </div>
@@ -68,7 +92,8 @@ export const UserCard = () => {
       </div>
 
 
-    </div>
+    </div> 
+    )}) :<h5 className='text-2xl lg:pl-[40rem] pl-32 mb-28'>No data</h5>}
 
     {/* stop there */}
 

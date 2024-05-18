@@ -12,7 +12,7 @@ import { UserCard } from './components/UserCard';
 import { CompanySite } from './components/CompanySite';
 
 
-const baseUrl = 'hello manish';
+const baseUrl = 'http://localhost:8080';
 const router = createBrowserRouter([
   {
     path:"/",
@@ -23,7 +23,7 @@ const router = createBrowserRouter([
     element: <UserCard baseUrl={baseUrl}/>
   },
   {
-    path:"/user/:itemId/:title",
+    path:"/user/:companyName",
     element: <CompanySite baseUrl={baseUrl}/>
   }
 ]);

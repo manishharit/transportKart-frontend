@@ -93,7 +93,7 @@ export const Home = () => {
         </p>
         <form className="flex-1">
         <div className="">
-          <input className="p-2 bg-transparent placeholder-white text-white border border-violet-600 rounded-xl" type="text" placeholder="Name" />
+          <input className="w-40 p-2 bg-transparent placeholder-white text-white border border-violet-600 rounded-xl" type="text" placeholder="Name" />
           <input className="ml-5 p-2 bg-transparent placeholder-white text-white border border-violet-600 rounded-xl" type="text" placeholder="Phone" />
         </div>
         
