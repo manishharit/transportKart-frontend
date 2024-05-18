@@ -51,8 +51,8 @@ export const Search = () => {
   ]
   const [serviceType, setServiceType] = React.useState('Service Type');
   const handleServiceType = (e) => {
-    console.log(e);
-    setServiceType(e);
+    console.log(e.item.value);
+    setServiceType(e.item.value);
   };
   return (
     <>
