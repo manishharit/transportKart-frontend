@@ -1,6 +1,4 @@
 import React from 'react';
-import { NavBar } from './NavBar';
-import { Footer } from './Footer';
 
 import ReactSearchBox from "react-search-box";
 
@@ -29,6 +27,33 @@ export const Search = () => {
       value: "Karius",
     },
   ];
+  const serviceTypeData = [
+    {
+        key: "wareHouse",
+        value: "WareHouse",
+      },
+      {
+        key: "fullLoad",
+        value: "Full Load",
+      },
+      {
+        key: "partLoad",
+        value: "Part Load",
+      },
+      {
+        key: "brocker",
+        value: "Brocker",
+      },
+      {
+        key: "truckOwner",
+        value: "Truck Owner",
+      },
+  ]
+  const [serviceType, setServiceType] = React.useState('Service Type');
+  const handleServiceType = (e) => {
+    console.log(e);
+    setServiceType(e);
+  };
   return (
     <>
     <div className='lg:h-40 z-10 h-80 '>
@@ -40,10 +65,9 @@ export const Search = () => {
     <div className='flex'>
     <div className='lg:w-40'>
     <ReactSearchBox
-        placeholder="Service Type"
-        value="Doe"
-        data={data}
-        callback={(record) => console.log(record)}
+        placeholder={serviceType}
+        data={serviceTypeData}
+        onSelect={handleServiceType}
         inputBorderColor='violet'
       />
     </div>
