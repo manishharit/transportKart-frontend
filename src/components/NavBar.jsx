@@ -1,12 +1,12 @@
 import React from 'react'
 import { Disclosure } from '@headlessui/react'
-import manilogo from '../assets/manilogo.png'
+import manilogo from '../assets/logo.png'
 import { Link } from 'react-router-dom'
 
 
 const navigation = [
-    { name: 'Search', to: '/explore', current: false },
-    { name: 'Our Operations', to: '/', current: false },
+    { name: 'About Us', to: '/', current: false },
+    { name: 'Trucks For You', to: '/explore', current: false },
     { name: 'Contact Us', to: '/', current: false },
   ]
   
@@ -18,11 +18,11 @@ export const NavBar = () => {
     
   return (
      <div className='sticky top-0 z-20'>
-        <Disclosure as="nav" className="bg-gray-800">
+        <Disclosure as="nav" className="bg-black">
       {({ open }) => (
         <>
           <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
-            <div className="relative flex h-16 items-center justify-between">
+            <div className="relative flex h-20 items-center justify-between">
               <div className="absolute inset-y-0 left-0 flex items-center sm:hidden">
                 {/* Mobile menu button*/}
                 
@@ -31,7 +31,7 @@ export const NavBar = () => {
                 <div className="flex flex-shrink-0 items-center">
                   <Link to="/">
                   <img
-                    className="h-28 w-auto "
+                    className="h-16 w-auto "
                     src={manilogo}
                     alt="Your Company"
                     style={{ userSelect: 'none', pointerEvents: 'none',cursor:"grab" }}
@@ -39,7 +39,7 @@ export const NavBar = () => {
                   </Link>
                 </div>
                 <div className="hidden sm:ml-auto sm:block">
-                  <div className="flex space-x-4 pt-9">
+                  <div className="flex space-x-4 pt-5">
                     {navigation.map((item) => (
                       <Link
                         key={item.name}
