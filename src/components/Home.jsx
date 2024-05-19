@@ -4,7 +4,6 @@ import homethirdbg from "../assets/homethirdbg.png"
 import homefourthSec from '../assets/homefourthSec.jpg'
 import homefifthSec from '../assets/homeFifthSec.png'
 import homeContactbg from '../assets/homeContactbg.png'
-import creditcardicons from '../assets/creditcardicons.png'
 import { Footer } from "../components/Footer"
 import { NavBar } from "../components/NavBar"
 import { Link } from 'react-router-dom'
@@ -16,19 +15,19 @@ export const Home = () => {
     {/* hero image */}
         <div className="h-[80vh] bg-no-repeat bg-cover" style={{backgroundImage: `url(${mainBg})`}}>
             <div className="h-full flex-col bg-[rgba(0,0,0,0.5)] gap-2.5 text-center pt-44">
-                <h2 className="text-white font-bold text-[3rem]">Driving The Future</h2>
+                <h2 className="text-white font-semibold text-[3rem]">Driving The Future</h2>
                 <p className="text-slate-200 text-[1.2rem] font-semibold pb-5">
                       Where Trucks Meet Solution.
                 </p>
-                <Link to="/explore" className="text-white font-semibold pt-3 pb-3 pl-4 pr-4 rounded-xl bg-violet-600 ">Explore more</Link>
+                <Link to="/explore" className="text-white font-semibold pt-3 pb-3 pl-4 pr-4 rounded-xl bg-purple-900 hover:bg-purple-700 ">EXPLORE MORE</Link>
             </div>
         </div>
     {/* home second */}
         <div className="mt-5 lg:flex">
         
         <div className="p-5 lg:w-[50%]">
-            <h3 className="font-bold"> Who We Are</h3>
-            <h4 className="font-semibold pt-1 pb-1"> Your Long Term Transport Partner</h4>
+            <h3 className="font-bold text-center"> Who We Are</h3>
+            <h4 className="font-semibold pt-1 pb-1 text-center"> Your Long Term Transport Partner</h4>
             <p className="text-justify">
                 Our platform provides a seamless experience for users to create shared websites, enabling them to showcase their services and connect with potential partners. Whether you're a truck owner looking for new clients, a logistics company seeking reliable transportation solutions, or a warehousing company in need of efficient distribution channels, TransportKART has you covered. <br />
                 By consolidating transportation, logistics partners, traders, and manufacturers onto a single platform, TransportKART streamlines the process of finding and engaging with the right partners. Gone are the days of endless searching and fragmented communication – with TransportKART, everything you need is just a click away. <br />
@@ -60,8 +59,8 @@ export const Home = () => {
             <img className="lg:rounded-3xl" src={homefourthSec}  alt="heroSecondSec"  />
         </div>
         <div className="lg:pl-10 p-5">
-            <h3 className="font-extrabold"> Why Choose Us?</h3>
-            <h4 className="font-bold"> Start-to-Finish Trucks Services</h4>
+            <h3 className="font-extrabold text-center"> Why Choose Us?</h3>
+            <h4 className="font-bold text-center"> Start-to-Finish Trucks Services</h4>
             <p className="text-justify font-light">
             1. Digital listing platform for transportation and logistics stakeholders. <br />
             2. Allows truck owners, brokers, logistics companies and warehousing companies to create shared websites. <br />
@@ -85,10 +84,10 @@ export const Home = () => {
 
     {/* sixth component */}
 
-    <div className="lg:h-[90vh] sm:h-0 bg-no-repeat bg-cover mt-5" style={{backgroundImage: `url(${homeContactbg})`}}>
-      <div className="h-full flex-col bg-[rgba(0,0,0,0.9)] gap-2.5 text-center pt-44">
+    <div className="lg:h-[90vh] h-[60vh] sm:h-0 bg-no-repeat bg-cover mt-5" style={{backgroundImage: `url(${homeContactbg})`}}>
+      <div className="h-full flex-col bg-[rgba(0,0,0,0.9)] gap-2.5 text-center lg:pt-20 pt-20">
       <h3 className="text-white text-7xl">Contact Us</h3>
-        <p className="text-white text-xl pt-2">
+        <p className="text-white text-xl pt-2 pb-2">
           Where Trucks Meet Solution.
         </p>
         <form className="flex-1">
@@ -101,7 +100,7 @@ export const Home = () => {
         <div>
         <input className=" p-2 mt-5 h-20 w-96 bg-transparent placeholder-white text-white border border-violet-600 rounded-xl" type="text" placeholder="Your message" />
         </div>
-        <button  className="mt-5 text-white font-semibold pt-3 pb-3 pl-4 pr-4 rounded-xl bg-violet-600 ">Explore more</button>
+        <button  className="mt-5 text-white font-semibold pt-2 pb-2 pl-8 pr-8 rounded-xl bg-purple-900 hover:bg-purple-700 ">Submit</button>
         </form>
 
       </div>
