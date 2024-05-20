@@ -30,29 +30,24 @@ export const Search = ({ baseUrl , onDataFetch }) => {
   const serviceTypeData = [
     {
         key: "wareHouse",
-        value: "WareHouse",
+        value: "WAREHOUSE",
       },
       {
         key: "fullLoad",
-        value: "Full Load",
+        value: "FULLLOAD",
       },
       {
         key: "partLoad",
-        value: "Part Load",
+        value: "PARTLOAD",
       },
       {
-        key: "brocker",
-        value: "Brocker",
+        key: "broker",
+        value: "BROKER",
       },
       {
         key: "truckOwner",
-        value: "Truck Owner",
+        value: "TRUCKOWNER",
       },
-      {
-        key:"oneday",
-        value:"oneday"
-
-      }
   ]
   const [serviceType, setServiceType] = useState('Service Type');
   const [ toCity, setToCity] = useState("To City")
@@ -108,7 +103,7 @@ export const Search = ({ baseUrl , onDataFetch }) => {
     <>
     <div className='lg:h-40 z-10 h-80 '>
       <div className='text-center mt-10'>
-      <h1 className='font-bold  lg:text-3xl text-xl'>Explore all Transporter and Trucks</h1>
+      <h1 className='font-bold  lg:text-3xl text-xl'>Explore All Transporter And Trucks</h1>
       </div>
       {/* search */}
     <div className='flex-1 lg:flex lg:ml-40 mt-10 lg:mr-4 p-5 rounded-3xl '>
