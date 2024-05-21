@@ -26,9 +26,9 @@ export const Home = () => {
         <div className="mt-5 lg:flex">
         
         <div className="p-5 lg:w-[50%]">
-            <h3 className="font-bold text-center"> Who We Are</h3>
+            <h3 className="font-bold text-center text-yellow-600 text-2xl"> Who We Are</h3>
             <h4 className="font-semibold pt-1 pb-1 text-center"> Your Long Term Transport Partner</h4>
-            <p className="text-justify">
+            <p className="text-justify ">
                 Our platform provides a seamless experience for users to create shared websites, enabling them to showcase their services and connect with potential partners. Whether you're a truck owner looking for new clients, a logistics company seeking reliable transportation solutions, or a warehousing company in need of efficient distribution channels, TransportKART has you covered. <br />
                 By consolidating transportation, logistics partners, traders, and manufacturers onto a single platform, TransportKART streamlines the process of finding and engaging with the right partners. Gone are the days of endless searching and fragmented communication – with TransportKART, everything you need is just a click away. <br />
                 Our user-friendly interface makes it easy to navigate through listings, filter search results, and communicate with potential partners. Whether you're on a desktop or mobile device, accessing TransportKART is convenient and intuitive. <br />
@@ -59,9 +59,9 @@ export const Home = () => {
             <img className="lg:rounded-3xl" src={homefourthSec}  alt="heroSecondSec"  />
         </div>
         <div className="lg:pl-10 p-5">
-            <h3 className="font-extrabold text-center"> Why Choose Us?</h3>
+            <h3 className="font-extrabold text-center text-yellow-600 text-2xl"> Why Choose Us?</h3>
             <h4 className="font-bold text-center"> Start-to-Finish Trucks Services</h4>
-            <p className="text-justify font-light">
+            <p className="text-justify">
             1. Digital listing platform for transportation and logistics stakeholders. <br />
             2. Allows truck owners, brokers, logistics companies and warehousing companies to create shared websites. <br />
             3. Centralized hub for finding transportation, logistics partners, traders, and manufacturers. <br />

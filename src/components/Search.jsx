@@ -27,32 +27,137 @@ export const Search = ({ baseUrl , onDataFetch }) => {
       value: "oneday",
     },
   ];
+  const vehicleTypeData = [
+    {
+      key: "Champion",
+      value: "Champion",
+    },
+    {
+      key: "Tata Ace",
+      value: "Tata Ace",
+    },
+    {
+      key: "Pickup",
+      value: "Pickup",
+    },
+    {
+      key: "Tata",
+      value: "Tata",
+    },
+    {
+      key: "Tata 407",
+      value: "Tata 407",
+    },
+    {
+      key: "14 Ft Open / Container",
+      value: "14 Ft Open / Container",
+    },
+    {
+      key: "17 Ft Open / Container",
+      value: "17 Ft Open / Container",
+    },
+    {
+      key: "20 Ft Open",
+      value: "20 Ft Open",
+    },
+    {
+      key: "20 Ft Container",
+      value: "120 Ft Container",
+    },
+    {
+      key: "22 Ft Open",
+      value: "22 Ft Open",
+    },
+    {
+      key: "22 Ft Container",
+      value: "22 Ft Container",
+    },
+    {
+      key: "24 Ft Container",
+      value: "24 Ft Container",
+    },
+    {
+      key: "24 Ft Open",
+      value: "24 Ft Open",
+    },
+    {
+      key: "32 Ft XL Container",
+      value: "32 Ft XL Container",
+    },
+    {
+      key: "32 Ft XXL Container",
+      value: "32 Ft XXL Container",
+    },
+    {
+      key: "32 Ft XXXL Container",
+      value: "32 Ft XXXL Container",
+    },
+    {
+      key: "40 Ft Container",
+      value: "40 Ft Container",
+    },
+    {
+      key: "10 Tyre Open Truck",
+      value: "10 Tyre Open Truck",
+    },
+    {
+      key: "12 Tyre Open Truck",
+      value: "12 Tyre Open Truck",
+    },
+    {
+      key: "14 Tyre Open Truck",
+      value: "14 Tyre Open Truck",
+    },
+    {
+      key: "16 Tyre Open Truck",
+      value: "16 Tyre Open Truck",
+    },
+    {
+      key: "18 Tyre Open Truck",
+      value: "18 Tyre Open Truck",
+    },
+    {
+      key: "20 Tyre Open Truck",
+      value: "20 Tyre Open Truck",
+    },
+    {
+      key: "20 Tyre Open Truck",
+      value: "20 Tyre Open Truck",
+    },
+    {
+      key: "24 Tyre Open Truck",
+      value: "24 Tyre Open Truck",
+    },
+    {
+      key: "40 Ft Trailer Low Bed",
+      value: "40 Ft Trailer Low Bed",
+    },
+    {
+      key: "40 Ft Trailer High Bed",
+      value: "40 Ft Trailer High Bed",
+    },
+  ];
   const serviceTypeData = [
     {
         key: "wareHouse",
-        value: "WareHouse",
+        value: "WAREHOUSE",
       },
       {
         key: "fullLoad",
-        value: "Full Load",
+        value: "FULLLOAD",
       },
       {
         key: "partLoad",
-        value: "Part Load",
+        value: "PARTLOAD",
       },
       {
-        key: "brocker",
-        value: "Brocker",
+        key: "broker",
+        value: "BROKER",
       },
       {
         key: "truckOwner",
-        value: "Truck Owner",
+        value: "TRUCKOWNER",
       },
-      {
-        key:"oneday",
-        value:"oneday"
-
-      }
   ]
   const [serviceType, setServiceType] = useState('Service Type');
   const [ toCity, setToCity] = useState("To City")
@@ -89,8 +194,8 @@ export const Search = ({ baseUrl , onDataFetch }) => {
        setFromCity("From City")
        setVehicleType("Vehicle Type")
       }
-    if(serviceType === "Part Load") { setDisabled1(true)}
-    if(serviceType === "WareHouse") { setDisabled2(true)}
+    if(serviceType === "PARTLOAD") { setDisabled1(true)}
+    if(serviceType === "WAREHOUSE") { setDisabled2(true)}
   },[serviceType,toCity,fromCity,vehicleType,companyName,Search])
 
   const fetchData = async () => {
@@ -108,7 +213,7 @@ export const Search = ({ baseUrl , onDataFetch }) => {
     <>
     <div className='lg:h-40 z-10 h-80 '>
       <div className='text-center mt-10'>
-      <h1 className='font-bold  lg:text-3xl text-xl'>Explore all Transporter and Trucks</h1>
+      <h1 className='font-bold  lg:text-3xl text-xl'>Explore All Transporter And Trucks</h1>
       </div>
       {/* search */}
     <div className='flex-1 lg:flex lg:ml-40 mt-10 lg:mr-4 p-5 rounded-3xl '>
@@ -121,17 +226,7 @@ export const Search = ({ baseUrl , onDataFetch }) => {
         inputBorderColor='violet'
       />
     </div>
-     <div className='lg:w-40 lg:ml-10' style={{ pointerEvents: disabled?"none": disabled2?"none":"auto" }}>
-    <ReactSearchBox
-        placeholder={toCity}
-        data={data}
-        onSelect={handleToCity}
-        inputBorderColor='violet'
-      />
-    </div>
-    </div>
-    <div className='flex mt-3 lg:mt-0'>
-     <div className='lg:w-40 lg:ml-10' style={{ pointerEvents: disabled?"none":"auto" }}>
+    <div className='lg:w-40 lg:ml-10' style={{ pointerEvents: disabled?"none":"auto" }}>
     <ReactSearchBox
         placeholder={fromCity}
         data={data}
@@ -139,10 +234,21 @@ export const Search = ({ baseUrl , onDataFetch }) => {
         inputBorderColor='violet'
       />
     </div>
+     
+    </div>
+    <div className='flex mt-3 lg:mt-0'>
+    <div className='lg:w-40 lg:ml-10' style={{ pointerEvents: disabled?"none": disabled2?"none":"auto" }}>
+    <ReactSearchBox
+        placeholder={toCity}
+        data={data}
+        onSelect={handleToCity}
+        inputBorderColor='violet'
+      />
+    </div>
     <div className='lg:w-40 lg:ml-10' style={{ pointerEvents: disabled?"none": disabled1?"none":disabled2?"none":"auto" }}>
     <ReactSearchBox
         placeholder={vehicleType}
-        data={data}
+        data={vehicleTypeData}
         onSelect={handleVehicleType}
         inputBorderColor='violet'
       />
@@ -158,7 +264,7 @@ export const Search = ({ baseUrl , onDataFetch }) => {
         inputBorderColor='violet'
       />
     </div>
-   <div className='mt-5 lg:mt-0  h-10 lg:ml-10 ml-24 lg:w-28 w-44 bg-purple-600 rounded-3xl pl-5 pr-5 p-1'>
+   <div className='mt-5 lg:mt-0  h-10 lg:ml-10 ml-24 lg:w-32 w-44 bg-purple-600 rounded-3xl pl-5 pr-5 p-1'>
       <button onClick={fetchData} className='text-white pt-1 pl-10 lg:pl-0'>Search 🔍</button>
     </div>
     </div>

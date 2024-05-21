@@ -7,9 +7,9 @@ export const Footer = () => {
         
 
 <footer class="bg-black dark:bg-gray-900">
-    <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
+    <div class="mx-auto w-full max-w-screen-xl p-2 py-6 lg:py-8">
         <div class="md:flex md:justify-between">
-          <div class="mb-6 mr-5 md:mb-0">
+          <div class="hidden md:block mb-6 mr-5 md:mb-0">
               <a href="#" class="flex items-center">
                   <img src={manilogo} class="h-20 me-3" alt="FlowBite Logo" />
               </a>
@@ -38,17 +38,6 @@ export const Footer = () => {
                   </ul>
               </div>
               <div>
-                  <h2 class="mb-6 text-sm font-semibold text-white uppercase dark:text-white ">Legal</h2>
-                  <ul class="text-gray-500 dark:text-gray-400 font-medium ">
-                      <li class="mb-4">
-                          <a href="#" class="hover:underline hover:text-gray-300">Privacy Policy</a>
-                      </li>
-                      <li>
-                          <a href="#" class="hover:underline hover:text-gray-300">Terms &amp; Conditions</a>
-                      </li>
-                  </ul>
-              </div>
-              <div>
                   <h2 class="mb-6 text-sm font-semibold text-white uppercase dark:text-white ">Contact Us</h2>
                   <ul class="text-gray-500 dark:text-gray-400 font-medium ">
                       <li class="mb-4">
@@ -56,6 +45,17 @@ export const Footer = () => {
                       </li>
                       <li>
                           <a href="#" class="hover:underline hover:text-gray-300">connect@transportkart.com</a>
+                      </li>
+                  </ul>
+              </div>
+              <div>
+                  <h2 class="mb-6 text-sm font-semibold text-white uppercase dark:text-white ">Legal</h2>
+                  <ul class="text-gray-500 dark:text-gray-400 font-medium ">
+                      <li class="mb-4">
+                          <a href="#" class="hover:underline hover:text-gray-300">Privacy Policy</a>
+                      </li>
+                      <li>
+                          <a href="#" class="hover:underline hover:text-gray-300">Terms &amp; Conditions</a>
                       </li>
                   </ul>
               </div>
