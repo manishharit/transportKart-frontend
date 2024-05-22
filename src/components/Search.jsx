@@ -1,6 +1,7 @@
 import {useEffect, useState } from 'react';
 import axios from 'axios';
 import ReactSearchBox from "react-search-box";
+import fromToCityData from '../fromToCityData.json'
 
 
 
@@ -186,6 +187,7 @@ export const Search = ({ baseUrl , onDataFetch }) => {
 
   useEffect(()=>{
     // look for disable
+    console.log("test")
     console.log(companyName)
     if(companyName !== "Company Name") {
        setDisabled(true)
@@ -195,8 +197,10 @@ export const Search = ({ baseUrl , onDataFetch }) => {
        setVehicleType("Vehicle Type")
       }
     if(serviceType === "PARTLOAD") { setDisabled1(true)}
-    if(serviceType === "WAREHOUSE") { setDisabled2(true)}
-  },[serviceType,toCity,fromCity,vehicleType,companyName,Search])
+    if (serviceType !== "PARTLOAD" ) {setDisabled1(false)}
+    if(serviceType === "WAREHOUSE") { setDisabled2(true)}  
+    if (serviceType !== "WAREHOUSE" ) {setDisabled2(false)}
+  },[serviceType,handleServiceType,toCity,fromCity,vehicleType,companyName,Search])
 
   const fetchData = async () => {
     try {
@@ -229,7 +233,7 @@ export const Search = ({ baseUrl , onDataFetch }) => {
     <div className='lg:w-40 lg:ml-10' style={{ pointerEvents: disabled?"none":"auto" }}>
     <ReactSearchBox
         placeholder={fromCity}
-        data={data}
+        data={fromToCityData}
         onSelect={handleFromCity}
         inputBorderColor='violet'
       />
@@ -240,7 +244,7 @@ export const Search = ({ baseUrl , onDataFetch }) => {
     <div className='lg:w-40 lg:ml-10' style={{ pointerEvents: disabled?"none": disabled2?"none":"auto" }}>
     <ReactSearchBox
         placeholder={toCity}
-        data={data}
+        data={fromToCityData}
         onSelect={handleToCity}
         inputBorderColor='violet'
       />
