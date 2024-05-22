@@ -1,0 +1,6530 @@
+[
+    {
+     "key": "Achalpur-Maharashtra",
+     "value": "Achalpur-Maharashtra"
+    },
+    {
+     "key": "Achhnera-Uttar Pradesh",
+     "value": "Achhnera-Uttar Pradesh"
+    },
+    {
+     "key": "Adalaj-Gujarat",
+     "value": "Adalaj-Gujarat"
+    },
+    {
+     "key": "Adilabad-Telangana",
+     "value": "Adilabad-Telangana"
+    },
+    {
+     "key": "Adityapur-Jharkhand",
+     "value": "Adityapur-Jharkhand"
+    },
+    {
+     "key": "Adoni-Andhra Pradesh",
+     "value": "Adoni-Andhra Pradesh"
+    },
+    {
+     "key": "Adoor-Kerala",
+     "value": "Adoor-Kerala"
+    },
+    {
+     "key": "Adra-West Bengal",
+     "value": "Adra-West Bengal"
+    },
+    {
+     "key": "Adyar-Karnataka",
+     "value": "Adyar-Karnataka"
+    },
+    {
+     "key": "Afzalpur-Karnataka",
+     "value": "Afzalpur-Karnataka"
+    },
+    {
+     "key": "Agar Malwa-Madhya Pradesh",
+     "value": "Agar Malwa-Madhya Pradesh"
+    },
+    {
+     "key": "Agartala-Tripura",
+     "value": "Agartala-Tripura"
+    },
+    {
+     "key": "Agartala -Tripura",
+     "value": "Agartala -Tripura"
+    },
+    {
+     "key": "Agra-Uttar Pradesh",
+     "value": "Agra-Uttar Pradesh"
+    },
+    {
+     "key": "Ahmed Nagar-Maharashtra",
+     "value": "Ahmed Nagar-Maharashtra"
+    },
+    {
+     "key": "Ahmedabad-Gujarat",
+     "value": "Ahmedabad-Gujarat"
+    },
+    {
+     "key": "Ahmedabad City-Gujarat",
+     "value": "Ahmedabad City-Gujarat"
+    },
+    {
+     "key": "Ahmednagar-Maharashtra",
+     "value": "Ahmednagar-Maharashtra"
+    },
+    {
+     "key": "Aizawal-Mizoram",
+     "value": "Aizawal-Mizoram"
+    },
+    {
+     "key": "Ajmer-Rajasthan",
+     "value": "Ajmer-Rajasthan"
+    },
+    {
+     "key": "Akola-Maharashtra",
+     "value": "Akola-Maharashtra"
+    },
+    {
+     "key": "Akot-Maharashtra",
+     "value": "Akot-Maharashtra"
+    },
+    {
+     "key": "Alappuzha-Kerala",
+     "value": "Alappuzha-Kerala"
+    },
+    {
+     "key": "Aligarh-Uttar Pradesh",
+     "value": "Aligarh-Uttar Pradesh"
+    },
+    {
+     "key": "Alipurdurban Agglomerationr-West Bengal",
+     "value": "Alipurdurban Agglomerationr-West Bengal"
+    },
+    {
+     "key": "Alirajpur-Madhya Pradesh",
+     "value": "Alirajpur-Madhya Pradesh"
+    },
+    {
+     "key": "Allahabad-Uttar Pradesh",
+     "value": "Allahabad-Uttar Pradesh"
+    },
+    {
+     "key": "Almora-Uttarakhand",
+     "value": "Almora-Uttarakhand"
+    },
+    {
+     "key": "Alwar-Rajasthan",
+     "value": "Alwar-Rajasthan"
+    },
+    {
+     "key": "Amalapuram-Andhra Pradesh",
+     "value": "Amalapuram-Andhra Pradesh"
+    },
+    {
+     "key": "Amalner-Maharashtra",
+     "value": "Amalner-Maharashtra"
+    },
+    {
+     "key": "Ambala-Haryana",
+     "value": "Ambala-Haryana"
+    },
+    {
+     "key": "Ambala City-Haryana",
+     "value": "Ambala City-Haryana"
+    },
+    {
+     "key": "Ambedkar Nagar-Uttar Pradesh",
+     "value": "Ambedkar Nagar-Uttar Pradesh"
+    },
+    {
+     "key": "Ambejogai-Maharashtra",
+     "value": "Ambejogai-Maharashtra"
+    },
+    {
+     "key": "Ambikapur-Chhattisgarh",
+     "value": "Ambikapur-Chhattisgarh"
+    },
+    {
+     "key": "Amethi-Uttar Pradesh",
+     "value": "Amethi-Uttar Pradesh"
+    },
+    {
+     "key": "Amlapuram-Andhra Pradesh",
+     "value": "Amlapuram-Andhra Pradesh"
+    },
+    {
+     "key": "Amravati-Maharashtra",
+     "value": "Amravati-Maharashtra"
+    },
+    {
+     "key": "Amreli-Gujarat",
+     "value": "Amreli-Gujarat"
+    },
+    {
+     "key": "Amritsar-Punjab",
+     "value": "Amritsar-Punjab"
+    },
+    {
+     "key": "Amroha-Uttar Pradesh",
+     "value": "Amroha-Uttar Pradesh"
+    },
+    {
+     "key": "Anakapalle-Andhra Pradesh",
+     "value": "Anakapalle-Andhra Pradesh"
+    },
+    {
+     "key": "Anand-Gujarat",
+     "value": "Anand-Gujarat"
+    },
+    {
+     "key": "Anantapur-Andhra Pradesh",
+     "value": "Anantapur-Andhra Pradesh"
+    },
+    {
+     "key": "Anantnag-Jammu and Kashmir",
+     "value": "Anantnag-Jammu and Kashmir"
+    },
+    {
+     "key": "Angul-Odisha",
+     "value": "Angul-Odisha"
+    },
+    {
+     "key": "Anjangaon-Maharashtra",
+     "value": "Anjangaon-Maharashtra"
+    },
+    {
+     "key": "Anjar-Gujarat",
+     "value": "Anjar-Gujarat"
+    },
+    {
+     "key": "Ankleshwar-Gujarat",
+     "value": "Ankleshwar-Gujarat"
+    },
+    {
+     "key": "Anuppur-Madhya Pradesh",
+     "value": "Anuppur-Madhya Pradesh"
+    },
+    {
+     "key": "Arakkonam-Tamil Nadu",
+     "value": "Arakkonam-Tamil Nadu"
+    },
+    {
+     "key": "Arambagh-West Bengal",
+     "value": "Arambagh-West Bengal"
+    },
+    {
+     "key": "Araria-Bihar",
+     "value": "Araria-Bihar"
+    },
+    {
+     "key": "Aravalli-Gujarat",
+     "value": "Aravalli-Gujarat"
+    },
+    {
+     "key": "Ariyalur-Tamil Nadu",
+     "value": "Ariyalur-Tamil Nadu"
+    },
+    {
+     "key": "Arrah-Bihar",
+     "value": "Arrah-Bihar"
+    },
+    {
+     "key": "Arsikere-Karnataka",
+     "value": "Arsikere-Karnataka"
+    },
+    {
+     "key": "Aruppukkottai-Tamil Nadu",
+     "value": "Aruppukkottai-Tamil Nadu"
+    },
+    {
+     "key": "Arvi-Maharashtra",
+     "value": "Arvi-Maharashtra"
+    },
+    {
+     "key": "Arwal-Bihar",
+     "value": "Arwal-Bihar"
+    },
+    {
+     "key": "Asansol-West Bengal",
+     "value": "Asansol-West Bengal"
+    },
+    {
+     "key": "Asarganj-Bihar",
+     "value": "Asarganj-Bihar"
+    },
+    {
+     "key": "Ashok Nagar-Madhya Pradesh",
+     "value": "Ashok Nagar-Madhya Pradesh"
+    },
+    {
+     "key": "Athani-Karnataka",
+     "value": "Athani-Karnataka"
+    },
+    {
+     "key": "Athni-Karnataka",
+     "value": "Athni-Karnataka"
+    },
+    {
+     "key": "Attingal-Kerala",
+     "value": "Attingal-Kerala"
+    },
+    {
+     "key": "Auraiya-Uttar Pradesh",
+     "value": "Auraiya-Uttar Pradesh"
+    },
+    {
+     "key": "Auranagabad-Bihar",
+     "value": "Auranagabad-Bihar"
+    },
+    {
+     "key": "Aurangabad-Bihar",
+     "value": "Aurangabad-Bihar"
+    },
+    {
+     "key": "Avanigadda-Andhra Pradesh",
+     "value": "Avanigadda-Andhra Pradesh"
+    },
+    {
+     "key": "Azamgarh-Uttar Pradesh",
+     "value": "Azamgarh-Uttar Pradesh"
+    },
+    {
+     "key": "Bagaha-Bihar",
+     "value": "Bagaha-Bihar"
+    },
+    {
+     "key": "Bagalkot-Karnataka",
+     "value": "Bagalkot-Karnataka"
+    },
+    {
+     "key": "Bageshwar-Uttarakhand",
+     "value": "Bageshwar-Uttarakhand"
+    },
+    {
+     "key": "Bagpat-Uttar Pradesh",
+     "value": "Bagpat-Uttar Pradesh"
+    },
+    {
+     "key": "Bahadurgarh-Haryana",
+     "value": "Bahadurgarh-Haryana"
+    },
+    {
+     "key": "Baharampur-West Bengal",
+     "value": "Baharampur-West Bengal"
+    },
+    {
+     "key": "Bahraich-Uttar Pradesh",
+     "value": "Bahraich-Uttar Pradesh"
+    },
+    {
+     "key": "Bailhongal-Karnataka",
+     "value": "Bailhongal-Karnataka"
+    },
+    {
+     "key": "Baksa-Assam",
+     "value": "Baksa-Assam"
+    },
+    {
+     "key": "Balaghat-Madhya Pradesh",
+     "value": "Balaghat-Madhya Pradesh"
+    },
+    {
+     "key": "Balangir-Odisha",
+     "value": "Balangir-Odisha"
+    },
+    {
+     "key": "Balasore-Odisha",
+     "value": "Balasore-Odisha"
+    },
+    {
+     "key": "Baleshwar Town-Odisha",
+     "value": "Baleshwar Town-Odisha"
+    },
+    {
+     "key": "Baleswar-Odisha",
+     "value": "Baleswar-Odisha"
+    },
+    {
+     "key": "Ballari-Karnataka",
+     "value": "Ballari-Karnataka"
+    },
+    {
+     "key": "Ballia-Uttar Pradesh",
+     "value": "Ballia-Uttar Pradesh"
+    },
+    {
+     "key": "Balod-Chattisgarh",
+     "value": "Balod-Chattisgarh"
+    },
+    {
+     "key": "Balod Bazer-Chattisgarh",
+     "value": "Balod Bazer-Chattisgarh"
+    },
+    {
+     "key": "Balrampur-Chattisgarh",
+     "value": "Balrampur-Chattisgarh"
+    },
+    {
+     "key": "Balurghat-West Bengal",
+     "value": "Balurghat-West Bengal"
+    },
+    {
+     "key": "Banaskantha-Gujarat",
+     "value": "Banaskantha-Gujarat"
+    },
+    {
+     "key": "Banda-Uttar Pradesh",
+     "value": "Banda-Uttar Pradesh"
+    },
+    {
+     "key": "Bandipur-Jammu and Kashmir",
+     "value": "Bandipur-Jammu and Kashmir"
+    },
+    {
+     "key": "Bangalore-Karnataka",
+     "value": "Bangalore-Karnataka"
+    },
+    {
+     "key": "Banka-Bihar",
+     "value": "Banka-Bihar"
+    },
+    {
+     "key": "Bankura-West Bengal",
+     "value": "Bankura-West Bengal"
+    },
+    {
+     "key": "Banswara-Rajasthan",
+     "value": "Banswara-Rajasthan"
+    },
+    {
+     "key": "Bapatla-Andhra Pradesh",
+     "value": "Bapatla-Andhra Pradesh"
+    },
+    {
+     "key": "Barabanki-Uttar Pradesh",
+     "value": "Barabanki-Uttar Pradesh"
+    },
+    {
+     "key": "Baramula-Jammu and Kashmir",
+     "value": "Baramula-Jammu and Kashmir"
+    },
+    {
+     "key": "Baramulla-Jammu and Kashmir",
+     "value": "Baramulla-Jammu and Kashmir"
+    },
+    {
+     "key": "Baran-Rajasthan",
+     "value": "Baran-Rajasthan"
+    },
+    {
+     "key": "Barbil-Odisha",
+     "value": "Barbil-Odisha"
+    },
+    {
+     "key": "Bardhaman-West Bengal",
+     "value": "Bardhaman-West Bengal"
+    },
+    {
+     "key": "Bareilly-Uttar Pradesh",
+     "value": "Bareilly-Uttar Pradesh"
+    },
+    {
+     "key": "Bargarh-Odisha",
+     "value": "Bargarh-Odisha"
+    },
+    {
+     "key": "Barh-Bihar",
+     "value": "Barh-Bihar"
+    },
+    {
+     "key": "Baripada Town-Odisha",
+     "value": "Baripada Town-Odisha"
+    },
+    {
+     "key": "Barmer-Rajasthan",
+     "value": "Barmer-Rajasthan"
+    },
+    {
+     "key": "Barnala-Punjab",
+     "value": "Barnala-Punjab"
+    },
+    {
+     "key": "Barpeta-Assam",
+     "value": "Barpeta-Assam"
+    },
+    {
+     "key": "Barwani-Madhya Pradesh",
+     "value": "Barwani-Madhya Pradesh"
+    },
+    {
+     "key": "Bastar-Chattisgarh",
+     "value": "Bastar-Chattisgarh"
+    },
+    {
+     "key": "Basti-Uttar Pradesh",
+     "value": "Basti-Uttar Pradesh"
+    },
+    {
+     "key": "Batala-Punjab",
+     "value": "Batala-Punjab"
+    },
+    {
+     "key": "Bathinda-Punjab",
+     "value": "Bathinda-Punjab"
+    },
+    {
+     "key": "Beed-Maharashtra",
+     "value": "Beed-Maharashtra"
+    },
+    {
+     "key": "Begusarai-Bihar",
+     "value": "Begusarai-Bihar"
+    },
+    {
+     "key": "Belagavi-Karnataka",
+     "value": "Belagavi-Karnataka"
+    },
+    {
+     "key": "Belgaum-Karnataka",
+     "value": "Belgaum-Karnataka"
+    },
+    {
+     "key": "Bellampalle-Telangana",
+     "value": "Bellampalle-Telangana"
+    },
+    {
+     "key": "Bellary-Karnataka",
+     "value": "Bellary-Karnataka"
+    },
+    {
+     "key": "Belonia-Tripura",
+     "value": "Belonia-Tripura"
+    },
+    {
+     "key": "Bemetara-Chattisgarh",
+     "value": "Bemetara-Chattisgarh"
+    },
+    {
+     "key": "Bengaluru-Karnataka",
+     "value": "Bengaluru-Karnataka"
+    },
+    {
+     "key": "Bengaluru Rural-Karnataka",
+     "value": "Bengaluru Rural-Karnataka"
+    },
+    {
+     "key": "Bettiah-Bihar",
+     "value": "Bettiah-Bihar"
+    },
+    {
+     "key": "Betul-Madhya Pradesh",
+     "value": "Betul-Madhya Pradesh"
+    },
+    {
+     "key": "Bhaburban Agglomeration-Bihar",
+     "value": "Bhaburban Agglomeration-Bihar"
+    },
+    {
+     "key": "Bhadrachalam-Andhra Pradesh",
+     "value": "Bhadrachalam-Andhra Pradesh"
+    },
+    {
+     "key": "Bhadrak-Odisha",
+     "value": "Bhadrak-Odisha"
+    },
+    {
+     "key": "Bhagalpur-Bihar",
+     "value": "Bhagalpur-Bihar"
+    },
+    {
+     "key": "Bhainsa-Telangana",
+     "value": "Bhainsa-Telangana"
+    },
+    {
+     "key": "Bhandara-Maharashtra",
+     "value": "Bhandara-Maharashtra"
+    },
+    {
+     "key": "Bharatpur-Rajasthan",
+     "value": "Bharatpur-Rajasthan"
+    },
+    {
+     "key": "Bharuch-Gujarat",
+     "value": "Bharuch-Gujarat"
+    },
+    {
+     "key": "Bhatapara-Chhattisgarh",
+     "value": "Bhatapara-Chhattisgarh"
+    },
+    {
+     "key": "Bhavnagar-Gujarat",
+     "value": "Bhavnagar-Gujarat"
+    },
+    {
+     "key": "Bhawanipatna-Odisha",
+     "value": "Bhawanipatna-Odisha"
+    },
+    {
+     "key": "Bheemunipatnam-Andhra Pradesh",
+     "value": "Bheemunipatnam-Andhra Pradesh"
+    },
+    {
+     "key": "Bhilai Nagar-Chhattisgarh",
+     "value": "Bhilai Nagar-Chhattisgarh"
+    },
+    {
+     "key": "Bhilwara-Rajasthan",
+     "value": "Bhilwara-Rajasthan"
+    },
+    {
+     "key": "Bhimavaram-Andhra Pradesh",
+     "value": "Bhimavaram-Andhra Pradesh"
+    },
+    {
+     "key": "Bhind-Madhya Pradesh",
+     "value": "Bhind-Madhya Pradesh"
+    },
+    {
+     "key": "Bhiwandi-Maharashtra",
+     "value": "Bhiwandi-Maharashtra"
+    },
+    {
+     "key": "Bhiwani-Haryana",
+     "value": "Bhiwani-Haryana"
+    },
+    {
+     "key": "Bhojpur-Bihar",
+     "value": "Bhojpur-Bihar"
+    },
+    {
+     "key": "Bhongir-Andhra Pradesh",
+     "value": "Bhongir-Andhra Pradesh"
+    },
+    {
+     "key": "Bhopal-Madhya Pradesh",
+     "value": "Bhopal-Madhya Pradesh"
+    },
+    {
+     "key": "Bhubaneswar-Odisha",
+     "value": "Bhubaneswar-Odisha"
+    },
+    {
+     "key": "Bhuj-Gujarat",
+     "value": "Bhuj-Gujarat"
+    },
+    {
+     "key": "Bhupalpalli-Telangana",
+     "value": "Bhupalpalli-Telangana"
+    },
+    {
+     "key": "Bhusawal-Maharashtra",
+     "value": "Bhusawal-Maharashtra"
+    },
+    {
+     "key": "Bidar-Karnataka",
+     "value": "Bidar-Karnataka"
+    },
+    {
+     "key": "Bijapur-Karnataka",
+     "value": "Bijapur-Karnataka"
+    },
+    {
+     "key": "Bijapur(Cgh)-Chattisgarh",
+     "value": "Bijapur(Cgh)-Chattisgarh"
+    },
+    {
+     "key": "Bijapur(Kar)-Karnataka",
+     "value": "Bijapur(Kar)-Karnataka"
+    },
+    {
+     "key": "Bijnor-Uttar Pradesh",
+     "value": "Bijnor-Uttar Pradesh"
+    },
+    {
+     "key": "Bikaner-Rajasthan",
+     "value": "Bikaner-Rajasthan"
+    },
+    {
+     "key": "Bilaspur-Chattisgarh",
+     "value": "Bilaspur-Chattisgarh"
+    },
+    {
+     "key": "Bilaspur (Hp)-Himachal Pradesh",
+     "value": "Bilaspur (Hp)-Himachal Pradesh"
+    },
+    {
+     "key": "Bilaspur Hp-Himachal Pradesh",
+     "value": "Bilaspur Hp-Himachal Pradesh"
+    },
+    {
+     "key": "Bilaspurcgh-Chattisgarh",
+     "value": "Bilaspurcgh-Chattisgarh"
+    },
+    {
+     "key": "Birbhum-West Bengal",
+     "value": "Birbhum-West Bengal"
+    },
+    {
+     "key": "Bishnupur-Manipur",
+     "value": "Bishnupur-Manipur"
+    },
+    {
+     "key": "Bobbili-Andhra Pradesh",
+     "value": "Bobbili-Andhra Pradesh"
+    },
+    {
+     "key": "Bodhan-Telangana",
+     "value": "Bodhan-Telangana"
+    },
+    {
+     "key": "Bokaro-Jharkhand",
+     "value": "Bokaro-Jharkhand"
+    },
+    {
+     "key": "Bokaro Steel City-Jharkhand",
+     "value": "Bokaro Steel City-Jharkhand"
+    },
+    {
+     "key": "Bongaigaon-Assam",
+     "value": "Bongaigaon-Assam"
+    },
+    {
+     "key": "Bongaigaon City-Assam",
+     "value": "Bongaigaon City-Assam"
+    },
+    {
+     "key": "Botab-Gujarat",
+     "value": "Botab-Gujarat"
+    },
+    {
+     "key": "Boudh-Odisha",
+     "value": "Boudh-Odisha"
+    },
+    {
+     "key": "Brahmapur-Odisha",
+     "value": "Brahmapur-Odisha"
+    },
+    {
+     "key": "Budaun-Uttar Pradesh",
+     "value": "Budaun-Uttar Pradesh"
+    },
+    {
+     "key": "Budgam-Jammu and Kashmir",
+     "value": "Budgam-Jammu and Kashmir"
+    },
+    {
+     "key": "Bulandshahr-Uttar Pradesh",
+     "value": "Bulandshahr-Uttar Pradesh"
+    },
+    {
+     "key": "Buldhana-Maharashtra",
+     "value": "Buldhana-Maharashtra"
+    },
+    {
+     "key": "Bundi-Rajasthan",
+     "value": "Bundi-Rajasthan"
+    },
+    {
+     "key": "Burhanpur-Madhya Pradesh",
+     "value": "Burhanpur-Madhya Pradesh"
+    },
+    {
+     "key": "Buxar-Bihar",
+     "value": "Buxar-Bihar"
+    },
+    {
+     "key": "Byasanagar-Odisha",
+     "value": "Byasanagar-Odisha"
+    },
+    {
+     "key": "Cachar-Assam",
+     "value": "Cachar-Assam"
+    },
+    {
+     "key": "Central Delhi-Delhi",
+     "value": "Central Delhi-Delhi"
+    },
+    {
+     "key": "Chaibasa-Jharkhand",
+     "value": "Chaibasa-Jharkhand"
+    },
+    {
+     "key": "Chalakudy-Kerala",
+     "value": "Chalakudy-Kerala"
+    },
+    {
+     "key": "Chamarajanagar-Karnataka",
+     "value": "Chamarajanagar-Karnataka"
+    },
+    {
+     "key": "Chamba-Himachal Pradesh",
+     "value": "Chamba-Himachal Pradesh"
+    },
+    {
+     "key": "Chamoli-Uttarakhand",
+     "value": "Chamoli-Uttarakhand"
+    },
+    {
+     "key": "Champawat-Uttarakhand",
+     "value": "Champawat-Uttarakhand"
+    },
+    {
+     "key": "Champhai-Mizoram",
+     "value": "Champhai-Mizoram"
+    },
+    {
+     "key": "Chamrajnagar-Karnataka",
+     "value": "Chamrajnagar-Karnataka"
+    },
+    {
+     "key": "Chandauli-Uttar Pradesh",
+     "value": "Chandauli-Uttar Pradesh"
+    },
+    {
+     "key": "Chandausi-Uttar Pradesh",
+     "value": "Chandausi-Uttar Pradesh"
+    },
+    {
+     "key": "Chandel-Manipur",
+     "value": "Chandel-Manipur"
+    },
+    {
+     "key": "Chandigarh-Chandigarh",
+     "value": "Chandigarh-Chandigarh"
+    },
+    {
+     "key": "Chandighar-Chandigarh",
+     "value": "Chandighar-Chandigarh"
+    },
+    {
+     "key": "Chandrapur-Maharashtra",
+     "value": "Chandrapur-Maharashtra"
+    },
+    {
+     "key": "Changanassery-Kerala",
+     "value": "Changanassery-Kerala"
+    },
+    {
+     "key": "Changlang-Arunachal Pradesh",
+     "value": "Changlang-Arunachal Pradesh"
+    },
+    {
+     "key": "Charkhi Dadri-Haryana",
+     "value": "Charkhi Dadri-Haryana"
+    },
+    {
+     "key": "Chatra-Jharkhand",
+     "value": "Chatra-Jharkhand"
+    },
+    {
+     "key": "Chennai-Tamil Nadu",
+     "value": "Chennai-Tamil Nadu"
+    },
+    {
+     "key": "Cherthala-Kerala",
+     "value": "Cherthala-Kerala"
+    },
+    {
+     "key": "Chhapra-Bihar",
+     "value": "Chhapra-Bihar"
+    },
+    {
+     "key": "Chhatarpur-Madhya Pradesh",
+     "value": "Chhatarpur-Madhya Pradesh"
+    },
+    {
+     "key": "Chhindwara-Madhya Pradesh",
+     "value": "Chhindwara-Madhya Pradesh"
+    },
+    {
+     "key": "Chhota Udepur-Gujarat",
+     "value": "Chhota Udepur-Gujarat"
+    },
+    {
+     "key": "Chhotaudepur-Gujarat",
+     "value": "Chhotaudepur-Gujarat"
+    },
+    {
+     "key": "Chickmagalur-Karnataka",
+     "value": "Chickmagalur-Karnataka"
+    },
+    {
+     "key": "Chikkaballapur-Karnataka",
+     "value": "Chikkaballapur-Karnataka"
+    },
+    {
+     "key": "Chikkamagaluru-Karnataka",
+     "value": "Chikkamagaluru-Karnataka"
+    },
+    {
+     "key": "Chilakaluripet-Andhra Pradesh",
+     "value": "Chilakaluripet-Andhra Pradesh"
+    },
+    {
+     "key": "Chirala-Andhra Pradesh",
+     "value": "Chirala-Andhra Pradesh"
+    },
+    {
+     "key": "Chirkunda-Jharkhand",
+     "value": "Chirkunda-Jharkhand"
+    },
+    {
+     "key": "Chirmiri-Chhattisgarh",
+     "value": "Chirmiri-Chhattisgarh"
+    },
+    {
+     "key": "Chitradurga-Karnataka",
+     "value": "Chitradurga-Karnataka"
+    },
+    {
+     "key": "Chitrakoot-Uttar Pradesh",
+     "value": "Chitrakoot-Uttar Pradesh"
+    },
+    {
+     "key": "Chittoor-Andhra Pradesh",
+     "value": "Chittoor-Andhra Pradesh"
+    },
+    {
+     "key": "Chittorgarh-Rajasthan",
+     "value": "Chittorgarh-Rajasthan"
+    },
+    {
+     "key": "Chittur-Thathamangalam-Kerala",
+     "value": "Chittur-Thathamangalam-Kerala"
+    },
+    {
+     "key": "Churachandpur-Manipur",
+     "value": "Churachandpur-Manipur"
+    },
+    {
+     "key": "Churu-Rajasthan",
+     "value": "Churu-Rajasthan"
+    },
+    {
+     "key": "City Name-State Name",
+     "value": "City Name-State Name"
+    },
+    {
+     "key": "City Name-StateName",
+     "value": "City Name-StateName"
+    },
+    {
+     "key": "Coimbatore-Tamil Nadu",
+     "value": "Coimbatore-Tamil Nadu"
+    },
+    {
+     "key": "Cooch Behar-West Bengal",
+     "value": "Cooch Behar-West Bengal"
+    },
+    {
+     "key": "Cuddalore-Tamil Nadu",
+     "value": "Cuddalore-Tamil Nadu"
+    },
+    {
+     "key": "Cuttack-Odisha",
+     "value": "Cuttack-Odisha"
+    },
+    {
+     "key": "Dadra  Nagar Haveli-Dadra and Nagar Hav.",
+     "value": "Dadra  Nagar Haveli-Dadra and Nagar Hav."
+    },
+    {
+     "key": "Dahod-Gujarat",
+     "value": "Dahod-Gujarat"
+    },
+    {
+     "key": "Dakshina Kannada-Karnataka",
+     "value": "Dakshina Kannada-Karnataka"
+    },
+    {
+     "key": "Dalli-Rajhara-Chhattisgarh",
+     "value": "Dalli-Rajhara-Chhattisgarh"
+    },
+    {
+     "key": "Daman-Daman and Diu",
+     "value": "Daman-Daman and Diu"
+    },
+    {
+     "key": "Damoh-Madhya Pradesh",
+     "value": "Damoh-Madhya Pradesh"
+    },
+    {
+     "key": "Dangs-Gujarat",
+     "value": "Dangs-Gujarat"
+    },
+    {
+     "key": "Dantewada-Chattisgarh",
+     "value": "Dantewada-Chattisgarh"
+    },
+    {
+     "key": "Darbhanga-Bihar",
+     "value": "Darbhanga-Bihar"
+    },
+    {
+     "key": "Darjeeling-West Bengal",
+     "value": "Darjeeling-West Bengal"
+    },
+    {
+     "key": "Darjiling-West Bengal",
+     "value": "Darjiling-West Bengal"
+    },
+    {
+     "key": "Darrang-Assam",
+     "value": "Darrang-Assam"
+    },
+    {
+     "key": "Datia-Madhya Pradesh",
+     "value": "Datia-Madhya Pradesh"
+    },
+    {
+     "key": "Dausa-Rajasthan",
+     "value": "Dausa-Rajasthan"
+    },
+    {
+     "key": "Davanagere-Karnataka",
+     "value": "Davanagere-Karnataka"
+    },
+    {
+     "key": "Davangere-Karnataka",
+     "value": "Davangere-Karnataka"
+    },
+    {
+     "key": "Debagarh-Odisha",
+     "value": "Debagarh-Odisha"
+    },
+    {
+     "key": "Deesa-Gujarat",
+     "value": "Deesa-Gujarat"
+    },
+    {
+     "key": "Dehradun-Uttarakhand",
+     "value": "Dehradun-Uttarakhand"
+    },
+    {
+     "key": "Dehri-On-Sone-Bihar",
+     "value": "Dehri-On-Sone-Bihar"
+    },
+    {
+     "key": "Delhi-Delhi",
+     "value": "Delhi-Delhi"
+    },
+    {
+     "key": "Deoghar-Bihar",
+     "value": "Deoghar-Bihar"
+    },
+    {
+     "key": "Deoria-Uttar Pradesh",
+     "value": "Deoria-Uttar Pradesh"
+    },
+    {
+     "key": "Devbhoomi Dwerka-Gujarat",
+     "value": "Devbhoomi Dwerka-Gujarat"
+    },
+    {
+     "key": "Dewas-Madhya Pradesh",
+     "value": "Dewas-Madhya Pradesh"
+    },
+    {
+     "key": "Dhalai-Tripura",
+     "value": "Dhalai-Tripura"
+    },
+    {
+     "key": "Dhamtari-Chattisgarh",
+     "value": "Dhamtari-Chattisgarh"
+    },
+    {
+     "key": "Dhanbad-Jharkhand",
+     "value": "Dhanbad-Jharkhand"
+    },
+    {
+     "key": "Dhar-Madhya Pradesh",
+     "value": "Dhar-Madhya Pradesh"
+    },
+    {
+     "key": "Dharmanagar-Tripura",
+     "value": "Dharmanagar-Tripura"
+    },
+    {
+     "key": "Dharmapuri-Tamil Nadu",
+     "value": "Dharmapuri-Tamil Nadu"
+    },
+    {
+     "key": "Dharmavaram-Andhra Pradesh",
+     "value": "Dharmavaram-Andhra Pradesh"
+    },
+    {
+     "key": "Dharwad-Karnataka",
+     "value": "Dharwad-Karnataka"
+    },
+    {
+     "key": "Dhemaji-Assam",
+     "value": "Dhemaji-Assam"
+    },
+    {
+     "key": "Dhenkanal-Odisha",
+     "value": "Dhenkanal-Odisha"
+    },
+    {
+     "key": "Dholpur-Rajasthan",
+     "value": "Dholpur-Rajasthan"
+    },
+    {
+     "key": "Dhoraji-Gujarat",
+     "value": "Dhoraji-Gujarat"
+    },
+    {
+     "key": "Dhubri-Assam",
+     "value": "Dhubri-Assam"
+    },
+    {
+     "key": "Dhule-Maharashtra",
+     "value": "Dhule-Maharashtra"
+    },
+    {
+     "key": "Dhuri-Punjab",
+     "value": "Dhuri-Punjab"
+    },
+    {
+     "key": "Dibang Valley-Arunachal Pradesh",
+     "value": "Dibang Valley-Arunachal Pradesh"
+    },
+    {
+     "key": "Dibrugarh-Assam",
+     "value": "Dibrugarh-Assam"
+    },
+    {
+     "key": "Dima Hasso - North Cachar Hill-Assam",
+     "value": "Dima Hasso - North Cachar Hill-Assam"
+    },
+    {
+     "key": "Dimapur-Nagaland",
+     "value": "Dimapur-Nagaland"
+    },
+    {
+     "key": "Dindigul-Tamil Nadu",
+     "value": "Dindigul-Tamil Nadu"
+    },
+    {
+     "key": "Dindori-Madhya Pradesh",
+     "value": "Dindori-Madhya Pradesh"
+    },
+    {
+     "key": "Diphu-Assam",
+     "value": "Diphu-Assam"
+    },
+    {
+     "key": "Diu-Daman and Diu",
+     "value": "Diu-Daman and Diu"
+    },
+    {
+     "key": "Doda-Jammu and Kashmir",
+     "value": "Doda-Jammu and Kashmir"
+    },
+    {
+     "key": "Dumka-Jharkhand",
+     "value": "Dumka-Jharkhand"
+    },
+    {
+     "key": "Dumraon-Bihar",
+     "value": "Dumraon-Bihar"
+    },
+    {
+     "key": "Dungarpur-Rajasthan",
+     "value": "Dungarpur-Rajasthan"
+    },
+    {
+     "key": "Durg-Chattisgarh",
+     "value": "Durg-Chattisgarh"
+    },
+    {
+     "key": "East Champaran-Bihar",
+     "value": "East Champaran-Bihar"
+    },
+    {
+     "key": "East Delhi-Delhi",
+     "value": "East Delhi-Delhi"
+    },
+    {
+     "key": "East Garo Hills-Megalaya",
+     "value": "East Garo Hills-Megalaya"
+    },
+    {
+     "key": "East Godavari-Andhra Pradesh",
+     "value": "East Godavari-Andhra Pradesh"
+    },
+    {
+     "key": "East Jaintia Hills-Megalaya",
+     "value": "East Jaintia Hills-Megalaya"
+    },
+    {
+     "key": "East Kameng-Arunachal Pradesh",
+     "value": "East Kameng-Arunachal Pradesh"
+    },
+    {
+     "key": "East Khasi Hills-Megalaya",
+     "value": "East Khasi Hills-Megalaya"
+    },
+    {
+     "key": "East Midnapore-West Bengal",
+     "value": "East Midnapore-West Bengal"
+    },
+    {
+     "key": "East Siang-Arunachal Pradesh",
+     "value": "East Siang-Arunachal Pradesh"
+    },
+    {
+     "key": "East Sikkim-Sikkim",
+     "value": "East Sikkim-Sikkim"
+    },
+    {
+     "key": "East Singhbhum-Jharkhand",
+     "value": "East Singhbhum-Jharkhand"
+    },
+    {
+     "key": "Eluru-Andhra Pradesh",
+     "value": "Eluru-Andhra Pradesh"
+    },
+    {
+     "key": "English Bazar-West Bengal",
+     "value": "English Bazar-West Bengal"
+    },
+    {
+     "key": "Ernakulam-Kerala",
+     "value": "Ernakulam-Kerala"
+    },
+    {
+     "key": "Erode-Tamil Nadu",
+     "value": "Erode-Tamil Nadu"
+    },
+    {
+     "key": "Etah-Uttar Pradesh",
+     "value": "Etah-Uttar Pradesh"
+    },
+    {
+     "key": "Etawah-Uttar Pradesh",
+     "value": "Etawah-Uttar Pradesh"
+    },
+    {
+     "key": "Faizabad-Uttar Pradesh",
+     "value": "Faizabad-Uttar Pradesh"
+    },
+    {
+     "key": "Faridabad-Haryana",
+     "value": "Faridabad-Haryana"
+    },
+    {
+     "key": "Faridkot-Punjab",
+     "value": "Faridkot-Punjab"
+    },
+    {
+     "key": "Farooqnagar-Telangana",
+     "value": "Farooqnagar-Telangana"
+    },
+    {
+     "key": "Farrukhabad-Uttar Pradesh",
+     "value": "Farrukhabad-Uttar Pradesh"
+    },
+    {
+     "key": "Fatehabad-Haryana",
+     "value": "Fatehabad-Haryana"
+    },
+    {
+     "key": "Fatehgarh Sahib-Punjab",
+     "value": "Fatehgarh Sahib-Punjab"
+    },
+    {
+     "key": "Fatehpur-Uttar Pradesh",
+     "value": "Fatehpur-Uttar Pradesh"
+    },
+    {
+     "key": "Fatehpur Sikri-Uttar Pradesh",
+     "value": "Fatehpur Sikri-Uttar Pradesh"
+    },
+    {
+     "key": "Fazilka-Punjab",
+     "value": "Fazilka-Punjab"
+    },
+    {
+     "key": "Ferozepur-Punjab",
+     "value": "Ferozepur-Punjab"
+    },
+    {
+     "key": "Firozabad-Uttar Pradesh",
+     "value": "Firozabad-Uttar Pradesh"
+    },
+    {
+     "key": "Firozpur-Punjab",
+     "value": "Firozpur-Punjab"
+    },
+    {
+     "key": "Firozpur Cantt.-Punjab",
+     "value": "Firozpur Cantt.-Punjab"
+    },
+    {
+     "key": "Forbesganj-Bihar",
+     "value": "Forbesganj-Bihar"
+    },
+    {
+     "key": "Gadag-Karnataka",
+     "value": "Gadag-Karnataka"
+    },
+    {
+     "key": "Gadchiroli-Maharashtra",
+     "value": "Gadchiroli-Maharashtra"
+    },
+    {
+     "key": "Gadwal-Telangana",
+     "value": "Gadwal-Telangana"
+    },
+    {
+     "key": "Gajapati-Odisha",
+     "value": "Gajapati-Odisha"
+    },
+    {
+     "key": "Ganderbal-Jammu and Kashmir",
+     "value": "Ganderbal-Jammu and Kashmir"
+    },
+    {
+     "key": "Gandhi Nagar-Gujarat",
+     "value": "Gandhi Nagar-Gujarat"
+    },
+    {
+     "key": "Gandhinagar-Gujarat",
+     "value": "Gandhinagar-Gujarat"
+    },
+    {
+     "key": "Gangarampur-West Bengal",
+     "value": "Gangarampur-West Bengal"
+    },
+    {
+     "key": "Ganjam-Odisha",
+     "value": "Ganjam-Odisha"
+    },
+    {
+     "key": "Ganjbasoda-Madhya Pradesh",
+     "value": "Ganjbasoda-Madhya Pradesh"
+    },
+    {
+     "key": "Garhwa-Jharkhand",
+     "value": "Garhwa-Jharkhand"
+    },
+    {
+     "key": "Gariaband-Chattisgarh",
+     "value": "Gariaband-Chattisgarh"
+    },
+    {
+     "key": "Gautam Buddha Nagar-Uttar Pradesh",
+     "value": "Gautam Buddha Nagar-Uttar Pradesh"
+    },
+    {
+     "key": "Gaya-Bihar",
+     "value": "Gaya-Bihar"
+    },
+    {
+     "key": "Ghaziabad-Uttar Pradesh",
+     "value": "Ghaziabad-Uttar Pradesh"
+    },
+    {
+     "key": "Ghazipur-Uttar Pradesh",
+     "value": "Ghazipur-Uttar Pradesh"
+    },
+    {
+     "key": "Gir Somnath-Gujarat",
+     "value": "Gir Somnath-Gujarat"
+    },
+    {
+     "key": "Giridh-Jharkhand",
+     "value": "Giridh-Jharkhand"
+    },
+    {
+     "key": "Giridih-Jharkhand",
+     "value": "Giridih-Jharkhand"
+    },
+    {
+     "key": "Goalpara-Assam",
+     "value": "Goalpara-Assam"
+    },
+    {
+     "key": "Gobichettipalayam-Tamil Nadu",
+     "value": "Gobichettipalayam-Tamil Nadu"
+    },
+    {
+     "key": "Gobindgarh-Punjab",
+     "value": "Gobindgarh-Punjab"
+    },
+    {
+     "key": "Godda-Jharkhand",
+     "value": "Godda-Jharkhand"
+    },
+    {
+     "key": "Godhra-Gujarat",
+     "value": "Godhra-Gujarat"
+    },
+    {
+     "key": "Gohana-Haryana",
+     "value": "Gohana-Haryana"
+    },
+    {
+     "key": "Gokak-Karnataka",
+     "value": "Gokak-Karnataka"
+    },
+    {
+     "key": "Golaghat-Assam",
+     "value": "Golaghat-Assam"
+    },
+    {
+     "key": "Gomati-Tripura",
+     "value": "Gomati-Tripura"
+    },
+    {
+     "key": "Gomti-Tripura",
+     "value": "Gomti-Tripura"
+    },
+    {
+     "key": "Gonda-Uttar Pradesh",
+     "value": "Gonda-Uttar Pradesh"
+    },
+    {
+     "key": "Gondia-Maharashtra",
+     "value": "Gondia-Maharashtra"
+    },
+    {
+     "key": "Gooty-Andhra Pradesh",
+     "value": "Gooty-Andhra Pradesh"
+    },
+    {
+     "key": "Gopalganj-Bihar",
+     "value": "Gopalganj-Bihar"
+    },
+    {
+     "key": "Gorakhpur-Uttar Pradesh",
+     "value": "Gorakhpur-Uttar Pradesh"
+    },
+    {
+     "key": "Gudivada-Andhra Pradesh",
+     "value": "Gudivada-Andhra Pradesh"
+    },
+    {
+     "key": "Gudur-Andhra Pradesh",
+     "value": "Gudur-Andhra Pradesh"
+    },
+    {
+     "key": "Gulbarga-Karnataka",
+     "value": "Gulbarga-Karnataka"
+    },
+    {
+     "key": "Gumia-Jharkhand",
+     "value": "Gumia-Jharkhand"
+    },
+    {
+     "key": "Gumla-Jharkhand",
+     "value": "Gumla-Jharkhand"
+    },
+    {
+     "key": "Guna-Madhya Pradesh",
+     "value": "Guna-Madhya Pradesh"
+    },
+    {
+     "key": "Guntakal-Andhra Pradesh",
+     "value": "Guntakal-Andhra Pradesh"
+    },
+    {
+     "key": "Guntur-Andhra Pradesh",
+     "value": "Guntur-Andhra Pradesh"
+    },
+    {
+     "key": "Gurdaspur-Punjab",
+     "value": "Gurdaspur-Punjab"
+    },
+    {
+     "key": "Gurgaon-Haryana",
+     "value": "Gurgaon-Haryana"
+    },
+    {
+     "key": "Guruvayoor-Kerala",
+     "value": "Guruvayoor-Kerala"
+    },
+    {
+     "key": "Guwahati-Assam",
+     "value": "Guwahati-Assam"
+    },
+    {
+     "key": "Gwalior-Madhya Pradesh",
+     "value": "Gwalior-Madhya Pradesh"
+    },
+    {
+     "key": "Habra-West Bengal",
+     "value": "Habra-West Bengal"
+    },
+    {
+     "key": "Hailakandi-Assam",
+     "value": "Hailakandi-Assam"
+    },
+    {
+     "key": "Hajipur-Bihar",
+     "value": "Hajipur-Bihar"
+    },
+    {
+     "key": "Haldwani-Cum-Kathgodam-Uttarakhand",
+     "value": "Haldwani-Cum-Kathgodam-Uttarakhand"
+    },
+    {
+     "key": "Hamirpur-Uttar Pradesh",
+     "value": "Hamirpur-Uttar Pradesh"
+    },
+    {
+     "key": "Hamirpur(Hp)-Himachal Pradesh",
+     "value": "Hamirpur(Hp)-Himachal Pradesh"
+    },
+    {
+     "key": "Hamirpurhp-Himachal Pradesh",
+     "value": "Hamirpurhp-Himachal Pradesh"
+    },
+    {
+     "key": "Hanagodu-Karnataka",
+     "value": "Hanagodu-Karnataka"
+    },
+    {
+     "key": "Hanamkonda-Telangana",
+     "value": "Hanamkonda-Telangana"
+    },
+    {
+     "key": "Hansi-Haryana",
+     "value": "Hansi-Haryana"
+    },
+    {
+     "key": "Hanumangarh-Rajasthan",
+     "value": "Hanumangarh-Rajasthan"
+    },
+    {
+     "key": "Hapur-Uttar Pradesh",
+     "value": "Hapur-Uttar Pradesh"
+    },
+    {
+     "key": "Harda-Madhya Pradesh",
+     "value": "Harda-Madhya Pradesh"
+    },
+    {
+     "key": "Hardoi-Uttar Pradesh",
+     "value": "Hardoi-Uttar Pradesh"
+    },
+    {
+     "key": "Hardoi -Uttar Pradesh",
+     "value": "Hardoi -Uttar Pradesh"
+    },
+    {
+     "key": "Hardwar-Uttarakhand",
+     "value": "Hardwar-Uttarakhand"
+    },
+    {
+     "key": "Haridwar-Uttar Pradesh",
+     "value": "Haridwar-Uttar Pradesh"
+    },
+    {
+     "key": "Hassan-Karnataka",
+     "value": "Hassan-Karnataka"
+    },
+    {
+     "key": "Hathras-Uttar Pradesh",
+     "value": "Hathras-Uttar Pradesh"
+    },
+    {
+     "key": "Haveri-Karnataka",
+     "value": "Haveri-Karnataka"
+    },
+    {
+     "key": "Hazaribag-Jharkhand",
+     "value": "Hazaribag-Jharkhand"
+    },
+    {
+     "key": "Hazaribagh-Jharkhand",
+     "value": "Hazaribagh-Jharkhand"
+    },
+    {
+     "key": "Hindupur-Andhra Pradesh",
+     "value": "Hindupur-Andhra Pradesh"
+    },
+    {
+     "key": "Hingoli-Maharashtra",
+     "value": "Hingoli-Maharashtra"
+    },
+    {
+     "key": "Hisar-Haryana",
+     "value": "Hisar-Haryana"
+    },
+    {
+     "key": "Hooghly-West Bengal",
+     "value": "Hooghly-West Bengal"
+    },
+    {
+     "key": "Hoshangabad-Madhya Pradesh",
+     "value": "Hoshangabad-Madhya Pradesh"
+    },
+    {
+     "key": "Hoshiarpur-Punjab",
+     "value": "Hoshiarpur-Punjab"
+    },
+    {
+     "key": "Howrah-West Bengal",
+     "value": "Howrah-West Bengal"
+    },
+    {
+     "key": "Hubballi-Karnataka",
+     "value": "Hubballi-Karnataka"
+    },
+    {
+     "key": "Hubli-Dharwad-Karnataka",
+     "value": "Hubli-Dharwad-Karnataka"
+    },
+    {
+     "key": "Hugli-Chinsurah-West Bengal",
+     "value": "Hugli-Chinsurah-West Bengal"
+    },
+    {
+     "key": "Hunsur-Karnataka",
+     "value": "Hunsur-Karnataka"
+    },
+    {
+     "key": "Hyderabad-Telangana",
+     "value": "Hyderabad-Telangana"
+    },
+    {
+     "key": "Ichalkaranji-Maharashtra",
+     "value": "Ichalkaranji-Maharashtra"
+    },
+    {
+     "key": "Idukki-Kerala",
+     "value": "Idukki-Kerala"
+    },
+    {
+     "key": "Imphal-Manipur",
+     "value": "Imphal-Manipur"
+    },
+    {
+     "key": "Imphal East-Manipur",
+     "value": "Imphal East-Manipur"
+    },
+    {
+     "key": "Imphal West-Manipur",
+     "value": "Imphal West-Manipur"
+    },
+    {
+     "key": "Indore-Madhya Pradesh",
+     "value": "Indore-Madhya Pradesh"
+    },
+    {
+     "key": "Itarsi-Madhya Pradesh",
+     "value": "Itarsi-Madhya Pradesh"
+    },
+    {
+     "key": "Jabalpur-Madhya Pradesh",
+     "value": "Jabalpur-Madhya Pradesh"
+    },
+    {
+     "key": "Jagatsinghapur-Odisha",
+     "value": "Jagatsinghapur-Odisha"
+    },
+    {
+     "key": "Jagdalpur-Chattisgarh",
+     "value": "Jagdalpur-Chattisgarh"
+    },
+    {
+     "key": "Jaggaiahpet-Andhra Pradesh",
+     "value": "Jaggaiahpet-Andhra Pradesh"
+    },
+    {
+     "key": "Jagraon-Punjab",
+     "value": "Jagraon-Punjab"
+    },
+    {
+     "key": "Jagtial-Telangana",
+     "value": "Jagtial-Telangana"
+    },
+    {
+     "key": "Jaintia Hills-Megalaya",
+     "value": "Jaintia Hills-Megalaya"
+    },
+    {
+     "key": "Jaipur-Rajasthan",
+     "value": "Jaipur-Rajasthan"
+    },
+    {
+     "key": "Jaisalmer-Rajasthan",
+     "value": "Jaisalmer-Rajasthan"
+    },
+    {
+     "key": "Jajapur-Odisha",
+     "value": "Jajapur-Odisha"
+    },
+    {
+     "key": "Jalandhar-Punjab",
+     "value": "Jalandhar-Punjab"
+    },
+    {
+     "key": "Jalandhar Cantt.-Punjab",
+     "value": "Jalandhar Cantt.-Punjab"
+    },
+    {
+     "key": "Jalaun-Uttar Pradesh",
+     "value": "Jalaun-Uttar Pradesh"
+    },
+    {
+     "key": "Jalgaon-Maharashtra",
+     "value": "Jalgaon-Maharashtra"
+    },
+    {
+     "key": "Jalgoan-Maharashtra",
+     "value": "Jalgoan-Maharashtra"
+    },
+    {
+     "key": "Jalna-Maharashtra",
+     "value": "Jalna-Maharashtra"
+    },
+    {
+     "key": "Jalor-Rajasthan",
+     "value": "Jalor-Rajasthan"
+    },
+    {
+     "key": "Jalpaiguri-West Bengal",
+     "value": "Jalpaiguri-West Bengal"
+    },
+    {
+     "key": "Jamalpur-Bihar",
+     "value": "Jamalpur-Bihar"
+    },
+    {
+     "key": "Jamkhandi-Karnataka",
+     "value": "Jamkhandi-Karnataka"
+    },
+    {
+     "key": "Jammalamadugu-Andhra Pradesh",
+     "value": "Jammalamadugu-Andhra Pradesh"
+    },
+    {
+     "key": "Jammu-Jammu and Kashmir",
+     "value": "Jammu-Jammu and Kashmir"
+    },
+    {
+     "key": "Jamnagar-Gujarat",
+     "value": "Jamnagar-Gujarat"
+    },
+    {
+     "key": "Jamshedpur-Jharkhand",
+     "value": "Jamshedpur-Jharkhand"
+    },
+    {
+     "key": "Jamtara-Jharkhand",
+     "value": "Jamtara-Jharkhand"
+    },
+    {
+     "key": "Jamui-Bihar",
+     "value": "Jamui-Bihar"
+    },
+    {
+     "key": "Jangaon-Telangana",
+     "value": "Jangaon-Telangana"
+    },
+    {
+     "key": "Janjgirchampa-Chattisgarh",
+     "value": "Janjgirchampa-Chattisgarh"
+    },
+    {
+     "key": "Janjgir-Champa-Chattisgarh",
+     "value": "Janjgir-Champa-Chattisgarh"
+    },
+    {
+     "key": "Jaspur-Chattisgarh",
+     "value": "Jaspur-Chattisgarh"
+    },
+    {
+     "key": "Jatani-Odisha",
+     "value": "Jatani-Odisha"
+    },
+    {
+     "key": "Jaunpur-Uttar Pradesh",
+     "value": "Jaunpur-Uttar Pradesh"
+    },
+    {
+     "key": "Jayashankar-Telangana",
+     "value": "Jayashankar-Telangana"
+    },
+    {
+     "key": "Jehanabad-Bihar",
+     "value": "Jehanabad-Bihar"
+    },
+    {
+     "key": "Jhabua-Madhya Pradesh",
+     "value": "Jhabua-Madhya Pradesh"
+    },
+    {
+     "key": "Jhajjar-Haryana",
+     "value": "Jhajjar-Haryana"
+    },
+    {
+     "key": "Jhalawar-Rajasthan",
+     "value": "Jhalawar-Rajasthan"
+    },
+    {
+     "key": "Jhansi-Uttar Pradesh",
+     "value": "Jhansi-Uttar Pradesh"
+    },
+    {
+     "key": "Jhargram-West Bengal",
+     "value": "Jhargram-West Bengal"
+    },
+    {
+     "key": "Jharsuguda-Odisha",
+     "value": "Jharsuguda-Odisha"
+    },
+    {
+     "key": "Jhujhunu-Rajasthan",
+     "value": "Jhujhunu-Rajasthan"
+    },
+    {
+     "key": "Jhumri Tilaiya-Jharkhand",
+     "value": "Jhumri Tilaiya-Jharkhand"
+    },
+    {
+     "key": "Jind-Haryana",
+     "value": "Jind-Haryana"
+    },
+    {
+     "key": "Jiribam-Manipur",
+     "value": "Jiribam-Manipur"
+    },
+    {
+     "key": "Jodhpur-Rajasthan",
+     "value": "Jodhpur-Rajasthan"
+    },
+    {
+     "key": "Joida-Karnataka",
+     "value": "Joida-Karnataka"
+    },
+    {
+     "key": "Jorhat-Assam",
+     "value": "Jorhat-Assam"
+    },
+    {
+     "key": "Junagadh-Gujarat",
+     "value": "Junagadh-Gujarat"
+    },
+    {
+     "key": "K.V.Rangareddy-Telangana",
+     "value": "K.V.Rangareddy-Telangana"
+    },
+    {
+     "key": "Kachchh-Gujarat",
+     "value": "Kachchh-Gujarat"
+    },
+    {
+     "key": "Kadapa-Andhra Pradesh",
+     "value": "Kadapa-Andhra Pradesh"
+    },
+    {
+     "key": "Kadi-Gujarat",
+     "value": "Kadi-Gujarat"
+    },
+    {
+     "key": "Kadiri-Andhra Pradesh",
+     "value": "Kadiri-Andhra Pradesh"
+    },
+    {
+     "key": "Kagaznagar-Telangana",
+     "value": "Kagaznagar-Telangana"
+    },
+    {
+     "key": "Kailasahar-Tripura",
+     "value": "Kailasahar-Tripura"
+    },
+    {
+     "key": "Kaimur Bhabua-Bihar",
+     "value": "Kaimur Bhabua-Bihar"
+    },
+    {
+     "key": "Kaithal-Haryana",
+     "value": "Kaithal-Haryana"
+    },
+    {
+     "key": "Kakinada-Andhra Pradesh",
+     "value": "Kakinada-Andhra Pradesh"
+    },
+    {
+     "key": "Kalaburagi-Karnataka",
+     "value": "Kalaburagi-Karnataka"
+    },
+    {
+     "key": "Kalahandi-Odisha",
+     "value": "Kalahandi-Odisha"
+    },
+    {
+     "key": "Kalghatgi-Karnataka",
+     "value": "Kalghatgi-Karnataka"
+    },
+    {
+     "key": "Kalimpong-West Bengal",
+     "value": "Kalimpong-West Bengal"
+    },
+    {
+     "key": "Kalpi-Uttar Pradesh",
+     "value": "Kalpi-Uttar Pradesh"
+    },
+    {
+     "key": "Kalyan-Dombivali-Maharashtra",
+     "value": "Kalyan-Dombivali-Maharashtra"
+    },
+    {
+     "key": "Kamareddy-Telangana",
+     "value": "Kamareddy-Telangana"
+    },
+    {
+     "key": "Kamrup-Assam",
+     "value": "Kamrup-Assam"
+    },
+    {
+     "key": "Kamrup Metropolitan-Assam",
+     "value": "Kamrup Metropolitan-Assam"
+    },
+    {
+     "key": "Kancheepuram-Tamil Nadu",
+     "value": "Kancheepuram-Tamil Nadu"
+    },
+    {
+     "key": "Kanchipuram-Tamil Nadu",
+     "value": "Kanchipuram-Tamil Nadu"
+    },
+    {
+     "key": "Kandhamal-Odisha",
+     "value": "Kandhamal-Odisha"
+    },
+    {
+     "key": "Kandukur-Andhra Pradesh",
+     "value": "Kandukur-Andhra Pradesh"
+    },
+    {
+     "key": "Kangra-Himachal Pradesh",
+     "value": "Kangra-Himachal Pradesh"
+    },
+    {
+     "key": "Kanhangad-Kerala",
+     "value": "Kanhangad-Kerala"
+    },
+    {
+     "key": "Kanker-Chattisgarh",
+     "value": "Kanker-Chattisgarh"
+    },
+    {
+     "key": "Kannauj-Uttar Pradesh",
+     "value": "Kannauj-Uttar Pradesh"
+    },
+    {
+     "key": "Kannur-Kerala",
+     "value": "Kannur-Kerala"
+    },
+    {
+     "key": "Kanpur-Uttar Pradesh",
+     "value": "Kanpur-Uttar Pradesh"
+    },
+    {
+     "key": "Kanpur Dehat-Uttar Pradesh",
+     "value": "Kanpur Dehat-Uttar Pradesh"
+    },
+    {
+     "key": "Kanpur Nagar-Uttar Pradesh",
+     "value": "Kanpur Nagar-Uttar Pradesh"
+    },
+    {
+     "key": "Kanshiram Nagar-Uttar Pradesh",
+     "value": "Kanshiram Nagar-Uttar Pradesh"
+    },
+    {
+     "key": "Kanyakumari-Tamil Nadu",
+     "value": "Kanyakumari-Tamil Nadu"
+    },
+    {
+     "key": "Kapadvanj-Gujarat",
+     "value": "Kapadvanj-Gujarat"
+    },
+    {
+     "key": "Kapurthala-Punjab",
+     "value": "Kapurthala-Punjab"
+    },
+    {
+     "key": "Karaikal-Tamil Nadu",
+     "value": "Karaikal-Tamil Nadu"
+    },
+    {
+     "key": "Karauli-Rajasthan",
+     "value": "Karauli-Rajasthan"
+    },
+    {
+     "key": "Karbi Anglong-Assam",
+     "value": "Karbi Anglong-Assam"
+    },
+    {
+     "key": "Kargil-Jammu and Kashmir",
+     "value": "Kargil-Jammu and Kashmir"
+    },
+    {
+     "key": "Karim Nagar-Andhra Pradesh",
+     "value": "Karim Nagar-Andhra Pradesh"
+    },
+    {
+     "key": "Karimganj-Assam",
+     "value": "Karimganj-Assam"
+    },
+    {
+     "key": "Karimnagar-Telangana",
+     "value": "Karimnagar-Telangana"
+    },
+    {
+     "key": "Karjat-Maharashtra",
+     "value": "Karjat-Maharashtra"
+    },
+    {
+     "key": "Karnal-Haryana",
+     "value": "Karnal-Haryana"
+    },
+    {
+     "key": "Karur-Tamil Nadu",
+     "value": "Karur-Tamil Nadu"
+    },
+    {
+     "key": "Karwar-Karnataka",
+     "value": "Karwar-Karnataka"
+    },
+    {
+     "key": "Kasaragod-Kerala",
+     "value": "Kasaragod-Kerala"
+    },
+    {
+     "key": "Kasargod-Kerala",
+     "value": "Kasargod-Kerala"
+    },
+    {
+     "key": "Kashipur-Uttarakhand",
+     "value": "Kashipur-Uttarakhand"
+    },
+    {
+     "key": "Kathua-Jammu and Kashmir",
+     "value": "Kathua-Jammu and Kashmir"
+    },
+    {
+     "key": "Kathurban Agglomeration-Jammu and Kashmir",
+     "value": "Kathurban Agglomeration-Jammu and Kashmir"
+    },
+    {
+     "key": "Katihar-Bihar",
+     "value": "Katihar-Bihar"
+    },
+    {
+     "key": "Katni-Madhya Pradesh",
+     "value": "Katni-Madhya Pradesh"
+    },
+    {
+     "key": "Kaushambi-Uttar Pradesh",
+     "value": "Kaushambi-Uttar Pradesh"
+    },
+    {
+     "key": "Kavali-Andhra Pradesh",
+     "value": "Kavali-Andhra Pradesh"
+    },
+    {
+     "key": "Kawardha-Chattisgarh",
+     "value": "Kawardha-Chattisgarh"
+    },
+    {
+     "key": "Kayamkulam-Kerala",
+     "value": "Kayamkulam-Kerala"
+    },
+    {
+     "key": "Kendrapara-Odisha",
+     "value": "Kendrapara-Odisha"
+    },
+    {
+     "key": "Kendujhar-Odisha",
+     "value": "Kendujhar-Odisha"
+    },
+    {
+     "key": "Keshod-Gujarat",
+     "value": "Keshod-Gujarat"
+    },
+    {
+     "key": "Khagaria-Bihar",
+     "value": "Khagaria-Bihar"
+    },
+    {
+     "key": "Khair-Uttar Pradesh",
+     "value": "Khair-Uttar Pradesh"
+    },
+    {
+     "key": "Khambhat-Gujarat",
+     "value": "Khambhat-Gujarat"
+    },
+    {
+     "key": "Khammam-Telangana",
+     "value": "Khammam-Telangana"
+    },
+    {
+     "key": "Khandwa-Madhya Pradesh",
+     "value": "Khandwa-Madhya Pradesh"
+    },
+    {
+     "key": "Khanna-Punjab",
+     "value": "Khanna-Punjab"
+    },
+    {
+     "key": "Kharagpur-West Bengal",
+     "value": "Kharagpur-West Bengal"
+    },
+    {
+     "key": "Kharar-Punjab",
+     "value": "Kharar-Punjab"
+    },
+    {
+     "key": "Khargone-Madhya Pradesh",
+     "value": "Khargone-Madhya Pradesh"
+    },
+    {
+     "key": "Kheda-Gujarat",
+     "value": "Kheda-Gujarat"
+    },
+    {
+     "key": "Kheri-Uttar Pradesh",
+     "value": "Kheri-Uttar Pradesh"
+    },
+    {
+     "key": "Khorda-Odisha",
+     "value": "Khorda-Odisha"
+    },
+    {
+     "key": "Khowai-Tripura",
+     "value": "Khowai-Tripura"
+    },
+    {
+     "key": "Khunti-Jharkhand",
+     "value": "Khunti-Jharkhand"
+    },
+    {
+     "key": "Kinnaur-Himachal Pradesh",
+     "value": "Kinnaur-Himachal Pradesh"
+    },
+    {
+     "key": "Kiphire-Nagaland",
+     "value": "Kiphire-Nagaland"
+    },
+    {
+     "key": "Kishanganj-Bihar",
+     "value": "Kishanganj-Bihar"
+    },
+    {
+     "key": "Kochi-Lakshadweep",
+     "value": "Kochi-Lakshadweep"
+    },
+    {
+     "key": "Kodagu-Karnataka",
+     "value": "Kodagu-Karnataka"
+    },
+    {
+     "key": "Koderma-Jharkhand",
+     "value": "Koderma-Jharkhand"
+    },
+    {
+     "key": "Kodungallur-Kerala",
+     "value": "Kodungallur-Kerala"
+    },
+    {
+     "key": "Kohima-Nagaland",
+     "value": "Kohima-Nagaland"
+    },
+    {
+     "key": "Kokrajhar-Assam",
+     "value": "Kokrajhar-Assam"
+    },
+    {
+     "key": "Kolar-Karnataka",
+     "value": "Kolar-Karnataka"
+    },
+    {
+     "key": "Kolasib-Mizoram",
+     "value": "Kolasib-Mizoram"
+    },
+    {
+     "key": "Kolhapur-Maharashtra",
+     "value": "Kolhapur-Maharashtra"
+    },
+    {
+     "key": "Kolkata-West Bengal",
+     "value": "Kolkata-West Bengal"
+    },
+    {
+     "key": "Kollam-Kerala",
+     "value": "Kollam-Kerala"
+    },
+    {
+     "key": "Kollegal-Karnataka",
+     "value": "Kollegal-Karnataka"
+    },
+    {
+     "key": "Kondagaon-Chattisgarh",
+     "value": "Kondagaon-Chattisgarh"
+    },
+    {
+     "key": "Koppal-Karnataka",
+     "value": "Koppal-Karnataka"
+    },
+    {
+     "key": "Koraput-Odisha",
+     "value": "Koraput-Odisha"
+    },
+    {
+     "key": "Koratla-Telangana",
+     "value": "Koratla-Telangana"
+    },
+    {
+     "key": "Korba-Chattisgarh",
+     "value": "Korba-Chattisgarh"
+    },
+    {
+     "key": "Koriya-Chattisgarh",
+     "value": "Koriya-Chattisgarh"
+    },
+    {
+     "key": "Kot Kapura-Punjab",
+     "value": "Kot Kapura-Punjab"
+    },
+    {
+     "key": "Kota-Rajasthan",
+     "value": "Kota-Rajasthan"
+    },
+    {
+     "key": "Kothagudem-Telangana",
+     "value": "Kothagudem-Telangana"
+    },
+    {
+     "key": "Kothagudem Colls-Telangana",
+     "value": "Kothagudem Colls-Telangana"
+    },
+    {
+     "key": "Kottayam-Kerala",
+     "value": "Kottayam-Kerala"
+    },
+    {
+     "key": "Kovvur-Andhra Pradesh",
+     "value": "Kovvur-Andhra Pradesh"
+    },
+    {
+     "key": "Koyilandy-Kerala",
+     "value": "Koyilandy-Kerala"
+    },
+    {
+     "key": "Kozhikode-Kerala",
+     "value": "Kozhikode-Kerala"
+    },
+    {
+     "key": "Krishna-Andhra Pradesh",
+     "value": "Krishna-Andhra Pradesh"
+    },
+    {
+     "key": "Krishnagiri-Tamil Nadu",
+     "value": "Krishnagiri-Tamil Nadu"
+    },
+    {
+     "key": "Kulgam-Jammu and Kashmir",
+     "value": "Kulgam-Jammu and Kashmir"
+    },
+    {
+     "key": "Kullu-Himachal Pradesh",
+     "value": "Kullu-Himachal Pradesh"
+    },
+    {
+     "key": "Kundgol-Karnataka",
+     "value": "Kundgol-Karnataka"
+    },
+    {
+     "key": "Kunnamkulam-Kerala",
+     "value": "Kunnamkulam-Kerala"
+    },
+    {
+     "key": "Kupwara-Jammu and Kashmir",
+     "value": "Kupwara-Jammu and Kashmir"
+    },
+    {
+     "key": "Kurnool-Andhra Pradesh",
+     "value": "Kurnool-Andhra Pradesh"
+    },
+    {
+     "key": "Kurukshetra-Haryana",
+     "value": "Kurukshetra-Haryana"
+    },
+    {
+     "key": "Kurung Kumey-Arunachal Pradesh",
+     "value": "Kurung Kumey-Arunachal Pradesh"
+    },
+    {
+     "key": "Kushinagar-Uttar Pradesh",
+     "value": "Kushinagar-Uttar Pradesh"
+    },
+    {
+     "key": "Kyathampalle-Telangana",
+     "value": "Kyathampalle-Telangana"
+    },
+    {
+     "key": "Lachhmangarh-Rajasthan",
+     "value": "Lachhmangarh-Rajasthan"
+    },
+    {
+     "key": "Ladnu-Rajasthan",
+     "value": "Ladnu-Rajasthan"
+    },
+    {
+     "key": "Ladwa-Haryana",
+     "value": "Ladwa-Haryana"
+    },
+    {
+     "key": "Lahar-Madhya Pradesh",
+     "value": "Lahar-Madhya Pradesh"
+    },
+    {
+     "key": "Laharpur-Uttar Pradesh",
+     "value": "Laharpur-Uttar Pradesh"
+    },
+    {
+     "key": "Lahul  Spiti-Himachal Pradesh",
+     "value": "Lahul  Spiti-Himachal Pradesh"
+    },
+    {
+     "key": "Lakheri-Rajasthan",
+     "value": "Lakheri-Rajasthan"
+    },
+    {
+     "key": "Lakhimpur-Assam",
+     "value": "Lakhimpur-Assam"
+    },
+    {
+     "key": "Lakhisarai-Bihar",
+     "value": "Lakhisarai-Bihar"
+    },
+    {
+     "key": "Lakshadweep-Lakshadweep",
+     "value": "Lakshadweep-Lakshadweep"
+    },
+    {
+     "key": "Lakshmeshwar-Karnataka",
+     "value": "Lakshmeshwar-Karnataka"
+    },
+    {
+     "key": "Lal Gopalganj Nindaura-Uttar Pradesh",
+     "value": "Lal Gopalganj Nindaura-Uttar Pradesh"
+    },
+    {
+     "key": "Lalganj-Bihar",
+     "value": "Lalganj-Bihar"
+    },
+    {
+     "key": "Lalgudi-Tamil Nadu",
+     "value": "Lalgudi-Tamil Nadu"
+    },
+    {
+     "key": "Lalitpur-Uttar Pradesh",
+     "value": "Lalitpur-Uttar Pradesh"
+    },
+    {
+     "key": "Lalsot-Rajasthan",
+     "value": "Lalsot-Rajasthan"
+    },
+    {
+     "key": "Lanka-Assam",
+     "value": "Lanka-Assam"
+    },
+    {
+     "key": "Lar-Uttar Pradesh",
+     "value": "Lar-Uttar Pradesh"
+    },
+    {
+     "key": "Latehar-Jharkhand",
+     "value": "Latehar-Jharkhand"
+    },
+    {
+     "key": "Lathi-Gujarat",
+     "value": "Lathi-Gujarat"
+    },
+    {
+     "key": "Latur-Maharashtra",
+     "value": "Latur-Maharashtra"
+    },
+    {
+     "key": "Lawngtlai-Mizoram",
+     "value": "Lawngtlai-Mizoram"
+    },
+    {
+     "key": "Leh-Jammu and Kashmir",
+     "value": "Leh-Jammu and Kashmir"
+    },
+    {
+     "key": "Lilong-Manipur",
+     "value": "Lilong-Manipur"
+    },
+    {
+     "key": "Limbdi-Gujarat",
+     "value": "Limbdi-Gujarat"
+    },
+    {
+     "key": "Lingsugur-Karnataka",
+     "value": "Lingsugur-Karnataka"
+    },
+    {
+     "key": "Loha-Maharashtra",
+     "value": "Loha-Maharashtra"
+    },
+    {
+     "key": "Lohardaga-Jharkhand",
+     "value": "Lohardaga-Jharkhand"
+    },
+    {
+     "key": "Lohit-Arunachal Pradesh",
+     "value": "Lohit-Arunachal Pradesh"
+    },
+    {
+     "key": "Lonar-Maharashtra",
+     "value": "Lonar-Maharashtra"
+    },
+    {
+     "key": "Lonavla-Maharashtra",
+     "value": "Lonavla-Maharashtra"
+    },
+    {
+     "key": "Longleng-Nagaland",
+     "value": "Longleng-Nagaland"
+    },
+    {
+     "key": "Longowal-Punjab",
+     "value": "Longowal-Punjab"
+    },
+    {
+     "key": "Loni-Uttar Pradesh",
+     "value": "Loni-Uttar Pradesh"
+    },
+    {
+     "key": "Losal-Rajasthan",
+     "value": "Losal-Rajasthan"
+    },
+    {
+     "key": "Lower Dibang Valley-Arunachal Pradesh",
+     "value": "Lower Dibang Valley-Arunachal Pradesh"
+    },
+    {
+     "key": "Lower Subansiri-Arunachal Pradesh",
+     "value": "Lower Subansiri-Arunachal Pradesh"
+    },
+    {
+     "key": "Lucknow-Uttar Pradesh",
+     "value": "Lucknow-Uttar Pradesh"
+    },
+    {
+     "key": "Ludhiana-Punjab",
+     "value": "Ludhiana-Punjab"
+    },
+    {
+     "key": "Lumding-Assam",
+     "value": "Lumding-Assam"
+    },
+    {
+     "key": "Lunawada-Gujarat",
+     "value": "Lunawada-Gujarat"
+    },
+    {
+     "key": "Lunglei-Mizoram",
+     "value": "Lunglei-Mizoram"
+    },
+    {
+     "key": "Macherla-Andhra Pradesh",
+     "value": "Macherla-Andhra Pradesh"
+    },
+    {
+     "key": "Machilipatnam-Andhra Pradesh",
+     "value": "Machilipatnam-Andhra Pradesh"
+    },
+    {
+     "key": "Madanapalle-Andhra Pradesh",
+     "value": "Madanapalle-Andhra Pradesh"
+    },
+    {
+     "key": "Maddur-Karnataka",
+     "value": "Maddur-Karnataka"
+    },
+    {
+     "key": "Madhepura-Bihar",
+     "value": "Madhepura-Bihar"
+    },
+    {
+     "key": "Madhubani-Bihar",
+     "value": "Madhubani-Bihar"
+    },
+    {
+     "key": "Madhugiri-Karnataka",
+     "value": "Madhugiri-Karnataka"
+    },
+    {
+     "key": "Madhupur-Jharkhand",
+     "value": "Madhupur-Jharkhand"
+    },
+    {
+     "key": "Madikeri-Karnataka",
+     "value": "Madikeri-Karnataka"
+    },
+    {
+     "key": "Madurai-Tamil Nadu",
+     "value": "Madurai-Tamil Nadu"
+    },
+    {
+     "key": "Magadi-Karnataka",
+     "value": "Magadi-Karnataka"
+    },
+    {
+     "key": "Mahabuababad-Telangana",
+     "value": "Mahabuababad-Telangana"
+    },
+    {
+     "key": "Mahabub Nagar-Telangana",
+     "value": "Mahabub Nagar-Telangana"
+    },
+    {
+     "key": "Mahabubabad-Telangana",
+     "value": "Mahabubabad-Telangana"
+    },
+    {
+     "key": "Mahad-Maharashtra",
+     "value": "Mahad-Maharashtra"
+    },
+    {
+     "key": "Mahalingapura-Karnataka",
+     "value": "Mahalingapura-Karnataka"
+    },
+    {
+     "key": "Maharajganj-Uttar Pradesh",
+     "value": "Maharajganj-Uttar Pradesh"
+    },
+    {
+     "key": "Maharajpur-Madhya Pradesh",
+     "value": "Maharajpur-Madhya Pradesh"
+    },
+    {
+     "key": "Mahasamund-Chattisgarh",
+     "value": "Mahasamund-Chattisgarh"
+    },
+    {
+     "key": "Mahbubnagar-Telangana",
+     "value": "Mahbubnagar-Telangana"
+    },
+    {
+     "key": "Mahe-Kerala",
+     "value": "Mahe-Kerala"
+    },
+    {
+     "key": "Mahemdabad-Gujarat",
+     "value": "Mahemdabad-Gujarat"
+    },
+    {
+     "key": "Mahendragarh-Haryana",
+     "value": "Mahendragarh-Haryana"
+    },
+    {
+     "key": "Mahesana-Gujarat",
+     "value": "Mahesana-Gujarat"
+    },
+    {
+     "key": "Mahidpur-Madhya Pradesh",
+     "value": "Mahidpur-Madhya Pradesh"
+    },
+    {
+     "key": "Mahisagar-Gujarat",
+     "value": "Mahisagar-Gujarat"
+    },
+    {
+     "key": "Mahnar Bazar-Bihar",
+     "value": "Mahnar Bazar-Bihar"
+    },
+    {
+     "key": "Mahoba-Uttar Pradesh",
+     "value": "Mahoba-Uttar Pradesh"
+    },
+    {
+     "key": "Mahrajganj-Uttar Pradesh",
+     "value": "Mahrajganj-Uttar Pradesh"
+    },
+    {
+     "key": "Mahuva-Gujarat",
+     "value": "Mahuva-Gujarat"
+    },
+    {
+     "key": "Maihar-Madhya Pradesh",
+     "value": "Maihar-Madhya Pradesh"
+    },
+    {
+     "key": "Mainaguri-West Bengal",
+     "value": "Mainaguri-West Bengal"
+    },
+    {
+     "key": "Mainpuri-Uttar Pradesh",
+     "value": "Mainpuri-Uttar Pradesh"
+    },
+    {
+     "key": "Makdi-Chattisgarh",
+     "value": "Makdi-Chattisgarh"
+    },
+    {
+     "key": "Makhdumpur-Bihar",
+     "value": "Makhdumpur-Bihar"
+    },
+    {
+     "key": "Makrana-Rajasthan",
+     "value": "Makrana-Rajasthan"
+    },
+    {
+     "key": "Malaj Khand-Madhya Pradesh",
+     "value": "Malaj Khand-Madhya Pradesh"
+    },
+    {
+     "key": "Malappuram-Kerala",
+     "value": "Malappuram-Kerala"
+    },
+    {
+     "key": "Malappurm-Kerala",
+     "value": "Malappurm-Kerala"
+    },
+    {
+     "key": "Malavalli-Karnataka",
+     "value": "Malavalli-Karnataka"
+    },
+    {
+     "key": "Malda-West Bengal",
+     "value": "Malda-West Bengal"
+    },
+    {
+     "key": "Malegaon-Maharashtra",
+     "value": "Malegaon-Maharashtra"
+    },
+    {
+     "key": "Malerkotla-Punjab",
+     "value": "Malerkotla-Punjab"
+    },
+    {
+     "key": "Malkangiri-Odisha",
+     "value": "Malkangiri-Odisha"
+    },
+    {
+     "key": "Malkapur-Maharashtra",
+     "value": "Malkapur-Maharashtra"
+    },
+    {
+     "key": "Malout-Punjab",
+     "value": "Malout-Punjab"
+    },
+    {
+     "key": "Malpura-Rajasthan",
+     "value": "Malpura-Rajasthan"
+    },
+    {
+     "key": "Malur-Karnataka",
+     "value": "Malur-Karnataka"
+    },
+    {
+     "key": "Mamit-Mizoram",
+     "value": "Mamit-Mizoram"
+    },
+    {
+     "key": "Mammit-Mizoram",
+     "value": "Mammit-Mizoram"
+    },
+    {
+     "key": "Manachanallur-Tamil Nadu",
+     "value": "Manachanallur-Tamil Nadu"
+    },
+    {
+     "key": "Manasa-Madhya Pradesh",
+     "value": "Manasa-Madhya Pradesh"
+    },
+    {
+     "key": "Manavadar-Gujarat",
+     "value": "Manavadar-Gujarat"
+    },
+    {
+     "key": "Manawar-Madhya Pradesh",
+     "value": "Manawar-Madhya Pradesh"
+    },
+    {
+     "key": "Mancherial-Telangana",
+     "value": "Mancherial-Telangana"
+    },
+    {
+     "key": "Mandalgarh-Rajasthan",
+     "value": "Mandalgarh-Rajasthan"
+    },
+    {
+     "key": "Mandamarri-Telangana",
+     "value": "Mandamarri-Telangana"
+    },
+    {
+     "key": "Mandapeta-Andhra Pradesh",
+     "value": "Mandapeta-Andhra Pradesh"
+    },
+    {
+     "key": "Mandawa-Rajasthan",
+     "value": "Mandawa-Rajasthan"
+    },
+    {
+     "key": "Mandi-Himachal Pradesh",
+     "value": "Mandi-Himachal Pradesh"
+    },
+    {
+     "key": "Mandi Dabwali-Haryana",
+     "value": "Mandi Dabwali-Haryana"
+    },
+    {
+     "key": "Mandideep-Madhya Pradesh",
+     "value": "Mandideep-Madhya Pradesh"
+    },
+    {
+     "key": "Mandla-Madhya Pradesh",
+     "value": "Mandla-Madhya Pradesh"
+    },
+    {
+     "key": "Mandsaur-Madhya Pradesh",
+     "value": "Mandsaur-Madhya Pradesh"
+    },
+    {
+     "key": "Mandvi-Gujarat",
+     "value": "Mandvi-Gujarat"
+    },
+    {
+     "key": "Mandya-Karnataka",
+     "value": "Mandya-Karnataka"
+    },
+    {
+     "key": "Manendragarh-Chhattisgarh",
+     "value": "Manendragarh-Chhattisgarh"
+    },
+    {
+     "key": "Maner-Bihar",
+     "value": "Maner-Bihar"
+    },
+    {
+     "key": "Mangaldoi-Assam",
+     "value": "Mangaldoi-Assam"
+    },
+    {
+     "key": "Mangaluru-Karnataka",
+     "value": "Mangaluru-Karnataka"
+    },
+    {
+     "key": "Mangalvedhe-Maharashtra",
+     "value": "Mangalvedhe-Maharashtra"
+    },
+    {
+     "key": "Manglaur-Uttarakhand",
+     "value": "Manglaur-Uttarakhand"
+    },
+    {
+     "key": "Mangrol-Gujarat",
+     "value": "Mangrol-Gujarat"
+    },
+    {
+     "key": "Mangrulpir-Maharashtra",
+     "value": "Mangrulpir-Maharashtra"
+    },
+    {
+     "key": "Manihari-Bihar",
+     "value": "Manihari-Bihar"
+    },
+    {
+     "key": "Manjlegaon-Maharashtra",
+     "value": "Manjlegaon-Maharashtra"
+    },
+    {
+     "key": "Mankachar-Assam",
+     "value": "Mankachar-Assam"
+    },
+    {
+     "key": "Manmad-Maharashtra",
+     "value": "Manmad-Maharashtra"
+    },
+    {
+     "key": "Mansa-Punjab",
+     "value": "Mansa-Punjab"
+    },
+    {
+     "key": "Manuguru-Telangana",
+     "value": "Manuguru-Telangana"
+    },
+    {
+     "key": "Manvi-Karnataka",
+     "value": "Manvi-Karnataka"
+    },
+    {
+     "key": "Manwath-Maharashtra",
+     "value": "Manwath-Maharashtra"
+    },
+    {
+     "key": "Mapusa-Goa",
+     "value": "Mapusa-Goa"
+    },
+    {
+     "key": "Margao-Goa",
+     "value": "Margao-Goa"
+    },
+    {
+     "key": "Margherita-Assam",
+     "value": "Margherita-Assam"
+    },
+    {
+     "key": "Marhaura-Bihar",
+     "value": "Marhaura-Bihar"
+    },
+    {
+     "key": "Mariani-Assam",
+     "value": "Mariani-Assam"
+    },
+    {
+     "key": "Marigaon-Assam",
+     "value": "Marigaon-Assam"
+    },
+    {
+     "key": "Markapur-Andhra Pradesh",
+     "value": "Markapur-Andhra Pradesh"
+    },
+    {
+     "key": "Marmagao-Goa",
+     "value": "Marmagao-Goa"
+    },
+    {
+     "key": "Masaurhi-Bihar",
+     "value": "Masaurhi-Bihar"
+    },
+    {
+     "key": "Mathabhanga-West Bengal",
+     "value": "Mathabhanga-West Bengal"
+    },
+    {
+     "key": "Mathura-Uttar Pradesh",
+     "value": "Mathura-Uttar Pradesh"
+    },
+    {
+     "key": "Mattannur-Kerala",
+     "value": "Mattannur-Kerala"
+    },
+    {
+     "key": "Mau-Uttar Pradesh",
+     "value": "Mau-Uttar Pradesh"
+    },
+    {
+     "key": "Mauganj-Madhya Pradesh",
+     "value": "Mauganj-Madhya Pradesh"
+    },
+    {
+     "key": "Mavelikkara-Kerala",
+     "value": "Mavelikkara-Kerala"
+    },
+    {
+     "key": "Mavoor-Kerala",
+     "value": "Mavoor-Kerala"
+    },
+    {
+     "key": "Mayang Imphal-Manipur",
+     "value": "Mayang Imphal-Manipur"
+    },
+    {
+     "key": "Mayurbhanj-Odisha",
+     "value": "Mayurbhanj-Odisha"
+    },
+    {
+     "key": "Medak-Telangana",
+     "value": "Medak-Telangana"
+    },
+    {
+     "key": "Medininagar (Daltonganj)-Jharkhand",
+     "value": "Medininagar (Daltonganj)-Jharkhand"
+    },
+    {
+     "key": "Medinipur-West Bengal",
+     "value": "Medinipur-West Bengal"
+    },
+    {
+     "key": "Meerut-Uttar Pradesh",
+     "value": "Meerut-Uttar Pradesh"
+    },
+    {
+     "key": "Mehkar-Maharashtra",
+     "value": "Mehkar-Maharashtra"
+    },
+    {
+     "key": "Memari-West Bengal",
+     "value": "Memari-West Bengal"
+    },
+    {
+     "key": "Merta City-Rajasthan",
+     "value": "Merta City-Rajasthan"
+    },
+    {
+     "key": "Mewat-Haryana",
+     "value": "Mewat-Haryana"
+    },
+    {
+     "key": "Mhaswad-Maharashtra",
+     "value": "Mhaswad-Maharashtra"
+    },
+    {
+     "key": "Mhow Cantonment-Madhya Pradesh",
+     "value": "Mhow Cantonment-Madhya Pradesh"
+    },
+    {
+     "key": "Mhowgaon-Madhya Pradesh",
+     "value": "Mhowgaon-Madhya Pradesh"
+    },
+    {
+     "key": "Mihijam-Jharkhand",
+     "value": "Mihijam-Jharkhand"
+    },
+    {
+     "key": "Mira-Bhayandar-Maharashtra",
+     "value": "Mira-Bhayandar-Maharashtra"
+    },
+    {
+     "key": "Miraj-Maharashtra",
+     "value": "Miraj-Maharashtra"
+    },
+    {
+     "key": "Mirganj-Bihar",
+     "value": "Mirganj-Bihar"
+    },
+    {
+     "key": "Miryalaguda-Telangana",
+     "value": "Miryalaguda-Telangana"
+    },
+    {
+     "key": "Mirzapur-Uttar Pradesh",
+     "value": "Mirzapur-Uttar Pradesh"
+    },
+    {
+     "key": "Modasa-Gujarat",
+     "value": "Modasa-Gujarat"
+    },
+    {
+     "key": "Modinagar-Uttar Pradesh",
+     "value": "Modinagar-Uttar Pradesh"
+    },
+    {
+     "key": "Moga-Punjab",
+     "value": "Moga-Punjab"
+    },
+    {
+     "key": "Mohali-Punjab",
+     "value": "Mohali-Punjab"
+    },
+    {
+     "key": "Mokameh-Bihar",
+     "value": "Mokameh-Bihar"
+    },
+    {
+     "key": "Mokokchung-Nagaland",
+     "value": "Mokokchung-Nagaland"
+    },
+    {
+     "key": "Mon-Nagaland",
+     "value": "Mon-Nagaland"
+    },
+    {
+     "key": "Monoharpur-West Bengal",
+     "value": "Monoharpur-West Bengal"
+    },
+    {
+     "key": "Moradabad-Uttar Pradesh",
+     "value": "Moradabad-Uttar Pradesh"
+    },
+    {
+     "key": "Morbi-Gujarat",
+     "value": "Morbi-Gujarat"
+    },
+    {
+     "key": "Morena-Madhya Pradesh",
+     "value": "Morena-Madhya Pradesh"
+    },
+    {
+     "key": "Morinda, India-Punjab",
+     "value": "Morinda, India-Punjab"
+    },
+    {
+     "key": "Morshi-Maharashtra",
+     "value": "Morshi-Maharashtra"
+    },
+    {
+     "key": "Morvi-Gujarat",
+     "value": "Morvi-Gujarat"
+    },
+    {
+     "key": "Motihari-Bihar",
+     "value": "Motihari-Bihar"
+    },
+    {
+     "key": "Motipur-Bihar",
+     "value": "Motipur-Bihar"
+    },
+    {
+     "key": "Mount Abu-Rajasthan",
+     "value": "Mount Abu-Rajasthan"
+    },
+    {
+     "key": "Mudabidri-Karnataka",
+     "value": "Mudabidri-Karnataka"
+    },
+    {
+     "key": "Mudalagi-Karnataka",
+     "value": "Mudalagi-Karnataka"
+    },
+    {
+     "key": "Muddebihal-Karnataka",
+     "value": "Muddebihal-Karnataka"
+    },
+    {
+     "key": "Mudhol-Karnataka",
+     "value": "Mudhol-Karnataka"
+    },
+    {
+     "key": "Mukerian-Punjab",
+     "value": "Mukerian-Punjab"
+    },
+    {
+     "key": "Mukhed-Maharashtra",
+     "value": "Mukhed-Maharashtra"
+    },
+    {
+     "key": "Muktsar-Punjab",
+     "value": "Muktsar-Punjab"
+    },
+    {
+     "key": "Mul-Maharashtra",
+     "value": "Mul-Maharashtra"
+    },
+    {
+     "key": "Mulbagal-Karnataka",
+     "value": "Mulbagal-Karnataka"
+    },
+    {
+     "key": "Multai-Madhya Pradesh",
+     "value": "Multai-Madhya Pradesh"
+    },
+    {
+     "key": "Mumbai-Maharashtra",
+     "value": "Mumbai-Maharashtra"
+    },
+    {
+     "key": "Mumbai Subueban-Maharashtra",
+     "value": "Mumbai Subueban-Maharashtra"
+    },
+    {
+     "key": "Mundargi-Karnataka",
+     "value": "Mundargi-Karnataka"
+    },
+    {
+     "key": "Mundi-Madhya Pradesh",
+     "value": "Mundi-Madhya Pradesh"
+    },
+    {
+     "key": "Mungeli-Chattisgarh",
+     "value": "Mungeli-Chattisgarh"
+    },
+    {
+     "key": "Munger-Bihar",
+     "value": "Munger-Bihar"
+    },
+    {
+     "key": "Murliganj-Bihar",
+     "value": "Murliganj-Bihar"
+    },
+    {
+     "key": "Murshidabad-West Bengal",
+     "value": "Murshidabad-West Bengal"
+    },
+    {
+     "key": "Murtijapur-Maharashtra",
+     "value": "Murtijapur-Maharashtra"
+    },
+    {
+     "key": "Murwara (Katni)-Madhya Pradesh",
+     "value": "Murwara (Katni)-Madhya Pradesh"
+    },
+    {
+     "key": "Musabani-Jharkhand",
+     "value": "Musabani-Jharkhand"
+    },
+    {
+     "key": "Mussoorie-Uttarakhand",
+     "value": "Mussoorie-Uttarakhand"
+    },
+    {
+     "key": "Muvattupuzha-Kerala",
+     "value": "Muvattupuzha-Kerala"
+    },
+    {
+     "key": "Muzaffarnagar-Uttar Pradesh",
+     "value": "Muzaffarnagar-Uttar Pradesh"
+    },
+    {
+     "key": "Muzaffarpur-Bihar",
+     "value": "Muzaffarpur-Bihar"
+    },
+    {
+     "key": "Mysore-Karnataka",
+     "value": "Mysore-Karnataka"
+    },
+    {
+     "key": "Mysuru-Karnataka",
+     "value": "Mysuru-Karnataka"
+    },
+    {
+     "key": "Na-Bihar",
+     "value": "Na-Bihar"
+    },
+    {
+     "key": "Nabadwip-West Bengal",
+     "value": "Nabadwip-West Bengal"
+    },
+    {
+     "key": "Nabarangapur-Odisha",
+     "value": "Nabarangapur-Odisha"
+    },
+    {
+     "key": "Nabha-Punjab",
+     "value": "Nabha-Punjab"
+    },
+    {
+     "key": "Nadbai-Rajasthan",
+     "value": "Nadbai-Rajasthan"
+    },
+    {
+     "key": "Nadia-West Bengal",
+     "value": "Nadia-West Bengal"
+    },
+    {
+     "key": "Nadiad-Gujarat",
+     "value": "Nadiad-Gujarat"
+    },
+    {
+     "key": "Nagaon-Assam",
+     "value": "Nagaon-Assam"
+    },
+    {
+     "key": "Nagapattinam-Tamil Nadu",
+     "value": "Nagapattinam-Tamil Nadu"
+    },
+    {
+     "key": "Nagar-Rajasthan",
+     "value": "Nagar-Rajasthan"
+    },
+    {
+     "key": "Nagar Kurnool-Telangana",
+     "value": "Nagar Kurnool-Telangana"
+    },
+    {
+     "key": "Nagari-Andhra Pradesh",
+     "value": "Nagari-Andhra Pradesh"
+    },
+    {
+     "key": "Nagarkurnool-Telangana",
+     "value": "Nagarkurnool-Telangana"
+    },
+    {
+     "key": "Nagaur-Rajasthan",
+     "value": "Nagaur-Rajasthan"
+    },
+    {
+     "key": "Nagda-Madhya Pradesh",
+     "value": "Nagda-Madhya Pradesh"
+    },
+    {
+     "key": "Nagercoil-Tamil Nadu",
+     "value": "Nagercoil-Tamil Nadu"
+    },
+    {
+     "key": "Nagina-Uttar Pradesh",
+     "value": "Nagina-Uttar Pradesh"
+    },
+    {
+     "key": "Nagla-Uttarakhand",
+     "value": "Nagla-Uttarakhand"
+    },
+    {
+     "key": "Nagpur-Maharashtra",
+     "value": "Nagpur-Maharashtra"
+    },
+    {
+     "key": "Nahan-Himachal Pradesh",
+     "value": "Nahan-Himachal Pradesh"
+    },
+    {
+     "key": "Naharlagun-Arunachal Pradesh",
+     "value": "Naharlagun-Arunachal Pradesh"
+    },
+    {
+     "key": "Naidupet-Andhra Pradesh",
+     "value": "Naidupet-Andhra Pradesh"
+    },
+    {
+     "key": "Naihati-West Bengal",
+     "value": "Naihati-West Bengal"
+    },
+    {
+     "key": "Naila Janjgir-Chhattisgarh",
+     "value": "Naila Janjgir-Chhattisgarh"
+    },
+    {
+     "key": "Nainital-Uttarakhand",
+     "value": "Nainital-Uttarakhand"
+    },
+    {
+     "key": "Nainpur-Madhya Pradesh",
+     "value": "Nainpur-Madhya Pradesh"
+    },
+    {
+     "key": "Najibabad-Uttar Pradesh",
+     "value": "Najibabad-Uttar Pradesh"
+    },
+    {
+     "key": "Nakodar-Punjab",
+     "value": "Nakodar-Punjab"
+    },
+    {
+     "key": "Nakur-Uttar Pradesh",
+     "value": "Nakur-Uttar Pradesh"
+    },
+    {
+     "key": "Nalanda-Bihar",
+     "value": "Nalanda-Bihar"
+    },
+    {
+     "key": "Nalbari-Assam",
+     "value": "Nalbari-Assam"
+    },
+    {
+     "key": "Nalgonda-Telangana",
+     "value": "Nalgonda-Telangana"
+    },
+    {
+     "key": "Namagiripettai-Tamil Nadu",
+     "value": "Namagiripettai-Tamil Nadu"
+    },
+    {
+     "key": "Namakkal-Tamil Nadu",
+     "value": "Namakkal-Tamil Nadu"
+    },
+    {
+     "key": "Nanded-Maharashtra",
+     "value": "Nanded-Maharashtra"
+    },
+    {
+     "key": "Nanded-Waghala-Maharashtra",
+     "value": "Nanded-Waghala-Maharashtra"
+    },
+    {
+     "key": "Nandgaon-Maharashtra",
+     "value": "Nandgaon-Maharashtra"
+    },
+    {
+     "key": "Nandivaram-Guduvancheri-Tamil Nadu",
+     "value": "Nandivaram-Guduvancheri-Tamil Nadu"
+    },
+    {
+     "key": "Nandura-Maharashtra",
+     "value": "Nandura-Maharashtra"
+    },
+    {
+     "key": "Nandurbar-Maharashtra",
+     "value": "Nandurbar-Maharashtra"
+    },
+    {
+     "key": "Nandyal-Andhra Pradesh",
+     "value": "Nandyal-Andhra Pradesh"
+    },
+    {
+     "key": "Nangal-Punjab",
+     "value": "Nangal-Punjab"
+    },
+    {
+     "key": "Nanjangud-Karnataka",
+     "value": "Nanjangud-Karnataka"
+    },
+    {
+     "key": "Nanjikottai-Tamil Nadu",
+     "value": "Nanjikottai-Tamil Nadu"
+    },
+    {
+     "key": "Nanpara-Uttar Pradesh",
+     "value": "Nanpara-Uttar Pradesh"
+    },
+    {
+     "key": "Narasapuram-Andhra Pradesh",
+     "value": "Narasapuram-Andhra Pradesh"
+    },
+    {
+     "key": "Narasaraopet-Andhra Pradesh",
+     "value": "Narasaraopet-Andhra Pradesh"
+    },
+    {
+     "key": "Naraura-Uttar Pradesh",
+     "value": "Naraura-Uttar Pradesh"
+    },
+    {
+     "key": "Narayanpet-Telangana",
+     "value": "Narayanpet-Telangana"
+    },
+    {
+     "key": "Narayanpur-Chattisgarh",
+     "value": "Narayanpur-Chattisgarh"
+    },
+    {
+     "key": "Nargund-Karnataka",
+     "value": "Nargund-Karnataka"
+    },
+    {
+     "key": "Narkatiaganj-Bihar",
+     "value": "Narkatiaganj-Bihar"
+    },
+    {
+     "key": "Narkhed-Maharashtra",
+     "value": "Narkhed-Maharashtra"
+    },
+    {
+     "key": "Narmada-Gujarat",
+     "value": "Narmada-Gujarat"
+    },
+    {
+     "key": "Narnaul-Haryana",
+     "value": "Narnaul-Haryana"
+    },
+    {
+     "key": "Narsinghgarh-Madhya Pradesh",
+     "value": "Narsinghgarh-Madhya Pradesh"
+    },
+    {
+     "key": "Narsinghpur-Madhya Pradesh",
+     "value": "Narsinghpur-Madhya Pradesh"
+    },
+    {
+     "key": "Narsipatnam-Andhra Pradesh",
+     "value": "Narsipatnam-Andhra Pradesh"
+    },
+    {
+     "key": "Narwana-Haryana",
+     "value": "Narwana-Haryana"
+    },
+    {
+     "key": "Nashik-Maharashtra",
+     "value": "Nashik-Maharashtra"
+    },
+    {
+     "key": "Nasirabad-Rajasthan",
+     "value": "Nasirabad-Rajasthan"
+    },
+    {
+     "key": "Natham-Tamil Nadu",
+     "value": "Natham-Tamil Nadu"
+    },
+    {
+     "key": "Nathdwara-Rajasthan",
+     "value": "Nathdwara-Rajasthan"
+    },
+    {
+     "key": "Naugachhia-Bihar",
+     "value": "Naugachhia-Bihar"
+    },
+    {
+     "key": "Naugawan Sadat-Uttar Pradesh",
+     "value": "Naugawan Sadat-Uttar Pradesh"
+    },
+    {
+     "key": "Nautanwa-Uttar Pradesh",
+     "value": "Nautanwa-Uttar Pradesh"
+    },
+    {
+     "key": "Navalgund-Karnataka",
+     "value": "Navalgund-Karnataka"
+    },
+    {
+     "key": "Navsari-Gujarat",
+     "value": "Navsari-Gujarat"
+    },
+    {
+     "key": "Nawabganj-Uttar Pradesh",
+     "value": "Nawabganj-Uttar Pradesh"
+    },
+    {
+     "key": "Nawada-Bihar",
+     "value": "Nawada-Bihar"
+    },
+    {
+     "key": "Nawanshahr-Punjab",
+     "value": "Nawanshahr-Punjab"
+    },
+    {
+     "key": "Nawapur-Maharashtra",
+     "value": "Nawapur-Maharashtra"
+    },
+    {
+     "key": "Nayagarh-Odisha",
+     "value": "Nayagarh-Odisha"
+    },
+    {
+     "key": "Nedumangad-Kerala",
+     "value": "Nedumangad-Kerala"
+    },
+    {
+     "key": "Neem-Ka-Thana-Rajasthan",
+     "value": "Neem-Ka-Thana-Rajasthan"
+    },
+    {
+     "key": "Neemuch-Madhya Pradesh",
+     "value": "Neemuch-Madhya Pradesh"
+    },
+    {
+     "key": "Nehtaur-Uttar Pradesh",
+     "value": "Nehtaur-Uttar Pradesh"
+    },
+    {
+     "key": "Nelamangala-Karnataka",
+     "value": "Nelamangala-Karnataka"
+    },
+    {
+     "key": "Nellikuppam-Tamil Nadu",
+     "value": "Nellikuppam-Tamil Nadu"
+    },
+    {
+     "key": "Nellore-Andhra Pradesh",
+     "value": "Nellore-Andhra Pradesh"
+    },
+    {
+     "key": "Nepanagar-Madhya Pradesh",
+     "value": "Nepanagar-Madhya Pradesh"
+    },
+    {
+     "key": "New Delhi-Delhi",
+     "value": "New Delhi-Delhi"
+    },
+    {
+     "key": "Neyveli (Ts)-Tamil Nadu",
+     "value": "Neyveli (Ts)-Tamil Nadu"
+    },
+    {
+     "key": "Neyyattinkara-Kerala",
+     "value": "Neyyattinkara-Kerala"
+    },
+    {
+     "key": "Nicobar-Andaman and Nico.In.",
+     "value": "Nicobar-Andaman and Nico.In."
+    },
+    {
+     "key": "Nidadavole-Andhra Pradesh",
+     "value": "Nidadavole-Andhra Pradesh"
+    },
+    {
+     "key": "Nilambur-Kerala",
+     "value": "Nilambur-Kerala"
+    },
+    {
+     "key": "Nilanga-Maharashtra",
+     "value": "Nilanga-Maharashtra"
+    },
+    {
+     "key": "Nilgiris-Tamil Nadu",
+     "value": "Nilgiris-Tamil Nadu"
+    },
+    {
+     "key": "Nimbahera-Rajasthan",
+     "value": "Nimbahera-Rajasthan"
+    },
+    {
+     "key": "Nirmal-Telangana",
+     "value": "Nirmal-Telangana"
+    },
+    {
+     "key": "Niwai-Uttar Pradesh",
+     "value": "Niwai-Uttar Pradesh"
+    },
+    {
+     "key": "Niwari-Madhya Pradesh",
+     "value": "Niwari-Madhya Pradesh"
+    },
+    {
+     "key": "Nizamabad-Telangana",
+     "value": "Nizamabad-Telangana"
+    },
+    {
+     "key": "Nohar-Rajasthan",
+     "value": "Nohar-Rajasthan"
+    },
+    {
+     "key": "Noida-Uttar Pradesh",
+     "value": "Noida-Uttar Pradesh"
+    },
+    {
+     "key": "Nokha-Rajasthan",
+     "value": "Nokha-Rajasthan"
+    },
+    {
+     "key": "Nongstoin-Meghalaya",
+     "value": "Nongstoin-Meghalaya"
+    },
+    {
+     "key": "Noorpur-Uttar Pradesh",
+     "value": "Noorpur-Uttar Pradesh"
+    },
+    {
+     "key": "North & Middle Andaman-Andaman and Nico.In.",
+     "value": "North & Middle Andaman-Andaman and Nico.In."
+    },
+    {
+     "key": "North 24 Parganas-West Bengal",
+     "value": "North 24 Parganas-West Bengal"
+    },
+    {
+     "key": "North And Middle Andaman-Andaman and Nico.In.",
+     "value": "North And Middle Andaman-Andaman and Nico.In."
+    },
+    {
+     "key": "North Delhi-Delhi",
+     "value": "North Delhi-Delhi"
+    },
+    {
+     "key": "North Dinajpur-West Bengal",
+     "value": "North Dinajpur-West Bengal"
+    },
+    {
+     "key": "North East Delhi-Delhi",
+     "value": "North East Delhi-Delhi"
+    },
+    {
+     "key": "North Goa-Goa",
+     "value": "North Goa-Goa"
+    },
+    {
+     "key": "North Lakhimpur-Assam",
+     "value": "North Lakhimpur-Assam"
+    },
+    {
+     "key": "North Sikkim-Sikkim",
+     "value": "North Sikkim-Sikkim"
+    },
+    {
+     "key": "North Tripura-Tripura",
+     "value": "North Tripura-Tripura"
+    },
+    {
+     "key": "North West Delhi-Delhi",
+     "value": "North West Delhi-Delhi"
+    },
+    {
+     "key": "Nowgong-Madhya Pradesh",
+     "value": "Nowgong-Madhya Pradesh"
+    },
+    {
+     "key": "Nowrozabad (Khodargama)-Madhya Pradesh",
+     "value": "Nowrozabad (Khodargama)-Madhya Pradesh"
+    },
+    {
+     "key": "Nuapada-Odisha",
+     "value": "Nuapada-Odisha"
+    },
+    {
+     "key": "Nuzvid-Andhra Pradesh",
+     "value": "Nuzvid-Andhra Pradesh"
+    },
+    {
+     "key": "O' Valley-Tamil Nadu",
+     "value": "O' Valley-Tamil Nadu"
+    },
+    {
+     "key": "Obra-Uttar Pradesh",
+     "value": "Obra-Uttar Pradesh"
+    },
+    {
+     "key": "Oddanchatram-Tamil Nadu",
+     "value": "Oddanchatram-Tamil Nadu"
+    },
+    {
+     "key": "Ongole-Andhra Pradesh",
+     "value": "Ongole-Andhra Pradesh"
+    },
+    {
+     "key": "Orai-Uttar Pradesh",
+     "value": "Orai-Uttar Pradesh"
+    },
+    {
+     "key": "Osmanabad-Maharashtra",
+     "value": "Osmanabad-Maharashtra"
+    },
+    {
+     "key": "Ottappalam-Kerala",
+     "value": "Ottappalam-Kerala"
+    },
+    {
+     "key": "Ozar-Maharashtra",
+     "value": "Ozar-Maharashtra"
+    },
+    {
+     "key": "P.N.Patti-Tamil Nadu",
+     "value": "P.N.Patti-Tamil Nadu"
+    },
+    {
+     "key": "Pachora-Maharashtra",
+     "value": "Pachora-Maharashtra"
+    },
+    {
+     "key": "Pachore-Madhya Pradesh",
+     "value": "Pachore-Madhya Pradesh"
+    },
+    {
+     "key": "Pacode-Tamil Nadu",
+     "value": "Pacode-Tamil Nadu"
+    },
+    {
+     "key": "Padmanabhapuram-Tamil Nadu",
+     "value": "Padmanabhapuram-Tamil Nadu"
+    },
+    {
+     "key": "Padra-Gujarat",
+     "value": "Padra-Gujarat"
+    },
+    {
+     "key": "Padrauna-Uttar Pradesh",
+     "value": "Padrauna-Uttar Pradesh"
+    },
+    {
+     "key": "Paithan-Maharashtra",
+     "value": "Paithan-Maharashtra"
+    },
+    {
+     "key": "Pakaur-Jharkhand",
+     "value": "Pakaur-Jharkhand"
+    },
+    {
+     "key": "Pakur-Jharkhand",
+     "value": "Pakur-Jharkhand"
+    },
+    {
+     "key": "Palacole-Andhra Pradesh",
+     "value": "Palacole-Andhra Pradesh"
+    },
+    {
+     "key": "Palai-Kerala",
+     "value": "Palai-Kerala"
+    },
+    {
+     "key": "Palakkad-Kerala",
+     "value": "Palakkad-Kerala"
+    },
+    {
+     "key": "Palakol-Andhra Pradesh",
+     "value": "Palakol-Andhra Pradesh"
+    },
+    {
+     "key": "Palamau-Jharkhand",
+     "value": "Palamau-Jharkhand"
+    },
+    {
+     "key": "Palampur-Himachal Pradesh",
+     "value": "Palampur-Himachal Pradesh"
+    },
+    {
+     "key": "Palani-Tamil Nadu",
+     "value": "Palani-Tamil Nadu"
+    },
+    {
+     "key": "Palanpur-Gujarat",
+     "value": "Palanpur-Gujarat"
+    },
+    {
+     "key": "Palasa Kasibugga-Andhra Pradesh",
+     "value": "Palasa Kasibugga-Andhra Pradesh"
+    },
+    {
+     "key": "Palghar-Maharashtra",
+     "value": "Palghar-Maharashtra"
+    },
+    {
+     "key": "Pali-Rajasthan",
+     "value": "Pali-Rajasthan"
+    },
+    {
+     "key": "Palia Kalan-Uttar Pradesh",
+     "value": "Palia Kalan-Uttar Pradesh"
+    },
+    {
+     "key": "Palitana-Gujarat",
+     "value": "Palitana-Gujarat"
+    },
+    {
+     "key": "Palladam-Tamil Nadu",
+     "value": "Palladam-Tamil Nadu"
+    },
+    {
+     "key": "Pallapatti-Tamil Nadu",
+     "value": "Pallapatti-Tamil Nadu"
+    },
+    {
+     "key": "Pallikonda-Tamil Nadu",
+     "value": "Pallikonda-Tamil Nadu"
+    },
+    {
+     "key": "Palwal-Haryana",
+     "value": "Palwal-Haryana"
+    },
+    {
+     "key": "Palwancha-Telangana",
+     "value": "Palwancha-Telangana"
+    },
+    {
+     "key": "Panagar-Madhya Pradesh",
+     "value": "Panagar-Madhya Pradesh"
+    },
+    {
+     "key": "Panagudi-Tamil Nadu",
+     "value": "Panagudi-Tamil Nadu"
+    },
+    {
+     "key": "Panaji-Goa",
+     "value": "Panaji-Goa"
+    },
+    {
+     "key": "Panamattom-Kerala",
+     "value": "Panamattom-Kerala"
+    },
+    {
+     "key": "Panch Mahals-Gujarat",
+     "value": "Panch Mahals-Gujarat"
+    },
+    {
+     "key": "Panchkula-Haryana",
+     "value": "Panchkula-Haryana"
+    },
+    {
+     "key": "Panchla-West Bengal",
+     "value": "Panchla-West Bengal"
+    },
+    {
+     "key": "Pandharkaoda-Maharashtra",
+     "value": "Pandharkaoda-Maharashtra"
+    },
+    {
+     "key": "Pandharpur-Maharashtra",
+     "value": "Pandharpur-Maharashtra"
+    },
+    {
+     "key": "Pandhurna-Madhya Pradesh",
+     "value": "Pandhurna-Madhya Pradesh"
+    },
+    {
+     "key": "Pandurban Agglomeration-West Bengal",
+     "value": "Pandurban Agglomeration-West Bengal"
+    },
+    {
+     "key": "Panipat-Haryana",
+     "value": "Panipat-Haryana"
+    },
+    {
+     "key": "Panna-Madhya Pradesh",
+     "value": "Panna-Madhya Pradesh"
+    },
+    {
+     "key": "Panniyannur-Kerala",
+     "value": "Panniyannur-Kerala"
+    },
+    {
+     "key": "Panruti-Tamil Nadu",
+     "value": "Panruti-Tamil Nadu"
+    },
+    {
+     "key": "Panvel-Maharashtra",
+     "value": "Panvel-Maharashtra"
+    },
+    {
+     "key": "Pappinisseri-Kerala",
+     "value": "Pappinisseri-Kerala"
+    },
+    {
+     "key": "Papum Pare-Arunachal Pradesh",
+     "value": "Papum Pare-Arunachal Pradesh"
+    },
+    {
+     "key": "Paradip-Odisha",
+     "value": "Paradip-Odisha"
+    },
+    {
+     "key": "Paramakudi-Tamil Nadu",
+     "value": "Paramakudi-Tamil Nadu"
+    },
+    {
+     "key": "Parangipettai-Tamil Nadu",
+     "value": "Parangipettai-Tamil Nadu"
+    },
+    {
+     "key": "Parasi-Uttar Pradesh",
+     "value": "Parasi-Uttar Pradesh"
+    },
+    {
+     "key": "Paravoor-Kerala",
+     "value": "Paravoor-Kerala"
+    },
+    {
+     "key": "Parbhani-Maharashtra",
+     "value": "Parbhani-Maharashtra"
+    },
+    {
+     "key": "Pardi-Gujarat",
+     "value": "Pardi-Gujarat"
+    },
+    {
+     "key": "Parkal-Telangana",
+     "value": "Parkal-Telangana"
+    },
+    {
+     "key": "Parlakhemundi-Odisha",
+     "value": "Parlakhemundi-Odisha"
+    },
+    {
+     "key": "Parli-Maharashtra",
+     "value": "Parli-Maharashtra"
+    },
+    {
+     "key": "Partur-Maharashtra",
+     "value": "Partur-Maharashtra"
+    },
+    {
+     "key": "Parvathipuram-Andhra Pradesh",
+     "value": "Parvathipuram-Andhra Pradesh"
+    },
+    {
+     "key": "Pasan-Madhya Pradesh",
+     "value": "Pasan-Madhya Pradesh"
+    },
+    {
+     "key": "Paschim Bardhaman-West Bengal",
+     "value": "Paschim Bardhaman-West Bengal"
+    },
+    {
+     "key": "Paschim Punropara-West Bengal",
+     "value": "Paschim Punropara-West Bengal"
+    },
+    {
+     "key": "Pasighat-Arunachal Pradesh",
+     "value": "Pasighat-Arunachal Pradesh"
+    },
+    {
+     "key": "Patan-Gujarat",
+     "value": "Patan-Gujarat"
+    },
+    {
+     "key": "Pathanamthitta-Kerala",
+     "value": "Pathanamthitta-Kerala"
+    },
+    {
+     "key": "Pathankot-Punjab",
+     "value": "Pathankot-Punjab"
+    },
+    {
+     "key": "Pathardi-Maharashtra",
+     "value": "Pathardi-Maharashtra"
+    },
+    {
+     "key": "Pathri-Maharashtra",
+     "value": "Pathri-Maharashtra"
+    },
+    {
+     "key": "Patiala-Punjab",
+     "value": "Patiala-Punjab"
+    },
+    {
+     "key": "Patna-Bihar",
+     "value": "Patna-Bihar"
+    },
+    {
+     "key": "Patratu-Jharkhand",
+     "value": "Patratu-Jharkhand"
+    },
+    {
+     "key": "Pattamundai-Odisha",
+     "value": "Pattamundai-Odisha"
+    },
+    {
+     "key": "Patti-Punjab",
+     "value": "Patti-Punjab"
+    },
+    {
+     "key": "Pattran-Punjab",
+     "value": "Pattran-Punjab"
+    },
+    {
+     "key": "Pattukkottai-Tamil Nadu",
+     "value": "Pattukkottai-Tamil Nadu"
+    },
+    {
+     "key": "Patur-Maharashtra",
+     "value": "Patur-Maharashtra"
+    },
+    {
+     "key": "Pauni-Maharashtra",
+     "value": "Pauni-Maharashtra"
+    },
+    {
+     "key": "Pauri-Uttarakhand",
+     "value": "Pauri-Uttarakhand"
+    },
+    {
+     "key": "Pauri Garhwal-Uttarakhand",
+     "value": "Pauri Garhwal-Uttarakhand"
+    },
+    {
+     "key": "Pavagada-Karnataka",
+     "value": "Pavagada-Karnataka"
+    },
+    {
+     "key": "Pedana-Andhra Pradesh",
+     "value": "Pedana-Andhra Pradesh"
+    },
+    {
+     "key": "Peddapalli-Telangana",
+     "value": "Peddapalli-Telangana"
+    },
+    {
+     "key": "Peddapuram-Andhra Pradesh",
+     "value": "Peddapuram-Andhra Pradesh"
+    },
+    {
+     "key": "Pehowa-Haryana",
+     "value": "Pehowa-Haryana"
+    },
+    {
+     "key": "Pen-Maharashtra",
+     "value": "Pen-Maharashtra"
+    },
+    {
+     "key": "Perambalur-Tamil Nadu",
+     "value": "Perambalur-Tamil Nadu"
+    },
+    {
+     "key": "Peravurani-Tamil Nadu",
+     "value": "Peravurani-Tamil Nadu"
+    },
+    {
+     "key": "Peren-Nagaland",
+     "value": "Peren-Nagaland"
+    },
+    {
+     "key": "Peringathur-Kerala",
+     "value": "Peringathur-Kerala"
+    },
+    {
+     "key": "Perinthalmanna-Kerala",
+     "value": "Perinthalmanna-Kerala"
+    },
+    {
+     "key": "Periyakulam-Tamil Nadu",
+     "value": "Periyakulam-Tamil Nadu"
+    },
+    {
+     "key": "Periyasemur-Tamil Nadu",
+     "value": "Periyasemur-Tamil Nadu"
+    },
+    {
+     "key": "Pernampattu-Tamil Nadu",
+     "value": "Pernampattu-Tamil Nadu"
+    },
+    {
+     "key": "Perumbavoor-Kerala",
+     "value": "Perumbavoor-Kerala"
+    },
+    {
+     "key": "Petlad-Gujarat",
+     "value": "Petlad-Gujarat"
+    },
+    {
+     "key": "Phagwara-Punjab",
+     "value": "Phagwara-Punjab"
+    },
+    {
+     "key": "Phalodi-Rajasthan",
+     "value": "Phalodi-Rajasthan"
+    },
+    {
+     "key": "Phaltan-Maharashtra",
+     "value": "Phaltan-Maharashtra"
+    },
+    {
+     "key": "Phek-Nagaland",
+     "value": "Phek-Nagaland"
+    },
+    {
+     "key": "Phillaur-Punjab",
+     "value": "Phillaur-Punjab"
+    },
+    {
+     "key": "Phulabani-Odisha",
+     "value": "Phulabani-Odisha"
+    },
+    {
+     "key": "Phulera-Rajasthan",
+     "value": "Phulera-Rajasthan"
+    },
+    {
+     "key": "Phulpur-Uttar Pradesh",
+     "value": "Phulpur-Uttar Pradesh"
+    },
+    {
+     "key": "Phusro-Jharkhand",
+     "value": "Phusro-Jharkhand"
+    },
+    {
+     "key": "Pihani-Uttar Pradesh",
+     "value": "Pihani-Uttar Pradesh"
+    },
+    {
+     "key": "Pilani-Rajasthan",
+     "value": "Pilani-Rajasthan"
+    },
+    {
+     "key": "Pilibanga-Rajasthan",
+     "value": "Pilibanga-Rajasthan"
+    },
+    {
+     "key": "Pilibhit-Uttar Pradesh",
+     "value": "Pilibhit-Uttar Pradesh"
+    },
+    {
+     "key": "Pilkhuwa-Uttar Pradesh",
+     "value": "Pilkhuwa-Uttar Pradesh"
+    },
+    {
+     "key": "Pindwara-Rajasthan",
+     "value": "Pindwara-Rajasthan"
+    },
+    {
+     "key": "Pinjore-Haryana",
+     "value": "Pinjore-Haryana"
+    },
+    {
+     "key": "Pipar City-Rajasthan",
+     "value": "Pipar City-Rajasthan"
+    },
+    {
+     "key": "Pipariya-Madhya Pradesh",
+     "value": "Pipariya-Madhya Pradesh"
+    },
+    {
+     "key": "Piriyapatna-Karnataka",
+     "value": "Piriyapatna-Karnataka"
+    },
+    {
+     "key": "Piro-Bihar",
+     "value": "Piro-Bihar"
+    },
+    {
+     "key": "Pithampur-Madhya Pradesh",
+     "value": "Pithampur-Madhya Pradesh"
+    },
+    {
+     "key": "Pithapuram-Andhra Pradesh",
+     "value": "Pithapuram-Andhra Pradesh"
+    },
+    {
+     "key": "Pithoragarh-Uttarakhand",
+     "value": "Pithoragarh-Uttarakhand"
+    },
+    {
+     "key": "Pollachi-Tamil Nadu",
+     "value": "Pollachi-Tamil Nadu"
+    },
+    {
+     "key": "Polur-Tamil Nadu",
+     "value": "Polur-Tamil Nadu"
+    },
+    {
+     "key": "Pondicherry-Pondicherry",
+     "value": "Pondicherry-Pondicherry"
+    },
+    {
+     "key": "Ponnani-Kerala",
+     "value": "Ponnani-Kerala"
+    },
+    {
+     "key": "Ponneri-Tamil Nadu",
+     "value": "Ponneri-Tamil Nadu"
+    },
+    {
+     "key": "Ponnur-Andhra Pradesh",
+     "value": "Ponnur-Andhra Pradesh"
+    },
+    {
+     "key": "Poonch-Jammu and Kashmir",
+     "value": "Poonch-Jammu and Kashmir"
+    },
+    {
+     "key": "Porbandar-Gujarat",
+     "value": "Porbandar-Gujarat"
+    },
+    {
+     "key": "Porsa-Madhya Pradesh",
+     "value": "Porsa-Madhya Pradesh"
+    },
+    {
+     "key": "Port Blair-West Bengal",
+     "value": "Port Blair-West Bengal"
+    },
+    {
+     "key": "Powayan-Uttar Pradesh",
+     "value": "Powayan-Uttar Pradesh"
+    },
+    {
+     "key": "Prakasam-Andhra Pradesh",
+     "value": "Prakasam-Andhra Pradesh"
+    },
+    {
+     "key": "Prantij-Rajasthan",
+     "value": "Prantij-Rajasthan"
+    },
+    {
+     "key": "Pratapgarh-Uttar Pradesh",
+     "value": "Pratapgarh-Uttar Pradesh"
+    },
+    {
+     "key": "Pratapghar-Rajasthan",
+     "value": "Pratapghar-Rajasthan"
+    },
+    {
+     "key": "Prayagraj Allahabad-Uttar Pradesh",
+     "value": "Prayagraj Allahabad-Uttar Pradesh"
+    },
+    {
+     "key": "Prithvipur-Madhya Pradesh",
+     "value": "Prithvipur-Madhya Pradesh"
+    },
+    {
+     "key": "Proddatur-Andhra Pradesh",
+     "value": "Proddatur-Andhra Pradesh"
+    },
+    {
+     "key": "Pudukkottai-Tamil Nadu",
+     "value": "Pudukkottai-Tamil Nadu"
+    },
+    {
+     "key": "Pudupattinam-Tamil Nadu",
+     "value": "Pudupattinam-Tamil Nadu"
+    },
+    {
+     "key": "Pukhrayan-Uttar Pradesh",
+     "value": "Pukhrayan-Uttar Pradesh"
+    },
+    {
+     "key": "Pulgaon-Maharashtra",
+     "value": "Pulgaon-Maharashtra"
+    },
+    {
+     "key": "Puliyankudi-Tamil Nadu",
+     "value": "Puliyankudi-Tamil Nadu"
+    },
+    {
+     "key": "Pulwama-Jammu and Kashmir",
+     "value": "Pulwama-Jammu and Kashmir"
+    },
+    {
+     "key": "Punalur-Kerala",
+     "value": "Punalur-Kerala"
+    },
+    {
+     "key": "Punch-Jammu and Kashmir",
+     "value": "Punch-Jammu and Kashmir"
+    },
+    {
+     "key": "Pune-Maharashtra",
+     "value": "Pune-Maharashtra"
+    },
+    {
+     "key": "Punganur-Andhra Pradesh",
+     "value": "Punganur-Andhra Pradesh"
+    },
+    {
+     "key": "Punjaipugalur-Tamil Nadu",
+     "value": "Punjaipugalur-Tamil Nadu"
+    },
+    {
+     "key": "Puranpur-Uttar Pradesh",
+     "value": "Puranpur-Uttar Pradesh"
+    },
+    {
+     "key": "Puri-Odisha",
+     "value": "Puri-Odisha"
+    },
+    {
+     "key": "Purna-Maharashtra",
+     "value": "Purna-Maharashtra"
+    },
+    {
+     "key": "Purnia-Bihar",
+     "value": "Purnia-Bihar"
+    },
+    {
+     "key": "Purqurban Agglomerationzi-Uttar Pradesh",
+     "value": "Purqurban Agglomerationzi-Uttar Pradesh"
+    },
+    {
+     "key": "Purulia-West Bengal",
+     "value": "Purulia-West Bengal"
+    },
+    {
+     "key": "Puruliya-West Bengal",
+     "value": "Puruliya-West Bengal"
+    },
+    {
+     "key": "Purwa-Uttar Pradesh",
+     "value": "Purwa-Uttar Pradesh"
+    },
+    {
+     "key": "Pusad-Maharashtra",
+     "value": "Pusad-Maharashtra"
+    },
+    {
+     "key": "Puthuppally-Kerala",
+     "value": "Puthuppally-Kerala"
+    },
+    {
+     "key": "Puttur-Karnataka",
+     "value": "Puttur-Karnataka"
+    },
+    {
+     "key": "Qadian-Punjab",
+     "value": "Qadian-Punjab"
+    },
+    {
+     "key": "Raayachuru-Karnataka",
+     "value": "Raayachuru-Karnataka"
+    },
+    {
+     "key": "Rabkavi Banhatti-Karnataka",
+     "value": "Rabkavi Banhatti-Karnataka"
+    },
+    {
+     "key": "Radhanpur-Gujarat",
+     "value": "Radhanpur-Gujarat"
+    },
+    {
+     "key": "Rae Bareli-Uttar Pradesh",
+     "value": "Rae Bareli-Uttar Pradesh"
+    },
+    {
+     "key": "Raebareli-Uttar Pradesh",
+     "value": "Raebareli-Uttar Pradesh"
+    },
+    {
+     "key": "Rafiganj-Bihar",
+     "value": "Rafiganj-Bihar"
+    },
+    {
+     "key": "Raghogarh-Vijaypur-Madhya Pradesh",
+     "value": "Raghogarh-Vijaypur-Madhya Pradesh"
+    },
+    {
+     "key": "Raghunathganj-West Bengal",
+     "value": "Raghunathganj-West Bengal"
+    },
+    {
+     "key": "Raghunathpur-West Bengal",
+     "value": "Raghunathpur-West Bengal"
+    },
+    {
+     "key": "Rahatgarh-Madhya Pradesh",
+     "value": "Rahatgarh-Madhya Pradesh"
+    },
+    {
+     "key": "Rahuri-Maharashtra",
+     "value": "Rahuri-Maharashtra"
+    },
+    {
+     "key": "Raichur-Karnataka",
+     "value": "Raichur-Karnataka"
+    },
+    {
+     "key": "Raiganj-West Bengal",
+     "value": "Raiganj-West Bengal"
+    },
+    {
+     "key": "Raigarh-Chattisgarh",
+     "value": "Raigarh-Chattisgarh"
+    },
+    {
+     "key": "Raigarh(Mh)-Maharashtra",
+     "value": "Raigarh(Mh)-Maharashtra"
+    },
+    {
+     "key": "Raikot-Punjab",
+     "value": "Raikot-Punjab"
+    },
+    {
+     "key": "Raipur-Chattisgarh",
+     "value": "Raipur-Chattisgarh"
+    },
+    {
+     "key": "Rairangpur-Odisha",
+     "value": "Rairangpur-Odisha"
+    },
+    {
+     "key": "Raisen-Madhya Pradesh",
+     "value": "Raisen-Madhya Pradesh"
+    },
+    {
+     "key": "Raisinghnagar-Rajasthan",
+     "value": "Raisinghnagar-Rajasthan"
+    },
+    {
+     "key": "Rajagangapur-Odisha",
+     "value": "Rajagangapur-Odisha"
+    },
+    {
+     "key": "Rajahmundry-Andhra Pradesh",
+     "value": "Rajahmundry-Andhra Pradesh"
+    },
+    {
+     "key": "Rajakhera-Rajasthan",
+     "value": "Rajakhera-Rajasthan"
+    },
+    {
+     "key": "Rajaldesar-Rajasthan",
+     "value": "Rajaldesar-Rajasthan"
+    },
+    {
+     "key": "Rajam-Andhra Pradesh",
+     "value": "Rajam-Andhra Pradesh"
+    },
+    {
+     "key": "Rajampet-Andhra Pradesh",
+     "value": "Rajampet-Andhra Pradesh"
+    },
+    {
+     "key": "Rajapalayam-Tamil Nadu",
+     "value": "Rajapalayam-Tamil Nadu"
+    },
+    {
+     "key": "Rajauri-Jammu and Kashmir",
+     "value": "Rajauri-Jammu and Kashmir"
+    },
+    {
+     "key": "Rajgarh-Madhya Pradesh",
+     "value": "Rajgarh-Madhya Pradesh"
+    },
+    {
+     "key": "Rajgarh (Alwar)-Rajasthan",
+     "value": "Rajgarh (Alwar)-Rajasthan"
+    },
+    {
+     "key": "Rajgarh (Churu)-Rajasthan",
+     "value": "Rajgarh (Churu)-Rajasthan"
+    },
+    {
+     "key": "Rajgir-Bihar",
+     "value": "Rajgir-Bihar"
+    },
+    {
+     "key": "Rajkot-Gujarat",
+     "value": "Rajkot-Gujarat"
+    },
+    {
+     "key": "Rajnandgaon-Chattisgarh",
+     "value": "Rajnandgaon-Chattisgarh"
+    },
+    {
+     "key": "Rajpipla-Gujarat",
+     "value": "Rajpipla-Gujarat"
+    },
+    {
+     "key": "Rajpura-Punjab",
+     "value": "Rajpura-Punjab"
+    },
+    {
+     "key": "Rajsamand-Rajasthan",
+     "value": "Rajsamand-Rajasthan"
+    },
+    {
+     "key": "Rajula-Gujarat",
+     "value": "Rajula-Gujarat"
+    },
+    {
+     "key": "Rajura-Maharashtra",
+     "value": "Rajura-Maharashtra"
+    },
+    {
+     "key": "Ramachandrapuram-Andhra Pradesh",
+     "value": "Ramachandrapuram-Andhra Pradesh"
+    },
+    {
+     "key": "Ramagundam-Telangana",
+     "value": "Ramagundam-Telangana"
+    },
+    {
+     "key": "Ramanagar-Karnataka",
+     "value": "Ramanagar-Karnataka"
+    },
+    {
+     "key": "Ramanagara-Karnataka",
+     "value": "Ramanagara-Karnataka"
+    },
+    {
+     "key": "Ramanagaram-Karnataka",
+     "value": "Ramanagaram-Karnataka"
+    },
+    {
+     "key": "Ramanathapuram-Tamil Nadu",
+     "value": "Ramanathapuram-Tamil Nadu"
+    },
+    {
+     "key": "Ramban-Jammu and Kashmir",
+     "value": "Ramban-Jammu and Kashmir"
+    },
+    {
+     "key": "Ramdurg-Karnataka",
+     "value": "Ramdurg-Karnataka"
+    },
+    {
+     "key": "Rameshwaram-Tamil Nadu",
+     "value": "Rameshwaram-Tamil Nadu"
+    },
+    {
+     "key": "Ramganj Mandi-Rajasthan",
+     "value": "Ramganj Mandi-Rajasthan"
+    },
+    {
+     "key": "Ramgarh-Jharkhand",
+     "value": "Ramgarh-Jharkhand"
+    },
+    {
+     "key": "Ramnagar-Uttarakhand",
+     "value": "Ramnagar-Uttarakhand"
+    },
+    {
+     "key": "Ramngarh-Rajasthan",
+     "value": "Ramngarh-Rajasthan"
+    },
+    {
+     "key": "Rampur-Uttar Pradesh",
+     "value": "Rampur-Uttar Pradesh"
+    },
+    {
+     "key": "Rampur Maniharan-Uttar Pradesh",
+     "value": "Rampur Maniharan-Uttar Pradesh"
+    },
+    {
+     "key": "Rampura Phul-Punjab",
+     "value": "Rampura Phul-Punjab"
+    },
+    {
+     "key": "Rampurhat-West Bengal",
+     "value": "Rampurhat-West Bengal"
+    },
+    {
+     "key": "Ramtek-Maharashtra",
+     "value": "Ramtek-Maharashtra"
+    },
+    {
+     "key": "Ranaghat-West Bengal",
+     "value": "Ranaghat-West Bengal"
+    },
+    {
+     "key": "Ranavav-Gujarat",
+     "value": "Ranavav-Gujarat"
+    },
+    {
+     "key": "Ranchi-Jharkhand",
+     "value": "Ranchi-Jharkhand"
+    },
+    {
+     "key": "Ranebennuru-Karnataka",
+     "value": "Ranebennuru-Karnataka"
+    },
+    {
+     "key": "Ranga Reddy-Telangana",
+     "value": "Ranga Reddy-Telangana"
+    },
+    {
+     "key": "Rangareddy-Telangana",
+     "value": "Rangareddy-Telangana"
+    },
+    {
+     "key": "Rangia-Assam",
+     "value": "Rangia-Assam"
+    },
+    {
+     "key": "Rania-Haryana",
+     "value": "Rania-Haryana"
+    },
+    {
+     "key": "Ranibennur-Karnataka",
+     "value": "Ranibennur-Karnataka"
+    },
+    {
+     "key": "Ranipet-Tamil Nadu",
+     "value": "Ranipet-Tamil Nadu"
+    },
+    {
+     "key": "Rapar-Gujarat",
+     "value": "Rapar-Gujarat"
+    },
+    {
+     "key": "Rasipuram-Tamil Nadu",
+     "value": "Rasipuram-Tamil Nadu"
+    },
+    {
+     "key": "Rasra-Uttar Pradesh",
+     "value": "Rasra-Uttar Pradesh"
+    },
+    {
+     "key": "Ratangarh-Rajasthan",
+     "value": "Ratangarh-Rajasthan"
+    },
+    {
+     "key": "Rath-Uttar Pradesh",
+     "value": "Rath-Uttar Pradesh"
+    },
+    {
+     "key": "Ratia-Haryana",
+     "value": "Ratia-Haryana"
+    },
+    {
+     "key": "Ratlam-Madhya Pradesh",
+     "value": "Ratlam-Madhya Pradesh"
+    },
+    {
+     "key": "Ratnagiri-Maharashtra",
+     "value": "Ratnagiri-Maharashtra"
+    },
+    {
+     "key": "Rau-Madhya Pradesh",
+     "value": "Rau-Madhya Pradesh"
+    },
+    {
+     "key": "Raurkela-Odisha",
+     "value": "Raurkela-Odisha"
+    },
+    {
+     "key": "Raver-Maharashtra",
+     "value": "Raver-Maharashtra"
+    },
+    {
+     "key": "Rawatbhata-Rajasthan",
+     "value": "Rawatbhata-Rajasthan"
+    },
+    {
+     "key": "Rawatsar-Rajasthan",
+     "value": "Rawatsar-Rajasthan"
+    },
+    {
+     "key": "Raxaul Bazar-Bihar",
+     "value": "Raxaul Bazar-Bihar"
+    },
+    {
+     "key": "Rayachoti-Andhra Pradesh",
+     "value": "Rayachoti-Andhra Pradesh"
+    },
+    {
+     "key": "Rayadurg-Andhra Pradesh",
+     "value": "Rayadurg-Andhra Pradesh"
+    },
+    {
+     "key": "Rayagada-Odisha",
+     "value": "Rayagada-Odisha"
+    },
+    {
+     "key": "Reasi-Jammu and Kashmir",
+     "value": "Reasi-Jammu and Kashmir"
+    },
+    {
+     "key": "Reengus-Rajasthan",
+     "value": "Reengus-Rajasthan"
+    },
+    {
+     "key": "Rehli-Madhya Pradesh",
+     "value": "Rehli-Madhya Pradesh"
+    },
+    {
+     "key": "Renigunta-Andhra Pradesh",
+     "value": "Renigunta-Andhra Pradesh"
+    },
+    {
+     "key": "Renukoot-Uttar Pradesh",
+     "value": "Renukoot-Uttar Pradesh"
+    },
+    {
+     "key": "Reoti-Uttar Pradesh",
+     "value": "Reoti-Uttar Pradesh"
+    },
+    {
+     "key": "Repalle-Andhra Pradesh",
+     "value": "Repalle-Andhra Pradesh"
+    },
+    {
+     "key": "Revelganj-Bihar",
+     "value": "Revelganj-Bihar"
+    },
+    {
+     "key": "Rewa-Madhya Pradesh",
+     "value": "Rewa-Madhya Pradesh"
+    },
+    {
+     "key": "Rewari-Haryana",
+     "value": "Rewari-Haryana"
+    },
+    {
+     "key": "Ri Bhoi-Megalaya",
+     "value": "Ri Bhoi-Megalaya"
+    },
+    {
+     "key": "Rishikesh-Uttarakhand",
+     "value": "Rishikesh-Uttarakhand"
+    },
+    {
+     "key": "Risod-Maharashtra",
+     "value": "Risod-Maharashtra"
+    },
+    {
+     "key": "Robertsganj-Uttar Pradesh",
+     "value": "Robertsganj-Uttar Pradesh"
+    },
+    {
+     "key": "Robertson Pet-Karnataka",
+     "value": "Robertson Pet-Karnataka"
+    },
+    {
+     "key": "Rohtak-Haryana",
+     "value": "Rohtak-Haryana"
+    },
+    {
+     "key": "Rohtas-Bihar",
+     "value": "Rohtas-Bihar"
+    },
+    {
+     "key": "Ron-Karnataka",
+     "value": "Ron-Karnataka"
+    },
+    {
+     "key": "Roorkee-Uttarakhand",
+     "value": "Roorkee-Uttarakhand"
+    },
+    {
+     "key": "Ropar-Punjab",
+     "value": "Ropar-Punjab"
+    },
+    {
+     "key": "Rosera-Bihar",
+     "value": "Rosera-Bihar"
+    },
+    {
+     "key": "Rudauli-Uttar Pradesh",
+     "value": "Rudauli-Uttar Pradesh"
+    },
+    {
+     "key": "Rudraprayag-Uttarakhand",
+     "value": "Rudraprayag-Uttarakhand"
+    },
+    {
+     "key": "Rudrapur-Uttarakhand",
+     "value": "Rudrapur-Uttarakhand"
+    },
+    {
+     "key": "Rupnagar-Punjab",
+     "value": "Rupnagar-Punjab"
+    },
+    {
+     "key": "Sabalgarh-Madhya Pradesh",
+     "value": "Sabalgarh-Madhya Pradesh"
+    },
+    {
+     "key": "Sabarkantha-Gujarat",
+     "value": "Sabarkantha-Gujarat"
+    },
+    {
+     "key": "Sadabad-Uttar Pradesh",
+     "value": "Sadabad-Uttar Pradesh"
+    },
+    {
+     "key": "Sadalagi-Karnataka",
+     "value": "Sadalagi-Karnataka"
+    },
+    {
+     "key": "Sadasivpet-Telangana",
+     "value": "Sadasivpet-Telangana"
+    },
+    {
+     "key": "Sadri-Rajasthan",
+     "value": "Sadri-Rajasthan"
+    },
+    {
+     "key": "Sadulpur-Rajasthan",
+     "value": "Sadulpur-Rajasthan"
+    },
+    {
+     "key": "Sadulshahar-Rajasthan",
+     "value": "Sadulshahar-Rajasthan"
+    },
+    {
+     "key": "Safidon-Haryana",
+     "value": "Safidon-Haryana"
+    },
+    {
+     "key": "Safipur-Uttar Pradesh",
+     "value": "Safipur-Uttar Pradesh"
+    },
+    {
+     "key": "Sagar-Karnataka",
+     "value": "Sagar-Karnataka"
+    },
+    {
+     "key": "Sagara-Karnataka",
+     "value": "Sagara-Karnataka"
+    },
+    {
+     "key": "Sagwara-Rajasthan",
+     "value": "Sagwara-Rajasthan"
+    },
+    {
+     "key": "Saharanpur-Uttar Pradesh",
+     "value": "Saharanpur-Uttar Pradesh"
+    },
+    {
+     "key": "Saharsa-Bihar",
+     "value": "Saharsa-Bihar"
+    },
+    {
+     "key": "Sahaspur-Uttar Pradesh",
+     "value": "Sahaspur-Uttar Pradesh"
+    },
+    {
+     "key": "Sahaswan-Uttar Pradesh",
+     "value": "Sahaswan-Uttar Pradesh"
+    },
+    {
+     "key": "Sahawar-Uttar Pradesh",
+     "value": "Sahawar-Uttar Pradesh"
+    },
+    {
+     "key": "Sahibganj-Jharkhand",
+     "value": "Sahibganj-Jharkhand"
+    },
+    {
+     "key": "Sahjanwa-Uttar Pradesh",
+     "value": "Sahjanwa-Uttar Pradesh"
+    },
+    {
+     "key": "Saidpur-Uttar Pradesh",
+     "value": "Saidpur-Uttar Pradesh"
+    },
+    {
+     "key": "Saiha-Mizoram",
+     "value": "Saiha-Mizoram"
+    },
+    {
+     "key": "Sailu-Maharashtra",
+     "value": "Sailu-Maharashtra"
+    },
+    {
+     "key": "Sainthia-West Bengal",
+     "value": "Sainthia-West Bengal"
+    },
+    {
+     "key": "Sakaleshapura-Karnataka",
+     "value": "Sakaleshapura-Karnataka"
+    },
+    {
+     "key": "Sakti-Chhattisgarh",
+     "value": "Sakti-Chhattisgarh"
+    },
+    {
+     "key": "Salaya-Gujarat",
+     "value": "Salaya-Gujarat"
+    },
+    {
+     "key": "Salem-Tamil Nadu",
+     "value": "Salem-Tamil Nadu"
+    },
+    {
+     "key": "Salur-Andhra Pradesh",
+     "value": "Salur-Andhra Pradesh"
+    },
+    {
+     "key": "Samalkha-Haryana",
+     "value": "Samalkha-Haryana"
+    },
+    {
+     "key": "Samalkot-Andhra Pradesh",
+     "value": "Samalkot-Andhra Pradesh"
+    },
+    {
+     "key": "Samana-Punjab",
+     "value": "Samana-Punjab"
+    },
+    {
+     "key": "Samastipur-Bihar",
+     "value": "Samastipur-Bihar"
+    },
+    {
+     "key": "Samba-Jammu and Kashmir",
+     "value": "Samba-Jammu and Kashmir"
+    },
+    {
+     "key": "Sambalpur-Odisha",
+     "value": "Sambalpur-Odisha"
+    },
+    {
+     "key": "Sambhal-Uttar Pradesh",
+     "value": "Sambhal-Uttar Pradesh"
+    },
+    {
+     "key": "Sambhar-Rajasthan",
+     "value": "Sambhar-Rajasthan"
+    },
+    {
+     "key": "Samdhan-Uttar Pradesh",
+     "value": "Samdhan-Uttar Pradesh"
+    },
+    {
+     "key": "Samthar-Uttar Pradesh",
+     "value": "Samthar-Uttar Pradesh"
+    },
+    {
+     "key": "Sanand-Gujarat",
+     "value": "Sanand-Gujarat"
+    },
+    {
+     "key": "Sanawad-Madhya Pradesh",
+     "value": "Sanawad-Madhya Pradesh"
+    },
+    {
+     "key": "Sanchore-Rajasthan",
+     "value": "Sanchore-Rajasthan"
+    },
+    {
+     "key": "Sandi-Uttar Pradesh",
+     "value": "Sandi-Uttar Pradesh"
+    },
+    {
+     "key": "Sandila-Uttar Pradesh",
+     "value": "Sandila-Uttar Pradesh"
+    },
+    {
+     "key": "Sanduru-Karnataka",
+     "value": "Sanduru-Karnataka"
+    },
+    {
+     "key": "Sangamner-Maharashtra",
+     "value": "Sangamner-Maharashtra"
+    },
+    {
+     "key": "Sangareddy-Telangana",
+     "value": "Sangareddy-Telangana"
+    },
+    {
+     "key": "Sangaria-Rajasthan",
+     "value": "Sangaria-Rajasthan"
+    },
+    {
+     "key": "Sangli-Maharashtra",
+     "value": "Sangli-Maharashtra"
+    },
+    {
+     "key": "Sangole-Maharashtra",
+     "value": "Sangole-Maharashtra"
+    },
+    {
+     "key": "Sangrur-Punjab",
+     "value": "Sangrur-Punjab"
+    },
+    {
+     "key": "Sankarankovil-Tamil Nadu",
+     "value": "Sankarankovil-Tamil Nadu"
+    },
+    {
+     "key": "Sankari-Tamil Nadu",
+     "value": "Sankari-Tamil Nadu"
+    },
+    {
+     "key": "Sankeshwara-Karnataka",
+     "value": "Sankeshwara-Karnataka"
+    },
+    {
+     "key": "Sant Kabir Nagar-Uttar Pradesh",
+     "value": "Sant Kabir Nagar-Uttar Pradesh"
+    },
+    {
+     "key": "Sant Ravidas Nagar-Uttar Pradesh",
+     "value": "Sant Ravidas Nagar-Uttar Pradesh"
+    },
+    {
+     "key": "Santipur-West Bengal",
+     "value": "Santipur-West Bengal"
+    },
+    {
+     "key": "Saran-Bihar",
+     "value": "Saran-Bihar"
+    },
+    {
+     "key": "Sarangpur-Madhya Pradesh",
+     "value": "Sarangpur-Madhya Pradesh"
+    },
+    {
+     "key": "Saraswathipuram-Karnataka",
+     "value": "Saraswathipuram-Karnataka"
+    },
+    {
+     "key": "Sardarshahar-Rajasthan",
+     "value": "Sardarshahar-Rajasthan"
+    },
+    {
+     "key": "Sardhana-Uttar Pradesh",
+     "value": "Sardhana-Uttar Pradesh"
+    },
+    {
+     "key": "Sarni-Madhya Pradesh",
+     "value": "Sarni-Madhya Pradesh"
+    },
+    {
+     "key": "Sarsod-Haryana",
+     "value": "Sarsod-Haryana"
+    },
+    {
+     "key": "Sasaram-Bihar",
+     "value": "Sasaram-Bihar"
+    },
+    {
+     "key": "Sasvad-Maharashtra",
+     "value": "Sasvad-Maharashtra"
+    },
+    {
+     "key": "Satana-Maharashtra",
+     "value": "Satana-Maharashtra"
+    },
+    {
+     "key": "Satara-Maharashtra",
+     "value": "Satara-Maharashtra"
+    },
+    {
+     "key": "Sathyamangalam-Tamil Nadu",
+     "value": "Sathyamangalam-Tamil Nadu"
+    },
+    {
+     "key": "Satna-Madhya Pradesh",
+     "value": "Satna-Madhya Pradesh"
+    },
+    {
+     "key": "Sattenapalle-Andhra Pradesh",
+     "value": "Sattenapalle-Andhra Pradesh"
+    },
+    {
+     "key": "Sattur-Tamil Nadu",
+     "value": "Sattur-Tamil Nadu"
+    },
+    {
+     "key": "Saunda-Jharkhand",
+     "value": "Saunda-Jharkhand"
+    },
+    {
+     "key": "Saundatti-Yellamma-Karnataka",
+     "value": "Saundatti-Yellamma-Karnataka"
+    },
+    {
+     "key": "Sausar-Madhya Pradesh",
+     "value": "Sausar-Madhya Pradesh"
+    },
+    {
+     "key": "Savanur-Karnataka",
+     "value": "Savanur-Karnataka"
+    },
+    {
+     "key": "Savarkundla-Gujarat",
+     "value": "Savarkundla-Gujarat"
+    },
+    {
+     "key": "Savner-Maharashtra",
+     "value": "Savner-Maharashtra"
+    },
+    {
+     "key": "Sawai Madhopur-Rajasthan",
+     "value": "Sawai Madhopur-Rajasthan"
+    },
+    {
+     "key": "Sawantwadi-Maharashtra",
+     "value": "Sawantwadi-Maharashtra"
+    },
+    {
+     "key": "Secunderabad-Telangana",
+     "value": "Secunderabad-Telangana"
+    },
+    {
+     "key": "Sedam-Karnataka",
+     "value": "Sedam-Karnataka"
+    },
+    {
+     "key": "Sehore-Madhya Pradesh",
+     "value": "Sehore-Madhya Pradesh"
+    },
+    {
+     "key": "Senapati-Manipur",
+     "value": "Senapati-Manipur"
+    },
+    {
+     "key": "Sendhwa-Madhya Pradesh",
+     "value": "Sendhwa-Madhya Pradesh"
+    },
+    {
+     "key": "Seohara-Uttar Pradesh",
+     "value": "Seohara-Uttar Pradesh"
+    },
+    {
+     "key": "Seoni-Madhya Pradesh",
+     "value": "Seoni-Madhya Pradesh"
+    },
+    {
+     "key": "Seoni-Malwa-Madhya Pradesh",
+     "value": "Seoni-Malwa-Madhya Pradesh"
+    },
+    {
+     "key": "Sepahijala-Tripura",
+     "value": "Sepahijala-Tripura"
+    },
+    {
+     "key": "Seraikelakharsawan-Jharkhand",
+     "value": "Seraikelakharsawan-Jharkhand"
+    },
+    {
+     "key": "Serchhip-Mizoram",
+     "value": "Serchhip-Mizoram"
+    },
+    {
+     "key": "Shahabad-Karnataka",
+     "value": "Shahabad-Karnataka"
+    },
+    {
+     "key": "Shahabad, Hardoi-Uttar Pradesh",
+     "value": "Shahabad, Hardoi-Uttar Pradesh"
+    },
+    {
+     "key": "Shahabad, Rampur-Uttar Pradesh",
+     "value": "Shahabad, Rampur-Uttar Pradesh"
+    },
+    {
+     "key": "Shahade-Maharashtra",
+     "value": "Shahade-Maharashtra"
+    },
+    {
+     "key": "Shahbad-Haryana",
+     "value": "Shahbad-Haryana"
+    },
+    {
+     "key": "Shahdara-Delhi",
+     "value": "Shahdara-Delhi"
+    },
+    {
+     "key": "Shahdol-Madhya Pradesh",
+     "value": "Shahdol-Madhya Pradesh"
+    },
+    {
+     "key": "Shahganj-Uttar Pradesh",
+     "value": "Shahganj-Uttar Pradesh"
+    },
+    {
+     "key": "Shahjahanpur-Uttar Pradesh",
+     "value": "Shahjahanpur-Uttar Pradesh"
+    },
+    {
+     "key": "Shahpur-Karnataka",
+     "value": "Shahpur-Karnataka"
+    },
+    {
+     "key": "Shahpura-Rajasthan",
+     "value": "Shahpura-Rajasthan"
+    },
+    {
+     "key": "Shajapur-Madhya Pradesh",
+     "value": "Shajapur-Madhya Pradesh"
+    },
+    {
+     "key": "Shamgarh-Madhya Pradesh",
+     "value": "Shamgarh-Madhya Pradesh"
+    },
+    {
+     "key": "Shamli-Uttar Pradesh",
+     "value": "Shamli-Uttar Pradesh"
+    },
+    {
+     "key": "Shamsabad, Agra-Uttar Pradesh",
+     "value": "Shamsabad, Agra-Uttar Pradesh"
+    },
+    {
+     "key": "Shamsabad, Farrukhabad-Uttar Pradesh",
+     "value": "Shamsabad, Farrukhabad-Uttar Pradesh"
+    },
+    {
+     "key": "Shegaon-Maharashtra",
+     "value": "Shegaon-Maharashtra"
+    },
+    {
+     "key": "Sheikhpura-Bihar",
+     "value": "Sheikhpura-Bihar"
+    },
+    {
+     "key": "Shendurjana-Maharashtra",
+     "value": "Shendurjana-Maharashtra"
+    },
+    {
+     "key": "Shenkottai-Tamil Nadu",
+     "value": "Shenkottai-Tamil Nadu"
+    },
+    {
+     "key": "Sheoganj-Rajasthan",
+     "value": "Sheoganj-Rajasthan"
+    },
+    {
+     "key": "Sheohar-Bihar",
+     "value": "Sheohar-Bihar"
+    },
+    {
+     "key": "Sheopur-Madhya Pradesh",
+     "value": "Sheopur-Madhya Pradesh"
+    },
+    {
+     "key": "Sherghati-Bihar",
+     "value": "Sherghati-Bihar"
+    },
+    {
+     "key": "Sherkot-Uttar Pradesh",
+     "value": "Sherkot-Uttar Pradesh"
+    },
+    {
+     "key": "Shiggaon-Karnataka",
+     "value": "Shiggaon-Karnataka"
+    },
+    {
+     "key": "Shikaripur-Karnataka",
+     "value": "Shikaripur-Karnataka"
+    },
+    {
+     "key": "Shikarpur, Bulandshahr-Uttar Pradesh",
+     "value": "Shikarpur, Bulandshahr-Uttar Pradesh"
+    },
+    {
+     "key": "Shikohabad-Uttar Pradesh",
+     "value": "Shikohabad-Uttar Pradesh"
+    },
+    {
+     "key": "Shillong-Megalaya",
+     "value": "Shillong-Megalaya"
+    },
+    {
+     "key": "Shimla-Himachal Pradesh",
+     "value": "Shimla-Himachal Pradesh"
+    },
+    {
+     "key": "Shirdi-Maharashtra",
+     "value": "Shirdi-Maharashtra"
+    },
+    {
+     "key": "Shirpur-Warwade-Maharashtra",
+     "value": "Shirpur-Warwade-Maharashtra"
+    },
+    {
+     "key": "Shirur-Maharashtra",
+     "value": "Shirur-Maharashtra"
+    },
+    {
+     "key": "Shishgarh-Uttar Pradesh",
+     "value": "Shishgarh-Uttar Pradesh"
+    },
+    {
+     "key": "Shivamogga-Karnataka",
+     "value": "Shivamogga-Karnataka"
+    },
+    {
+     "key": "Shivpuri-Madhya Pradesh",
+     "value": "Shivpuri-Madhya Pradesh"
+    },
+    {
+     "key": "Sholavandan-Tamil Nadu",
+     "value": "Sholavandan-Tamil Nadu"
+    },
+    {
+     "key": "Sholingur-Tamil Nadu",
+     "value": "Sholingur-Tamil Nadu"
+    },
+    {
+     "key": "Shopian-Jammu and Kashmir",
+     "value": "Shopian-Jammu and Kashmir"
+    },
+    {
+     "key": "Shoranur-Kerala",
+     "value": "Shoranur-Kerala"
+    },
+    {
+     "key": "Shrawasti-Uttar Pradesh",
+     "value": "Shrawasti-Uttar Pradesh"
+    },
+    {
+     "key": "Shrigonda-Maharashtra",
+     "value": "Shrigonda-Maharashtra"
+    },
+    {
+     "key": "Shrirampur-Maharashtra",
+     "value": "Shrirampur-Maharashtra"
+    },
+    {
+     "key": "Shrirangapattana-Karnataka",
+     "value": "Shrirangapattana-Karnataka"
+    },
+    {
+     "key": "Shujalpur-Madhya Pradesh",
+     "value": "Shujalpur-Madhya Pradesh"
+    },
+    {
+     "key": "Siana-Uttar Pradesh",
+     "value": "Siana-Uttar Pradesh"
+    },
+    {
+     "key": "Sibsagar-Assam",
+     "value": "Sibsagar-Assam"
+    },
+    {
+     "key": "Siddapur-Karnataka",
+     "value": "Siddapur-Karnataka"
+    },
+    {
+     "key": "Siddharthnagar-Uttar Pradesh",
+     "value": "Siddharthnagar-Uttar Pradesh"
+    },
+    {
+     "key": "Siddipet-Telangana",
+     "value": "Siddipet-Telangana"
+    },
+    {
+     "key": "Sidhi-Madhya Pradesh",
+     "value": "Sidhi-Madhya Pradesh"
+    },
+    {
+     "key": "Sidhpur-Gujarat",
+     "value": "Sidhpur-Gujarat"
+    },
+    {
+     "key": "Sidlaghatta-Karnataka",
+     "value": "Sidlaghatta-Karnataka"
+    },
+    {
+     "key": "Sihor-Gujarat",
+     "value": "Sihor-Gujarat"
+    },
+    {
+     "key": "Sihora-Madhya Pradesh",
+     "value": "Sihora-Madhya Pradesh"
+    },
+    {
+     "key": "Sikanderpur-Uttar Pradesh",
+     "value": "Sikanderpur-Uttar Pradesh"
+    },
+    {
+     "key": "Sikandra Rao-Uttar Pradesh",
+     "value": "Sikandra Rao-Uttar Pradesh"
+    },
+    {
+     "key": "Sikandrabad-Uttar Pradesh",
+     "value": "Sikandrabad-Uttar Pradesh"
+    },
+    {
+     "key": "Sikar-Rajasthan",
+     "value": "Sikar-Rajasthan"
+    },
+    {
+     "key": "Silao-Bihar",
+     "value": "Silao-Bihar"
+    },
+    {
+     "key": "Silapathar-Assam",
+     "value": "Silapathar-Assam"
+    },
+    {
+     "key": "Silchar-Assam",
+     "value": "Silchar-Assam"
+    },
+    {
+     "key": "Siliguri-West Bengal",
+     "value": "Siliguri-West Bengal"
+    },
+    {
+     "key": "Sillod-Maharashtra",
+     "value": "Sillod-Maharashtra"
+    },
+    {
+     "key": "Silvassa-Dadra and Nagar Haveli",
+     "value": "Silvassa-Dadra and Nagar Haveli"
+    },
+    {
+     "key": "Simdega-Jharkhand",
+     "value": "Simdega-Jharkhand"
+    },
+    {
+     "key": "Sindagi-Karnataka",
+     "value": "Sindagi-Karnataka"
+    },
+    {
+     "key": "Sindhagi-Karnataka",
+     "value": "Sindhagi-Karnataka"
+    },
+    {
+     "key": "Sindhnur-Karnataka",
+     "value": "Sindhnur-Karnataka"
+    },
+    {
+     "key": "Sindhudurg-Maharashtra",
+     "value": "Sindhudurg-Maharashtra"
+    },
+    {
+     "key": "Singrauli-Madhya Pradesh",
+     "value": "Singrauli-Madhya Pradesh"
+    },
+    {
+     "key": "Sinnar-Maharashtra",
+     "value": "Sinnar-Maharashtra"
+    },
+    {
+     "key": "Sira-Karnataka",
+     "value": "Sira-Karnataka"
+    },
+    {
+     "key": "Sircilla-Telangana",
+     "value": "Sircilla-Telangana"
+    },
+    {
+     "key": "Sirhind Fatehgarh Sahib-Punjab",
+     "value": "Sirhind Fatehgarh Sahib-Punjab"
+    },
+    {
+     "key": "Sirkali-Tamil Nadu",
+     "value": "Sirkali-Tamil Nadu"
+    },
+    {
+     "key": "Sirmaur-Himachal Pradesh",
+     "value": "Sirmaur-Himachal Pradesh"
+    },
+    {
+     "key": "Sirohi-Rajasthan",
+     "value": "Sirohi-Rajasthan"
+    },
+    {
+     "key": "Sironj-Madhya Pradesh",
+     "value": "Sironj-Madhya Pradesh"
+    },
+    {
+     "key": "Sirsa-Haryana",
+     "value": "Sirsa-Haryana"
+    },
+    {
+     "key": "Sirsaganj-Uttar Pradesh",
+     "value": "Sirsaganj-Uttar Pradesh"
+    },
+    {
+     "key": "Sirsi-Karnataka",
+     "value": "Sirsi-Karnataka"
+    },
+    {
+     "key": "Siruguppa-Karnataka",
+     "value": "Siruguppa-Karnataka"
+    },
+    {
+     "key": "Sitamarhi-Bihar",
+     "value": "Sitamarhi-Bihar"
+    },
+    {
+     "key": "Sitapur-Uttar Pradesh",
+     "value": "Sitapur-Uttar Pradesh"
+    },
+    {
+     "key": "Sitarganj-Uttarakhand",
+     "value": "Sitarganj-Uttarakhand"
+    },
+    {
+     "key": "Sivaganga-Tamil Nadu",
+     "value": "Sivaganga-Tamil Nadu"
+    },
+    {
+     "key": "Sivagiri-Tamil Nadu",
+     "value": "Sivagiri-Tamil Nadu"
+    },
+    {
+     "key": "Sivakasi-Tamil Nadu",
+     "value": "Sivakasi-Tamil Nadu"
+    },
+    {
+     "key": "Siwan-Bihar",
+     "value": "Siwan-Bihar"
+    },
+    {
+     "key": "Sohagpur-Madhya Pradesh",
+     "value": "Sohagpur-Madhya Pradesh"
+    },
+    {
+     "key": "Sohna-Haryana",
+     "value": "Sohna-Haryana"
+    },
+    {
+     "key": "Sojat-Rajasthan",
+     "value": "Sojat-Rajasthan"
+    },
+    {
+     "key": "Solan-Himachal Pradesh",
+     "value": "Solan-Himachal Pradesh"
+    },
+    {
+     "key": "Solapur-Maharashtra",
+     "value": "Solapur-Maharashtra"
+    },
+    {
+     "key": "Sonamukhi-West Bengal",
+     "value": "Sonamukhi-West Bengal"
+    },
+    {
+     "key": "Sonapur-Assam",
+     "value": "Sonapur-Assam"
+    },
+    {
+     "key": "Sonbhadra-Uttar Pradesh",
+     "value": "Sonbhadra-Uttar Pradesh"
+    },
+    {
+     "key": "Sonepur-Bihar",
+     "value": "Sonepur-Bihar"
+    },
+    {
+     "key": "Songadh-Gujarat",
+     "value": "Songadh-Gujarat"
+    },
+    {
+     "key": "Sonipat-Haryana",
+     "value": "Sonipat-Haryana"
+    },
+    {
+     "key": "Sonitpur-Assam",
+     "value": "Sonitpur-Assam"
+    },
+    {
+     "key": "Sopore-Jammu and Kashmir",
+     "value": "Sopore-Jammu and Kashmir"
+    },
+    {
+     "key": "Soro-Odisha",
+     "value": "Soro-Odisha"
+    },
+    {
+     "key": "Soron-Uttar Pradesh",
+     "value": "Soron-Uttar Pradesh"
+    },
+    {
+     "key": "South 24 Parganas-West Bengal",
+     "value": "South 24 Parganas-West Bengal"
+    },
+    {
+     "key": "South Andaman-Andaman and Nico.In.",
+     "value": "South Andaman-Andaman and Nico.In."
+    },
+    {
+     "key": "South Delhi-Delhi",
+     "value": "South Delhi-Delhi"
+    },
+    {
+     "key": "South Dinajpur-West Bengal",
+     "value": "South Dinajpur-West Bengal"
+    },
+    {
+     "key": "South Garo Hills-Megalaya",
+     "value": "South Garo Hills-Megalaya"
+    },
+    {
+     "key": "South Goa-Goa",
+     "value": "South Goa-Goa"
+    },
+    {
+     "key": "South Sikkim-Sikkim",
+     "value": "South Sikkim-Sikkim"
+    },
+    {
+     "key": "South Tripura-Tripura",
+     "value": "South Tripura-Tripura"
+    },
+    {
+     "key": "South West Delhi-Delhi",
+     "value": "South West Delhi-Delhi"
+    },
+    {
+     "key": "South West Khasi Hills-Megalaya",
+     "value": "South West Khasi Hills-Megalaya"
+    },
+    {
+     "key": "Soyagaon-Maharashtra",
+     "value": "Soyagaon-Maharashtra"
+    },
+    {
+     "key": "Sri Ganganagar-Rajasthan",
+     "value": "Sri Ganganagar-Rajasthan"
+    },
+    {
+     "key": "Sri Madhopur-Rajasthan",
+     "value": "Sri Madhopur-Rajasthan"
+    },
+    {
+     "key": "Sriganganagar-Rajasthan",
+     "value": "Sriganganagar-Rajasthan"
+    },
+    {
+     "key": "Srikakulam-Andhra Pradesh",
+     "value": "Srikakulam-Andhra Pradesh"
+    },
+    {
+     "key": "Srikalahasti-Andhra Pradesh",
+     "value": "Srikalahasti-Andhra Pradesh"
+    },
+    {
+     "key": "Srinagar-Jammu and Kashmir",
+     "value": "Srinagar-Jammu and Kashmir"
+    },
+    {
+     "key": "Srinivaspur-Karnataka",
+     "value": "Srinivaspur-Karnataka"
+    },
+    {
+     "key": "Srirampore-West Bengal",
+     "value": "Srirampore-West Bengal"
+    },
+    {
+     "key": "Srisailam Project (Right Flank Colony) Township-Andhra Pradesh",
+     "value": "Srisailam Project (Right Flank Colony) Township-Andhra Pradesh"
+    },
+    {
+     "key": "Srivilliputhur-Tamil Nadu",
+     "value": "Srivilliputhur-Tamil Nadu"
+    },
+    {
+     "key": "Stn. Jadcherla-Telangana",
+     "value": "Stn. Jadcherla-Telangana"
+    },
+    {
+     "key": "Sugauli-Bihar",
+     "value": "Sugauli-Bihar"
+    },
+    {
+     "key": "Sujangarh-Rajasthan",
+     "value": "Sujangarh-Rajasthan"
+    },
+    {
+     "key": "Sujanpur-Punjab",
+     "value": "Sujanpur-Punjab"
+    },
+    {
+     "key": "Sukma-Chattisgarh",
+     "value": "Sukma-Chattisgarh"
+    },
+    {
+     "key": "Sullurpeta-Andhra Pradesh",
+     "value": "Sullurpeta-Andhra Pradesh"
+    },
+    {
+     "key": "Sultanganj-Bihar",
+     "value": "Sultanganj-Bihar"
+    },
+    {
+     "key": "Sultanpur-Uttar Pradesh",
+     "value": "Sultanpur-Uttar Pradesh"
+    },
+    {
+     "key": "Sumerpur-Rajasthan",
+     "value": "Sumerpur-Rajasthan"
+    },
+    {
+     "key": "Sunabeda-Odisha",
+     "value": "Sunabeda-Odisha"
+    },
+    {
+     "key": "Sunam-Punjab",
+     "value": "Sunam-Punjab"
+    },
+    {
+     "key": "Sundargarh-Odisha",
+     "value": "Sundargarh-Odisha"
+    },
+    {
+     "key": "Sundarnagar-Himachal Pradesh",
+     "value": "Sundarnagar-Himachal Pradesh"
+    },
+    {
+     "key": "Sundergarh-Odisha",
+     "value": "Sundergarh-Odisha"
+    },
+    {
+     "key": "Supaul-Bihar",
+     "value": "Supaul-Bihar"
+    },
+    {
+     "key": "Surajpur-Chattisgarh",
+     "value": "Surajpur-Chattisgarh"
+    },
+    {
+     "key": "Surandai-Tamil Nadu",
+     "value": "Surandai-Tamil Nadu"
+    },
+    {
+     "key": "Surapura-Karnataka",
+     "value": "Surapura-Karnataka"
+    },
+    {
+     "key": "Surat-Gujarat",
+     "value": "Surat-Gujarat"
+    },
+    {
+     "key": "Suratgarh-Rajasthan",
+     "value": "Suratgarh-Rajasthan"
+    },
+    {
+     "key": "Surban Agglomerationr-Uttar Pradesh",
+     "value": "Surban Agglomerationr-Uttar Pradesh"
+    },
+    {
+     "key": "Surendra Nagar-Gujarat",
+     "value": "Surendra Nagar-Gujarat"
+    },
+    {
+     "key": "Surguja-Chattisgarh",
+     "value": "Surguja-Chattisgarh"
+    },
+    {
+     "key": "Suri-West Bengal",
+     "value": "Suri-West Bengal"
+    },
+    {
+     "key": "Suriyampalayam-Tamil Nadu",
+     "value": "Suriyampalayam-Tamil Nadu"
+    },
+    {
+     "key": "Suryapet-Telangana",
+     "value": "Suryapet-Telangana"
+    },
+    {
+     "key": "Tadepalligudem-Andhra Pradesh",
+     "value": "Tadepalligudem-Andhra Pradesh"
+    },
+    {
+     "key": "Tadpatri-Andhra Pradesh",
+     "value": "Tadpatri-Andhra Pradesh"
+    },
+    {
+     "key": "Takhatgarh-Rajasthan",
+     "value": "Takhatgarh-Rajasthan"
+    },
+    {
+     "key": "Taki-West Bengal",
+     "value": "Taki-West Bengal"
+    },
+    {
+     "key": "Talaja-Gujarat",
+     "value": "Talaja-Gujarat"
+    },
+    {
+     "key": "Talcher-Odisha",
+     "value": "Talcher-Odisha"
+    },
+    {
+     "key": "Talegaon Dabhade-Maharashtra",
+     "value": "Talegaon Dabhade-Maharashtra"
+    },
+    {
+     "key": "Talikota-Karnataka",
+     "value": "Talikota-Karnataka"
+    },
+    {
+     "key": "Taliparamba-Kerala",
+     "value": "Taliparamba-Kerala"
+    },
+    {
+     "key": "Talode-Maharashtra",
+     "value": "Talode-Maharashtra"
+    },
+    {
+     "key": "Talwara-Punjab",
+     "value": "Talwara-Punjab"
+    },
+    {
+     "key": "Tamenglong-Manipur",
+     "value": "Tamenglong-Manipur"
+    },
+    {
+     "key": "Tamluk-West Bengal",
+     "value": "Tamluk-West Bengal"
+    },
+    {
+     "key": "Tanda-Uttar Pradesh",
+     "value": "Tanda-Uttar Pradesh"
+    },
+    {
+     "key": "Tandur-Telangana",
+     "value": "Tandur-Telangana"
+    },
+    {
+     "key": "Tanuku-Andhra Pradesh",
+     "value": "Tanuku-Andhra Pradesh"
+    },
+    {
+     "key": "Tapi-Gujarat",
+     "value": "Tapi-Gujarat"
+    },
+    {
+     "key": "Tarakeswar-West Bengal",
+     "value": "Tarakeswar-West Bengal"
+    },
+    {
+     "key": "Tarana-Madhya Pradesh",
+     "value": "Tarana-Madhya Pradesh"
+    },
+    {
+     "key": "Taranagar-Rajasthan",
+     "value": "Taranagar-Rajasthan"
+    },
+    {
+     "key": "Taraori-Haryana",
+     "value": "Taraori-Haryana"
+    },
+    {
+     "key": "Tarbha-Odisha",
+     "value": "Tarbha-Odisha"
+    },
+    {
+     "key": "Tarikere-Karnataka",
+     "value": "Tarikere-Karnataka"
+    },
+    {
+     "key": "Tarn Taran-Punjab",
+     "value": "Tarn Taran-Punjab"
+    },
+    {
+     "key": "Tasgaon-Maharashtra",
+     "value": "Tasgaon-Maharashtra"
+    },
+    {
+     "key": "Tawang-Arunachal Pradesh",
+     "value": "Tawang-Arunachal Pradesh"
+    },
+    {
+     "key": "Tehri-Uttarakhand",
+     "value": "Tehri-Uttarakhand"
+    },
+    {
+     "key": "Tehri Garhwal-Uttarakhand",
+     "value": "Tehri Garhwal-Uttarakhand"
+    },
+    {
+     "key": "Tekkalakote-Karnataka",
+     "value": "Tekkalakote-Karnataka"
+    },
+    {
+     "key": "Tenali-Andhra Pradesh",
+     "value": "Tenali-Andhra Pradesh"
+    },
+    {
+     "key": "Tengnoupal-Manipur",
+     "value": "Tengnoupal-Manipur"
+    },
+    {
+     "key": "Tenkasi-Tamil Nadu",
+     "value": "Tenkasi-Tamil Nadu"
+    },
+    {
+     "key": "Tenu Dam-Cum-Kathhara-Jharkhand",
+     "value": "Tenu Dam-Cum-Kathhara-Jharkhand"
+    },
+    {
+     "key": "Terdal-Karnataka",
+     "value": "Terdal-Karnataka"
+    },
+    {
+     "key": "Tezpur-Assam",
+     "value": "Tezpur-Assam"
+    },
+    {
+     "key": "Thakurdwara-Uttar Pradesh",
+     "value": "Thakurdwara-Uttar Pradesh"
+    },
+    {
+     "key": "Thalassery-Kerala",
+     "value": "Thalassery-Kerala"
+    },
+    {
+     "key": "Thammampatti-Tamil Nadu",
+     "value": "Thammampatti-Tamil Nadu"
+    },
+    {
+     "key": "Thana Bhawan-Uttar Pradesh",
+     "value": "Thana Bhawan-Uttar Pradesh"
+    },
+    {
+     "key": "Thane-Maharashtra",
+     "value": "Thane-Maharashtra"
+    },
+    {
+     "key": "Thanesar-Haryana",
+     "value": "Thanesar-Haryana"
+    },
+    {
+     "key": "Thangadh-Gujarat",
+     "value": "Thangadh-Gujarat"
+    },
+    {
+     "key": "Thanjavur-Tamil Nadu",
+     "value": "Thanjavur-Tamil Nadu"
+    },
+    {
+     "key": "Thanlon-Manipur",
+     "value": "Thanlon-Manipur"
+    },
+    {
+     "key": "Tharad-Gujarat",
+     "value": "Tharad-Gujarat"
+    },
+    {
+     "key": "Tharamangalam-Tamil Nadu",
+     "value": "Tharamangalam-Tamil Nadu"
+    },
+    {
+     "key": "Tharangambadi-Tamil Nadu",
+     "value": "Tharangambadi-Tamil Nadu"
+    },
+    {
+     "key": "Theni-Tamil Nadu",
+     "value": "Theni-Tamil Nadu"
+    },
+    {
+     "key": "Theni Allinagaram-Tamil Nadu",
+     "value": "Theni Allinagaram-Tamil Nadu"
+    },
+    {
+     "key": "Thirumangalam-Tamil Nadu",
+     "value": "Thirumangalam-Tamil Nadu"
+    },
+    {
+     "key": "Thirupuvanam-Tamil Nadu",
+     "value": "Thirupuvanam-Tamil Nadu"
+    },
+    {
+     "key": "Thiruthuraipoondi-Tamil Nadu",
+     "value": "Thiruthuraipoondi-Tamil Nadu"
+    },
+    {
+     "key": "Thiruvalla-Kerala",
+     "value": "Thiruvalla-Kerala"
+    },
+    {
+     "key": "Thiruvallur-Tamil Nadu",
+     "value": "Thiruvallur-Tamil Nadu"
+    },
+    {
+     "key": "Thiruvananthapuram-Kerala",
+     "value": "Thiruvananthapuram-Kerala"
+    },
+    {
+     "key": "Thiruvarur-Tamil Nadu",
+     "value": "Thiruvarur-Tamil Nadu"
+    },
+    {
+     "key": "Thodupuzha-Kerala",
+     "value": "Thodupuzha-Kerala"
+    },
+    {
+     "key": "Thoubal-Manipur",
+     "value": "Thoubal-Manipur"
+    },
+    {
+     "key": "Thrissur-Kerala",
+     "value": "Thrissur-Kerala"
+    },
+    {
+     "key": "Thuraiyur-Tamil Nadu",
+     "value": "Thuraiyur-Tamil Nadu"
+    },
+    {
+     "key": "Tikamgarh-Madhya Pradesh",
+     "value": "Tikamgarh-Madhya Pradesh"
+    },
+    {
+     "key": "Tilda Newra-Chhattisgarh",
+     "value": "Tilda Newra-Chhattisgarh"
+    },
+    {
+     "key": "Tilhar-Uttar Pradesh",
+     "value": "Tilhar-Uttar Pradesh"
+    },
+    {
+     "key": "Tindivanam-Tamil Nadu",
+     "value": "Tindivanam-Tamil Nadu"
+    },
+    {
+     "key": "Tinsukia-Assam",
+     "value": "Tinsukia-Assam"
+    },
+    {
+     "key": "Tiptur-Karnataka",
+     "value": "Tiptur-Karnataka"
+    },
+    {
+     "key": "Tirap-Arunachal Pradesh",
+     "value": "Tirap-Arunachal Pradesh"
+    },
+    {
+     "key": "Tirora-Maharashtra",
+     "value": "Tirora-Maharashtra"
+    },
+    {
+     "key": "Tiruchendur-Tamil Nadu",
+     "value": "Tiruchendur-Tamil Nadu"
+    },
+    {
+     "key": "Tiruchengode-Tamil Nadu",
+     "value": "Tiruchengode-Tamil Nadu"
+    },
+    {
+     "key": "Tiruchirappalli-Tamil Nadu",
+     "value": "Tiruchirappalli-Tamil Nadu"
+    },
+    {
+     "key": "Tirukalukundram-Tamil Nadu",
+     "value": "Tirukalukundram-Tamil Nadu"
+    },
+    {
+     "key": "Tirukkoyilur-Tamil Nadu",
+     "value": "Tirukkoyilur-Tamil Nadu"
+    },
+    {
+     "key": "Tirunelveli-Tamil Nadu",
+     "value": "Tirunelveli-Tamil Nadu"
+    },
+    {
+     "key": "Tirupathur-Tamil Nadu",
+     "value": "Tirupathur-Tamil Nadu"
+    },
+    {
+     "key": "Tirupati-Andhra Pradesh",
+     "value": "Tirupati-Andhra Pradesh"
+    },
+    {
+     "key": "Tiruppur-Tamil Nadu",
+     "value": "Tiruppur-Tamil Nadu"
+    },
+    {
+     "key": "Tirur-Kerala",
+     "value": "Tirur-Kerala"
+    },
+    {
+     "key": "Tiruttani-Tamil Nadu",
+     "value": "Tiruttani-Tamil Nadu"
+    },
+    {
+     "key": "Tiruvallur-Tamil Nadu",
+     "value": "Tiruvallur-Tamil Nadu"
+    },
+    {
+     "key": "Tiruvannamalai-Tamil Nadu",
+     "value": "Tiruvannamalai-Tamil Nadu"
+    },
+    {
+     "key": "Tiruvarur-Tamil Nadu",
+     "value": "Tiruvarur-Tamil Nadu"
+    },
+    {
+     "key": "Tiruvethipuram-Tamil Nadu",
+     "value": "Tiruvethipuram-Tamil Nadu"
+    },
+    {
+     "key": "Tiruvuru-Andhra Pradesh",
+     "value": "Tiruvuru-Andhra Pradesh"
+    },
+    {
+     "key": "Tirwaganj-Uttar Pradesh",
+     "value": "Tirwaganj-Uttar Pradesh"
+    },
+    {
+     "key": "Titlagarh-Odisha",
+     "value": "Titlagarh-Odisha"
+    },
+    {
+     "key": "Tittakudi-Tamil Nadu",
+     "value": "Tittakudi-Tamil Nadu"
+    },
+    {
+     "key": "Todabhim-Rajasthan",
+     "value": "Todabhim-Rajasthan"
+    },
+    {
+     "key": "Todaraisingh-Rajasthan",
+     "value": "Todaraisingh-Rajasthan"
+    },
+    {
+     "key": "Tohana-Haryana",
+     "value": "Tohana-Haryana"
+    },
+    {
+     "key": "Tonk-Rajasthan",
+     "value": "Tonk-Rajasthan"
+    },
+    {
+     "key": "Trimulgherry-Telangana",
+     "value": "Trimulgherry-Telangana"
+    },
+    {
+     "key": "Tuensang-Nagaland",
+     "value": "Tuensang-Nagaland"
+    },
+    {
+     "key": "Tuljapur-Maharashtra",
+     "value": "Tuljapur-Maharashtra"
+    },
+    {
+     "key": "Tulsipur-Uttar Pradesh",
+     "value": "Tulsipur-Uttar Pradesh"
+    },
+    {
+     "key": "Tumakuru-Karnataka",
+     "value": "Tumakuru-Karnataka"
+    },
+    {
+     "key": "Tumkur-Karnataka",
+     "value": "Tumkur-Karnataka"
+    },
+    {
+     "key": "Tumsar-Maharashtra",
+     "value": "Tumsar-Maharashtra"
+    },
+    {
+     "key": "Tundla-Uttar Pradesh",
+     "value": "Tundla-Uttar Pradesh"
+    },
+    {
+     "key": "Tuni-Andhra Pradesh",
+     "value": "Tuni-Andhra Pradesh"
+    },
+    {
+     "key": "Tura-Megalaya",
+     "value": "Tura-Megalaya"
+    },
+    {
+     "key": "Tuticorin-Tamil Nadu",
+     "value": "Tuticorin-Tamil Nadu"
+    },
+    {
+     "key": "Uchgaon-Maharashtra",
+     "value": "Uchgaon-Maharashtra"
+    },
+    {
+     "key": "Udaipur-Rajasthan",
+     "value": "Udaipur-Rajasthan"
+    },
+    {
+     "key": "Udaipurwati-Rajasthan",
+     "value": "Udaipurwati-Rajasthan"
+    },
+    {
+     "key": "Udalguri-Assam",
+     "value": "Udalguri-Assam"
+    },
+    {
+     "key": "Udgir-Maharashtra",
+     "value": "Udgir-Maharashtra"
+    },
+    {
+     "key": "Udhagamandalam-Tamil Nadu",
+     "value": "Udhagamandalam-Tamil Nadu"
+    },
+    {
+     "key": "Udham Singh Nagar-Uttarakhand",
+     "value": "Udham Singh Nagar-Uttarakhand"
+    },
+    {
+     "key": "Udhampur-Jammu and Kashmir",
+     "value": "Udhampur-Jammu and Kashmir"
+    },
+    {
+     "key": "Udumalaipettai-Tamil Nadu",
+     "value": "Udumalaipettai-Tamil Nadu"
+    },
+    {
+     "key": "Udupi-Karnataka",
+     "value": "Udupi-Karnataka"
+    },
+    {
+     "key": "Ujhani-Uttar Pradesh",
+     "value": "Ujhani-Uttar Pradesh"
+    },
+    {
+     "key": "Ujjain-Madhya Pradesh",
+     "value": "Ujjain-Madhya Pradesh"
+    },
+    {
+     "key": "Ukhrul-Manipur",
+     "value": "Ukhrul-Manipur"
+    },
+    {
+     "key": "Umarga-Maharashtra",
+     "value": "Umarga-Maharashtra"
+    },
+    {
+     "key": "Umaria-Madhya Pradesh",
+     "value": "Umaria-Madhya Pradesh"
+    },
+    {
+     "key": "Umarkhed-Maharashtra",
+     "value": "Umarkhed-Maharashtra"
+    },
+    {
+     "key": "Umbergaon-Gujarat",
+     "value": "Umbergaon-Gujarat"
+    },
+    {
+     "key": "Umred-Maharashtra",
+     "value": "Umred-Maharashtra"
+    },
+    {
+     "key": "Umreth-Gujarat",
+     "value": "Umreth-Gujarat"
+    },
+    {
+     "key": "Una-Himachal Pradesh",
+     "value": "Una-Himachal Pradesh"
+    },
+    {
+     "key": "Unjha-Gujarat",
+     "value": "Unjha-Gujarat"
+    },
+    {
+     "key": "Unnamalaikadai-Tamil Nadu",
+     "value": "Unnamalaikadai-Tamil Nadu"
+    },
+    {
+     "key": "Unnao-Uttar Pradesh",
+     "value": "Unnao-Uttar Pradesh"
+    },
+    {
+     "key": "Upleta-Gujarat",
+     "value": "Upleta-Gujarat"
+    },
+    {
+     "key": "Upper Dibang Valley-Arunachal Pradesh",
+     "value": "Upper Dibang Valley-Arunachal Pradesh"
+    },
+    {
+     "key": "Upper Siang-Arunachal Pradesh",
+     "value": "Upper Siang-Arunachal Pradesh"
+    },
+    {
+     "key": "Upper Subansiri-Arunachal Pradesh",
+     "value": "Upper Subansiri-Arunachal Pradesh"
+    },
+    {
+     "key": "Uran-Maharashtra",
+     "value": "Uran-Maharashtra"
+    },
+    {
+     "key": "Uran Islampur-Maharashtra",
+     "value": "Uran Islampur-Maharashtra"
+    },
+    {
+     "key": "Uravakonda-Andhra Pradesh",
+     "value": "Uravakonda-Andhra Pradesh"
+    },
+    {
+     "key": "Urmar Tanda-Punjab",
+     "value": "Urmar Tanda-Punjab"
+    },
+    {
+     "key": "Usilampatti-Tamil Nadu",
+     "value": "Usilampatti-Tamil Nadu"
+    },
+    {
+     "key": "Uthamapalayam-Tamil Nadu",
+     "value": "Uthamapalayam-Tamil Nadu"
+    },
+    {
+     "key": "Uthiramerur-Tamil Nadu",
+     "value": "Uthiramerur-Tamil Nadu"
+    },
+    {
+     "key": "Utraula-Uttar Pradesh",
+     "value": "Utraula-Uttar Pradesh"
+    },
+    {
+     "key": "Uttara Kannada-Karnataka",
+     "value": "Uttara Kannada-Karnataka"
+    },
+    {
+     "key": "Uttarkashi-Uttarakhand",
+     "value": "Uttarkashi-Uttarakhand"
+    },
+    {
+     "key": "Vadakkuvalliyur-Tamil Nadu",
+     "value": "Vadakkuvalliyur-Tamil Nadu"
+    },
+    {
+     "key": "Vadalur-Tamil Nadu",
+     "value": "Vadalur-Tamil Nadu"
+    },
+    {
+     "key": "Vadgaon Kasba-Maharashtra",
+     "value": "Vadgaon Kasba-Maharashtra"
+    },
+    {
+     "key": "Vadipatti-Tamil Nadu",
+     "value": "Vadipatti-Tamil Nadu"
+    },
+    {
+     "key": "Vadnagar-Gujarat",
+     "value": "Vadnagar-Gujarat"
+    },
+    {
+     "key": "Vadodara-Gujarat",
+     "value": "Vadodara-Gujarat"
+    },
+    {
+     "key": "Vaijapur-Maharashtra",
+     "value": "Vaijapur-Maharashtra"
+    },
+    {
+     "key": "Vaikom-Kerala",
+     "value": "Vaikom-Kerala"
+    },
+    {
+     "key": "Vaishali-Bihar",
+     "value": "Vaishali-Bihar"
+    },
+    {
+     "key": "Valparai-Tamil Nadu",
+     "value": "Valparai-Tamil Nadu"
+    },
+    {
+     "key": "Valsad-Gujarat",
+     "value": "Valsad-Gujarat"
+    },
+    {
+     "key": "Vandavasi-Tamil Nadu",
+     "value": "Vandavasi-Tamil Nadu"
+    },
+    {
+     "key": "Vaniyambadi-Tamil Nadu",
+     "value": "Vaniyambadi-Tamil Nadu"
+    },
+    {
+     "key": "Vapi-Gujarat",
+     "value": "Vapi-Gujarat"
+    },
+    {
+     "key": "Varanasi-Uttar Pradesh",
+     "value": "Varanasi-Uttar Pradesh"
+    },
+    {
+     "key": "Varkala-Kerala",
+     "value": "Varkala-Kerala"
+    },
+    {
+     "key": "Vasai-Virar-Maharashtra",
+     "value": "Vasai-Virar-Maharashtra"
+    },
+    {
+     "key": "Vatakara-Kerala",
+     "value": "Vatakara-Kerala"
+    },
+    {
+     "key": "Vedaranyam-Tamil Nadu",
+     "value": "Vedaranyam-Tamil Nadu"
+    },
+    {
+     "key": "Vellakoil-Tamil Nadu",
+     "value": "Vellakoil-Tamil Nadu"
+    },
+    {
+     "key": "Vellore-Tamil Nadu",
+     "value": "Vellore-Tamil Nadu"
+    },
+    {
+     "key": "Venkatagiri-Andhra Pradesh",
+     "value": "Venkatagiri-Andhra Pradesh"
+    },
+    {
+     "key": "Veraval-Gujarat",
+     "value": "Veraval-Gujarat"
+    },
+    {
+     "key": "Vidisha-Madhya Pradesh",
+     "value": "Vidisha-Madhya Pradesh"
+    },
+    {
+     "key": "Vijainagar, Ajmer-Rajasthan",
+     "value": "Vijainagar, Ajmer-Rajasthan"
+    },
+    {
+     "key": "Vijapur-Gujarat",
+     "value": "Vijapur-Gujarat"
+    },
+    {
+     "key": "Vijayapura-Karnataka",
+     "value": "Vijayapura-Karnataka"
+    },
+    {
+     "key": "Vijayawada-Andhra Pradesh",
+     "value": "Vijayawada-Andhra Pradesh"
+    },
+    {
+     "key": "Vijaypur-Madhya Pradesh",
+     "value": "Vijaypur-Madhya Pradesh"
+    },
+    {
+     "key": "Vikarabad-Telangana",
+     "value": "Vikarabad-Telangana"
+    },
+    {
+     "key": "Vikramasingapuram-Tamil Nadu",
+     "value": "Vikramasingapuram-Tamil Nadu"
+    },
+    {
+     "key": "Villupuram-Tamil Nadu",
+     "value": "Villupuram-Tamil Nadu"
+    },
+    {
+     "key": "Viluppuram-Tamil Nadu",
+     "value": "Viluppuram-Tamil Nadu"
+    },
+    {
+     "key": "Vinukonda-Andhra Pradesh",
+     "value": "Vinukonda-Andhra Pradesh"
+    },
+    {
+     "key": "Viramgam-Gujarat",
+     "value": "Viramgam-Gujarat"
+    },
+    {
+     "key": "Virudhachalam-Tamil Nadu",
+     "value": "Virudhachalam-Tamil Nadu"
+    },
+    {
+     "key": "Virudhunagar-Tamil Nadu",
+     "value": "Virudhunagar-Tamil Nadu"
+    },
+    {
+     "key": "Visakhapatnam-Andhra Pradesh",
+     "value": "Visakhapatnam-Andhra Pradesh"
+    },
+    {
+     "key": "Visnagar-Gujarat",
+     "value": "Visnagar-Gujarat"
+    },
+    {
+     "key": "Viswanatham-Tamil Nadu",
+     "value": "Viswanatham-Tamil Nadu"
+    },
+    {
+     "key": "Vita-Maharashtra",
+     "value": "Vita-Maharashtra"
+    },
+    {
+     "key": "Vizianagaram-Andhra Pradesh",
+     "value": "Vizianagaram-Andhra Pradesh"
+    },
+    {
+     "key": "Vrindavan-Uttar Pradesh",
+     "value": "Vrindavan-Uttar Pradesh"
+    },
+    {
+     "key": "Vyara-Gujarat",
+     "value": "Vyara-Gujarat"
+    },
+    {
+     "key": "Wadgaon Road-Maharashtra",
+     "value": "Wadgaon Road-Maharashtra"
+    },
+    {
+     "key": "Wadhwan-Gujarat",
+     "value": "Wadhwan-Gujarat"
+    },
+    {
+     "key": "Wadi-Karnataka",
+     "value": "Wadi-Karnataka"
+    },
+    {
+     "key": "Wai-Maharashtra",
+     "value": "Wai-Maharashtra"
+    },
+    {
+     "key": "Wanaparthy-Telangana",
+     "value": "Wanaparthy-Telangana"
+    },
+    {
+     "key": "Wani-Maharashtra",
+     "value": "Wani-Maharashtra"
+    },
+    {
+     "key": "Wankaner-Gujarat",
+     "value": "Wankaner-Gujarat"
+    },
+    {
+     "key": "Wara Seoni-Madhya Pradesh",
+     "value": "Wara Seoni-Madhya Pradesh"
+    },
+    {
+     "key": "Warangal-Andhra Pradesh",
+     "value": "Warangal-Andhra Pradesh"
+    },
+    {
+     "key": "Warangal Rural-Telangana",
+     "value": "Warangal Rural-Telangana"
+    },
+    {
+     "key": "Wardha-Maharashtra",
+     "value": "Wardha-Maharashtra"
+    },
+    {
+     "key": "Warhapur-Uttar Pradesh",
+     "value": "Warhapur-Uttar Pradesh"
+    },
+    {
+     "key": "Warisaliganj-Bihar",
+     "value": "Warisaliganj-Bihar"
+    },
+    {
+     "key": "Warora-Maharashtra",
+     "value": "Warora-Maharashtra"
+    },
+    {
+     "key": "Warud-Maharashtra",
+     "value": "Warud-Maharashtra"
+    },
+    {
+     "key": "Washim-Maharashtra",
+     "value": "Washim-Maharashtra"
+    },
+    {
+     "key": "Wayanad-Kerala",
+     "value": "Wayanad-Kerala"
+    },
+    {
+     "key": "West Champaran-Bihar",
+     "value": "West Champaran-Bihar"
+    },
+    {
+     "key": "West Delhi-Delhi",
+     "value": "West Delhi-Delhi"
+    },
+    {
+     "key": "West Garo Hills-Megalaya",
+     "value": "West Garo Hills-Megalaya"
+    },
+    {
+     "key": "West Godavari-Andhra Pradesh",
+     "value": "West Godavari-Andhra Pradesh"
+    },
+    {
+     "key": "West Jaintia Hills-Megalaya",
+     "value": "West Jaintia Hills-Megalaya"
+    },
+    {
+     "key": "West Kameng-Arunachal Pradesh",
+     "value": "West Kameng-Arunachal Pradesh"
+    },
+    {
+     "key": "West Khasi Hills-Megalaya",
+     "value": "West Khasi Hills-Megalaya"
+    },
+    {
+     "key": "West Midnapore-West Bengal",
+     "value": "West Midnapore-West Bengal"
+    },
+    {
+     "key": "West Siang-Arunachal Pradesh",
+     "value": "West Siang-Arunachal Pradesh"
+    },
+    {
+     "key": "West Sikkim-Sikkim",
+     "value": "West Sikkim-Sikkim"
+    },
+    {
+     "key": "West Singhbhum-Jharkhand",
+     "value": "West Singhbhum-Jharkhand"
+    },
+    {
+     "key": "West Tripura-Tripura",
+     "value": "West Tripura-Tripura"
+    },
+    {
+     "key": "Wokha-Nagaland",
+     "value": "Wokha-Nagaland"
+    },
+    {
+     "key": "Yadgir-Karnataka",
+     "value": "Yadgir-Karnataka"
+    },
+    {
+     "key": "Yamunanagar-Haryana",
+     "value": "Yamunanagar-Haryana"
+    },
+    {
+     "key": "Yanam-Andhra Pradesh",
+     "value": "Yanam-Andhra Pradesh"
+    },
+    {
+     "key": "Yavatmal-Maharashtra",
+     "value": "Yavatmal-Maharashtra"
+    },
+    {
+     "key": "Yawal-Maharashtra",
+     "value": "Yawal-Maharashtra"
+    },
+    {
+     "key": "Yellandu-Telangana",
+     "value": "Yellandu-Telangana"
+    },
+    {
+     "key": "Yemmiganur-Andhra Pradesh",
+     "value": "Yemmiganur-Andhra Pradesh"
+    },
+    {
+     "key": "Yerraguntla-Andhra Pradesh",
+     "value": "Yerraguntla-Andhra Pradesh"
+    },
+    {
+     "key": "Yevla-Maharashtra",
+     "value": "Yevla-Maharashtra"
+    },
+    {
+     "key": "Zaheerabad-Telangana",
+     "value": "Zaheerabad-Telangana"
+    },
+    {
+     "key": "Zaidpur-Uttar Pradesh",
+     "value": "Zaidpur-Uttar Pradesh"
+    },
+    {
+     "key": "Zamania-Uttar Pradesh",
+     "value": "Zamania-Uttar Pradesh"
+    },
+    {
+     "key": "Zira-Punjab",
+     "value": "Zira-Punjab"
+    },
+    {
+     "key": "Zirakpur-Punjab",
+     "value": "Zirakpur-Punjab"
+    },
+    {
+     "key": "Zunheboto-Nagaland",
+     "value": "Zunheboto-Nagaland"
+    },
+    {
+     "key": "Zunhebotto-Nagaland",
+     "value": "Zunhebotto-Nagaland"
+    }
+   ]
