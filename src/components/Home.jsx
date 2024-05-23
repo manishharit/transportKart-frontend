@@ -35,7 +35,7 @@ export const Home = () => {
                 At TransportKART, we prioritize transparency and trust. That's why we vet all listings to ensure they meet our rigorous standards for reliability and professionalism. You can trust that every partner you find on our platform is reputable and committed to delivering exceptional service. <br />
             </p>
         </div>
-        <div className="lg:pt-5 lg:pl-12">
+        <div className="lg:pt-12 lg:pl-12">
             <img className="lg:rounded-3xl" src={herSecondSec} />
         </div>
       
@@ -55,7 +55,7 @@ export const Home = () => {
     {/* home forth */}
 
     <div className="mt-5 lg:flex">
-        <div className="lg:w-[40%] lg:pt-5 lg:pl-5">
+        <div className="lg:w-[40%] lg:pt-20 lg:pl-5">
             <img className="lg:rounded-3xl" src={homefourthSec}  alt="heroSecondSec"  />
         </div>
         <div className="lg:pl-10 p-5">
