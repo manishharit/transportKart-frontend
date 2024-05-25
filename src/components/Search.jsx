@@ -205,7 +205,12 @@ export const Search = ({ baseUrl , onDataFetch }) => {
   const fetchData = async () => {
     try {
       const request = "id"
-      const response = await axios.post(`${baseUrl}/user/${serviceType}/${fromCity}/${toCity}/${vehicleType}`,request)
+      const response = ""
+      if(companyName === "Company Name") {
+        response = await axios.post(`${baseUrl}/user/${serviceType}/${fromCity}/${toCity}/${vehicleType}`,request)
+      } else{
+        response = await axios.post(`${baseUrl}/user/${companyName}`,request)
+      }
       onDataFetch(response.data)
     } catch (error) {
       console.log(error.response.data.message)
