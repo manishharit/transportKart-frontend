@@ -28,6 +28,12 @@ export const Search = ({ baseUrl , onDataFetch }) => {
       value: "oneday",
     },
   ];
+  const companyNameData = [
+    {
+      key: "Beniwal Logistic Services",
+      value: "Beniwal Logistic Services",
+    },
+  ];
   const vehicleTypeData = [
     {
       key: "Champion",
@@ -268,7 +274,7 @@ export const Search = ({ baseUrl , onDataFetch }) => {
     <div className='lg:w-40 lg:ml-5' style={{ pointerEvents: 'auto' }}>
     <ReactSearchBox
         placeholder={companyName}
-        data={data}
+        data={companyNameData}
         onSelect={handleCompanyName}
         inputBorderColor='violet'
       />
