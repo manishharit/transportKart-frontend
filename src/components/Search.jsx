@@ -219,8 +219,6 @@ export const Search = ({ baseUrl , onDataFetch }) => {
 
   useEffect(()=>{
     // look for disable
-    console.log("test")
-    console.log(companyName)
     if(companyName !== "Company Name") {
        setDisabled(true)
        setServiceType("Service Type")
