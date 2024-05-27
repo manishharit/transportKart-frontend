@@ -36,7 +36,7 @@ export const UserCard = ({ baseUrl }) => {
 
   const handleDataFetch = (fetchedData) => {
     setData(fetchedData);
-    console.log(fetchedData)
+    // console.log(fetchedData)
   };
 
   useEffect(()=>{
