@@ -18,18 +18,18 @@ export const CompanySite = () => {
     <>
     <NavBar/>
     {/* hero image */}
-        <div className="h-[30vh] bg-no-repeat bg-cover" style={{backgroundImage: `url(${mainBg})`}}>
+        {/* <div className="h-[30vh] bg-no-repeat bg-cover" style={{backgroundImage: `url(${mainBg})`}}>
             <div className="h-full flex-col bg-[rgba(0,0,0,0.5)] gap-2.5 text-center pt-20">
                 <h2 className="text-white font-bold lg:text-[3rem] text-2xl">{item.companyName}</h2>
             </div>
-        </div>
+        </div> */}
 
 
     {/* home forth */}
 
     <div className="lg:m-10 pt-2 lg:flex">
 
-        <div className=" lg:pt-5 pt-10 lg:pl-5 bg-orange-400 lg:w-[50%] pb-20 lg:pb-10">
+        <div className=" lg:pt-5 pt-5 lg:pl-5 bg-orange-400 lg:w-[50%] pb-10 lg:pb-10">
             {/* <img className="lg:rounded-3xl" src={homefourthSec}  alt="heroSecondSec"  /> */}
             <div className="text-white font-extrabold lg:w-96 text-center lg:ml-28 lg:mr-28 lg:mt-10">
             <h1 className="lg:text-7xl lg:pb-10 text-5xl pb-2">About</h1>

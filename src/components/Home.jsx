@@ -13,7 +13,7 @@ export const Home = () => {
     <>
     <NavBar/>
     {/* hero image */}
-        <div className="h-[80vh] bg-no-repeat bg-cover" style={{backgroundImage: `url(${mainBg})`}}>
+        <div className="lg:h-[100vh] h-[70vh] bg-no-repeat bg-cover" style={{backgroundImage: `url(${mainBg})`}}>
             <div className="h-full flex-col bg-[rgba(0,0,0,0.5)] gap-2.5 text-center pt-44">
                 <h2 className="text-white font-semibold text-[3rem]">Driving The Future</h2>
                 <p className="text-slate-200 text-[1.2rem] font-semibold pb-5">
@@ -79,7 +79,7 @@ export const Home = () => {
 
     {/* home fifth  */}
 
-    <div className="lg:h-[100vh] sm:h-0 bg-no-repeat bg-cover mt-5" style={{backgroundImage: `url(${homefifthSec})`}}>
+    <div className="lg:h-[120vh] sm:h-0 bg-no-repeat bg-cover mt-5" style={{backgroundImage: `url(${homefifthSec})`}}>
     </div>
 
     {/* sixth component */}

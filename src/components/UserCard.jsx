@@ -36,7 +36,7 @@ export const UserCard = ({ baseUrl }) => {
 
   const handleDataFetch = (fetchedData) => {
     setData(fetchedData);
-    console.log(fetchedData)
+    // console.log(fetchedData)
   };
 
   useEffect(()=>{
@@ -51,7 +51,7 @@ export const UserCard = ({ baseUrl }) => {
     <>
      <NavBar/>
     <Search baseUrl={baseUrl} onDataFetch={handleDataFetch}/> 
-    <div className='lg:flex lg:flex-wrap lg:justify-between mt-20 ml-5 mr-5 mb-10'>
+    <div className='lg:flex lg:flex-wrap lg:justify-between lg:mt-20 mt-48 ml-5 mr-5 mb-10'>
 
 
     { userData? 
