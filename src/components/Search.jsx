@@ -78,6 +78,10 @@ export const Search = ({ baseUrl , onDataFetch }) => {
       value: "17 Ft Open / Container",
     },
     {
+      key: "19 Ft Open / Container",
+      value: "19 Ft Open / Container",
+    },
+    {
       key: "20 Ft Open",
       value: "20 Ft Open",
     },

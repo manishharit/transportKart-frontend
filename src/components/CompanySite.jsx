@@ -172,12 +172,12 @@ export const CompanySite = () => {
         <div>
             <div className="p-2 pl-10 pr-10 rounded-full text-white text-xl">
             <button>Call -</button>
-           <h1 >{item.contactNo}</h1>
+            <a href={`tel:${item.contactNo}`}class="hover:underline hover:text-gray-300">{item.contactNo}</a>
             </div>
 
             <div className="mt-5 p-2 pl-10 pr-10 rounded-full text-white text-xl">
             <button>WhatsApp -</button>
-            <h1>{item.whatsAppNo}</h1>
+            <a href={`whatsapp://send?phone=${item.contactNo}`} class="hover:underline hover:text-gray-300">{item.contactNo}</a>
             </div>
         </div>
 
