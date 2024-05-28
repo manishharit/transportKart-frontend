@@ -20,7 +20,7 @@ export const Footer = () => {
                   <h2 class="mb-6 text-sm font-semibold text-white uppercase dark:text-white">Resources</h2>
                   <ul class="text-gray-500 dark:text-gray-400 font-medium">
                       <li class="mb-4">
-                          <Link to="/about" class="hover:underline  hover:text-gray-300">About Us</Link>
+                          <Link to="#" class="hover:underline  hover:text-gray-300">About Us</Link>
                       </li>
                       <li>
                           <Link to="/explore" class="hover:underline hover:text-gray-300">Trucks For You</Link>
@@ -42,10 +42,10 @@ export const Footer = () => {
                   <h2 class="mb-6 text-sm font-semibold text-white uppercase dark:text-white ">Contact Us</h2>
                   <ul class="text-gray-500 dark:text-gray-400 font-medium ">
                       <li class="mb-4">
-                          <Link to="#" class="hover:underline hover:text-gray-300">+91 7894561230</Link>
+                      <a href="tel:+918595146008" class="hover:underline hover:text-gray-300">+91 8595146008</a>
                       </li>
                       <li>
-                          <Link to="#" class="hover:underline hover:text-gray-300">connect@transportkart.com</Link>
+                      <a href="mailto:connect@transportkart.com" class="hover:underline hover:text-gray-300">Email Us</a>
                       </li>
                   </ul>
               </div>
@@ -73,13 +73,13 @@ export const Footer = () => {
                     </svg>
                   <span class="sr-only">Facebook page</span>
               </Link>
-              <Link to="#" class="text-gray-500  hover:text-gray-300 dark:hover:text-white ms-5">
+              <a href="mailto:connect@transportkart.com" class="text-gray-500  hover:text-gray-300 dark:hover:text-white ms-5">
                    <svg class="w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2z"></path>
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M22 6l-10 7L2 6"></path>
                    </svg>
                    <span class="sr-only">Email</span>
-              </Link>
+              </a>
               <Link to="#" class="text-gray-500  hover:text-gray-300 dark:hover:text-white ms-5">
                   <svg class="w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M12,2C6.476,2,2,6.476,2,12s4.476,10,10,10s10-4.476,10-10S17.524,2,12,2z M12,19.5c-3.891,0-7.046-3.155-7.046-7.045C4.954,8.563,8.11,5.408,12,5.408c3.89,0,7.046,3.155,7.046,7.047C19.046,16.345,15.89,19.5,12,19.5z M12,16.14 c-2.623,0-4.75-2.127-4.75-4.75c0-2.623,2.127-4.75,4.75-4.75s4.75,2.127,4.75,4.75C16.75,13.013,14.623,16.14,12,16.14z M17.25,7.871c-0.323,0-0.586-0.263-0.586-0.586c0-0.322,0.263-0.586,0.586-0.586c0.322,0,0.586,0.264,0.586,0.586C17.836,7.607,17.572,7.871,17.25,7.871z M17.25,14.229c-0.322,0-0.586-0.263-0.586-0.586c0-0.322,0.264-0.586,0.586-0.586c0.322,0,0.586,0.264,0.586,0.586 C17.836,13.965,17.572,14.229,17.25,14.229z M17.25,10.045c-0.322,0-0.586-0.263-0.586-0.586s0.264-0.586,0.586-0.586 s0.586,0.263,0.586,0.586S17.572,10.045,17.25,10.045z"/>
