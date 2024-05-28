@@ -230,8 +230,10 @@ export const Search = ({ baseUrl , onDataFetch }) => {
        setFromCity("From City")
        setVehicleType("Vehicle Type")
       }
-    if(serviceType === "PARTLOAD") { setDisabled1(true)} else { setDisabled1(false) }
-    if(serviceType === "WAREHOUSE") { setDisabled2(true)}  else { setDisabled2(false) }
+      if(serviceType === "PARTLOAD") { setDisabled1(true)}
+      if (serviceType !== "PARTLOAD" ) {setDisabled1(false)}
+      if(serviceType === "WAREHOUSE") { setDisabled2(true)}  
+      if (serviceType !== "WAREHOUSE" ) {setDisabled2(false)}
   },[serviceType,handleServiceType,toCity,fromCity,vehicleType,companyName,Search])
 
   const fetchData = async () => {
