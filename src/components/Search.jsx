@@ -259,7 +259,9 @@ export const Search = ({ baseUrl , onDataFetch }) => {
       <h1 className='font-bold  lg:text-3xl text-xl'>Explore All Transporter And Trucks</h1>
       </div>
       {/* search */}
-      <div className='flex-1 lg:flex lg:ml-40 mt-10 lg:mr-4 p-5 rounded-3xl flex-col md:flex-row justify-center items-center'>
+      <div className='lg:flex'>
+        {/* starting */}
+      <div className='lg:flex lg:ml-20 mt-10  p-5 lg:p-0 rounded-3xl flex-col md:flex-row justify-center'>
   <div className='lg:w-40 mb-5 md:mr-10 md:mb-0' style={{ pointerEvents: disabled?"none":"auto" }}>
     <Select
       options={serviceTypeData.map(item => ({ value: item.value, label: item.key }))}
@@ -302,7 +304,7 @@ export const Search = ({ baseUrl , onDataFetch }) => {
       }}
     />
   </div>
-  <h1 className='pt-2 pb-2 lg:pl-2 lg:pr-5 pl-44 '>OR</h1>
+  <h1 className='pt-2 pb-2 lg:pl-2 lg:pr-9 pl-44 '>OR</h1>
   <div className='lg:w-40 mb-5 md:mr-10 md:mb-0' style={{ pointerEvents: 'auto' }}>
     <ReactSearchBox
       placeholder={companyName}
@@ -312,11 +314,15 @@ export const Search = ({ baseUrl , onDataFetch }) => {
     />
   </div>
   
-  <div className='flex justify-center'>
-  <div className='mt-5 lg:mt-0 lg:w-32 w-44 bg-purple-600 rounded-2xl pl-5 pr-5 p-2'>
+  
+      </div>
+      <div className='pl-32 lg:p-0'>
+  <div className='lg:mt-10 lg:w-32 w-44 bg-purple-600 rounded-2xl pl-5 pr-5 p-2'>
     <button onClick={fetchData} className='text-white pt-1 pl-10 lg:pl-0'>Search 🔍</button>
   </div>
 </div>
+
+{/* end */}
 </div>
 
 

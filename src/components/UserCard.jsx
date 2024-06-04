@@ -93,7 +93,7 @@ export const UserCard = ({ baseUrl }) => {
 
 
     </div> 
-    )}) :<h5 className='text-2xl lg:pl-[40rem] pl-32 mb-28'>No data</h5>}
+    )}) :<h5 className='text-2xl lg:pl-[36rem] pl-40 mb-28'>No data</h5>}
 
     {/* stop there */}
 
