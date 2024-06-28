@@ -46,6 +46,10 @@ export const Search = ({ baseUrl , onDataFetch }) => {
       key: "Zotek Services Pvt Ltd",
       value: "Zotek Services Pvt Ltd",
     },
+    {
+      key:"Himalaya service",
+      value:"Himalaya service"
+    }
 
   ];
   const vehicleTypeData = [
