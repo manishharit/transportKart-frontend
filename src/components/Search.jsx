@@ -49,6 +49,10 @@ export const Search = ({ baseUrl , onDataFetch }) => {
     {
       key:"Himalaya service",
       value:"Himalaya service"
+    },
+    {
+      key:"N.T. R. Packers and Movers",
+      value:"N.T. R. Packers and Movers"
     }
 
   ];
@@ -195,6 +199,10 @@ export const Search = ({ baseUrl , onDataFetch }) => {
       key: "FRIEGHTFORWARDING",
       value: "FRIEGHTFORWARDING",
     },
+    {
+      key: "PACKERS & MOVERS",
+      value: "PACKERS & MOVERS",
+    }
   ]
   const [serviceType, setServiceType] = useState('Service Type');
   const [ toCity, setToCity] = useState("To City")
