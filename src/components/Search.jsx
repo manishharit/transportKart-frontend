@@ -53,6 +53,14 @@ export const Search = ({ baseUrl , onDataFetch }) => {
     {
       key:"N.T. R. Packers and Movers",
       value:"N.T. R. Packers and Movers"
+    },
+    {
+      key:"JG Logistics",
+      value:"JG Logistics"
+    },
+    {
+      key:"Venus International Packer And Movers",
+      value:"Venus International Packer And Movers"
     }
 
   ];
