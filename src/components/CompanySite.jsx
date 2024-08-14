@@ -2,17 +2,68 @@ import mainBg from "../assets/mainBg.png"
 import commitmentimg from '../assets/commitmentimg.jpeg'
 import { Footer } from "../components/Footer"
 import { NavBar } from "../components/NavBar"
-import { useLocation } from 'react-router-dom';
+import { useLocation, useParams } from 'react-router-dom';
+import { useEffect, useState } from "react";
+import axios from "axios";
 import vehicletypelogo from '../assets/vehicletypelogo.svg'
 import servicetypelogo from '../assets/servicetypelogo.svg'
 import establisedlogo from '../assets/establisedlogo.svg'
 import teamlogo from '../assets/teamlogo.svg'
 import ownerlogo from '../assets/ownerlogo.svg'
 
-export const CompanySite = () => {
+export const CompanySite = ({ baseUrl }) => {
     const location = useLocation();
-    const { item } = location.state;
-    console.log(item)
+    const { companyName } = useParams();
+    const [item, setItem] = useState(location.state?.item || null);
+    const [loading, setLoading] = useState(item ===null ? true:false);
+
+
+    const fetchData = async () => {
+        try {
+            setLoading(true);
+          const request = "id"
+           const response = await axios.post(`${baseUrl}/user/${companyName}`,request)
+            setItem(response.data[0])
+        } catch (error) {
+          console.log(error.response.data.message)
+          alert(error.response.data.message)
+        } finally {
+            setLoading(false);
+        }
+      }
+
+
+    useEffect(() => {
+        if (item === null) {
+            fetchData()
+        }
+    }, []);
+
+    if (loading) {
+        return <div className="flex items-center justify-center min-h-screen">
+            <div aria-label="Loading..." role="status" className="flex items-center space-x-2">
+        <svg className="h-20 w-20 animate-spin stroke-gray-500" viewBox="0 0 256 256">
+            <line x1="128" y1="32" x2="128" y2="64" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line>
+            <line x1="195.9" y1="60.1" x2="173.3" y2="82.7" stroke-linecap="round" stroke-linejoin="round"
+                stroke-width="24"></line>
+            <line x1="224" y1="128" x2="192" y2="128" stroke-linecap="round" stroke-linejoin="round" stroke-width="24">
+            </line>
+            <line x1="195.9" y1="195.9" x2="173.3" y2="173.3" stroke-linecap="round" stroke-linejoin="round"
+                stroke-width="24"></line>
+            <line x1="128" y1="224" x2="128" y2="192" stroke-linecap="round" stroke-linejoin="round" stroke-width="24">
+            </line>
+            <line x1="60.1" y1="195.9" x2="82.7" y2="173.3" stroke-linecap="round" stroke-linejoin="round"
+                stroke-width="24"></line>
+            <line x1="32" y1="128" x2="64" y2="128" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line>
+            <line x1="60.1" y1="60.1" x2="82.7" y2="82.7" stroke-linecap="round" stroke-linejoin="round" stroke-width="24">
+            </line>
+        </svg>
+        <span className="text-5xl font-medium text-gray-500">Loading...</span>
+    </div>
+        </div>
+    }
+
+
   return (
 
     <>
@@ -177,7 +228,7 @@ export const CompanySite = () => {
 
             <div className="mt-5 p-2 pl-10 pr-10 rounded-full text-white text-xl">
             <button>WhatsApp -</button>
-            <a href={`whatsapp://send?phone=${item.contactNo}`} class="hover:underline hover:text-gray-300">{item.contactNo}</a>
+            <a href={`whatsapp://send?phone=${item.contactNo}`} className="hover:underline hover:text-gray-300">{item.contactNo}</a>
             </div>
         </div>
 
