@@ -20,7 +20,7 @@ export const Footer = () => {
                   <h2 class="mb-6 text-sm font-semibold text-white uppercase dark:text-white">Resources</h2>
                   <ul class="text-gray-500 dark:text-gray-400 font-medium">
                       <li class="mb-4">
-                          <Link to="#" class="hover:underline  hover:text-gray-300">About Us</Link>
+                          <Link to="/about" class="hover:underline  hover:text-gray-300">About Us</Link>
                       </li>
                       <li>
                           <Link to="/explore" class="hover:underline hover:text-gray-300">Trucks For You</Link>
@@ -30,11 +30,11 @@ export const Footer = () => {
               <div>
                   <h2 class="mb-6 text-sm font-semibold text-white uppercase dark:text-white">Follow us</h2>
                   <ul class="text-gray-500 dark:text-gray-400 font-medium">
-                      <li class="mb-4">
-                          <Link to="#" class="hover:underline hover:text-gray-300 ">Facebook</Link>
+                  <li class="mb-4">
+                          <a href="https://www.facebook.com/people/Transportkart/61560239111419/" class="hover:underline hover:text-gray-300 ">Facebook</a>
                       </li>
                       <li>
-                          <Link to="#" class="hover:underline hover:text-gray-300">Instagram</Link>
+                          <a href="https://www.instagram.com/transportkart?igsh=MTd5YjYya2hiZjdvZA==" class="hover:underline hover:text-gray-300">Instagram</a>
                       </li>
                   </ul>
               </div>

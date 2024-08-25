@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 
 
 const navigation = [
-    { name: 'About Us', to: '/', current: false },
+    { name: 'About Us', to: '/about', current: false },
     { name: 'Trucks For You', to: '/explore', current: false },
     { name: 'Contact Us', to: '/', current: false },
   ]
@@ -17,7 +17,7 @@ const navigation = [
 export const NavBar = () => {
     
   return (
-     <div className='sticky top-0 z-20'>
+     <div className='sticky top-0 z-30'>
         <Disclosure as="nav" className="bg-black">
       {({ open }) => (
         <>

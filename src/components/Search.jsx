@@ -78,10 +78,6 @@ export const Search = ({ baseUrl , onDataFetch }) => {
       value: "Pickup",
     },
     {
-      key: "Tata",
-      value: "Tata",
-    },
-    {
       key: "Tata 407",
       value: "Tata 407",
     },
