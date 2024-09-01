@@ -12,7 +12,7 @@ export const UserCard = ({ baseUrl }) => {
   const data = [
     {
       key: "john",
-      value: "John Doe",
+      value: "John ",
     },
     {
       key: "jane",

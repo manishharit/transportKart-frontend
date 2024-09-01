@@ -1,9 +1,9 @@
-import React, { useState } from 'react';
+import React, { useState, useCallback } from 'react';
 
-export const SelectCityState = () => {
+export const SelectCityState = ({ onSave }) => {
   const [selectedStates, setSelectedStates] = useState([]);
   const [selectedCities, setSelectedCities] = useState({});
-  const [expandedState, setExpandedState] = useState(null); // To track which state's cities are expanded
+  const [expandedState, setExpandedState] = useState(null);
 
   const states = [
     { id: '1', name: 'Maharashtra' },
@@ -21,32 +21,61 @@ export const SelectCityState = () => {
     const stateId = event.target.value;
     const isChecked = event.target.checked;
 
-    // Update selected states
     setSelectedStates((prev) =>
-      isChecked
-        ? [...prev, stateId]
-        : prev.filter((id) => id !== stateId)
+      isChecked ? [...prev, stateId] : prev.filter((id) => id !== stateId)
     );
 
-    // Expand the selected state and collapse others
-    setExpandedState(prev => (prev === stateId ? null : stateId));
+    if (isChecked) {
+      setSelectedCities((prev) => ({
+        ...prev,
+        [stateId]: citiesData[stateId] || [],
+      }));
+    } else {
+      setSelectedCities((prev) => {
+        const newSelectedCities = { ...prev };
+        delete newSelectedCities[stateId];
+        return newSelectedCities;
+      });
+    }
 
-    // Initialize or clear cities for the selected/unselected state
-    setSelectedCities(prev => ({
-      ...prev,
-      ...(isChecked
-        ? { [stateId]: citiesData[stateId] || [] }
-        : { [stateId]: [] })
-    }));
+    setExpandedState(prev => (prev === stateId ? null : stateId));
   };
 
   const handleCityChange = (stateId, cityName) => {
+    setSelectedCities((prev) => {
+      const newCities = prev[stateId]?.includes(cityName)
+        ? prev[stateId].filter((city) => city !== cityName)
+        : [...(prev[stateId] || []), cityName];
+
+      if (newCities.length > 0 && !selectedStates.includes(stateId)) {
+        setSelectedStates((prevStates) => [...prevStates, stateId]);
+      }
+
+      if (newCities.length === 0) {
+        setSelectedStates((prevStates) => prevStates.filter((id) => id !== stateId));
+      }
+
+      return {
+        ...prev,
+        [stateId]: newCities,
+      };
+    });
+  };
+
+  const handleSelectAllCities = (stateId) => {
+    const allCities = citiesData[stateId] || [];
+    const allSelected = selectedCities[stateId]?.length === allCities.length;
+
     setSelectedCities((prev) => ({
       ...prev,
-      [stateId]: prev[stateId]?.includes(cityName)
-        ? prev[stateId].filter((city) => city !== cityName)
-        : [...(prev[stateId] || []), cityName],
+      [stateId]: allSelected ? [] : allCities,
     }));
+
+    if (!allSelected) {
+      setSelectedStates((prev) => [...prev, stateId]);
+    } else {
+      setSelectedStates((prev) => prev.filter((id) => id !== stateId));
+    }
   };
 
   const handleSelectAllStates = (event) => {
@@ -54,8 +83,6 @@ export const SelectCityState = () => {
     if (isChecked) {
       setSelectedStates(states.map(state => state.id));
       setExpandedState(null);
-
-      // Initialize cities for all selected states
       setSelectedCities(states.reduce((acc, state) => {
         acc[state.id] = citiesData[state.id] || [];
         return acc;
@@ -66,126 +93,91 @@ export const SelectCityState = () => {
     }
   };
 
-  const handleSelectAllCities = (stateId) => {
-    const allCities = citiesData[stateId] || [];
-    if (selectedCities[stateId]?.length === allCities.length) {
-      // Deselect all cities
-      setSelectedCities((prev) => ({
-        ...prev,
-        [stateId]: []
-      }));
-    } else {
-      // Select all cities
-      setSelectedCities((prev) => ({
-        ...prev,
-        [stateId]: allCities
-      }));
-    }
-  };
-
-  const handleSubmit = (event) => {
-    event.preventDefault();
-
-    const selectedStatesNames = states
-      .filter((state) => selectedStates.includes(state.id))
-      .map((state) => state.name);
-
+  const handleSave = useCallback(() => {
     const selectedCitiesNames = Object.keys(selectedCities).flatMap((stateId) =>
       selectedCities[stateId].map((city) => `${states.find((state) => state.id === stateId)?.name}: ${city}`)
     );
 
-    const statesString = selectedStatesNames.join(',');
-    const citiesString = selectedCitiesNames.join(',');
+    console.log("Selected Cities and States:", selectedCitiesNames);
 
-    console.log('Selected States:', statesString);
-    console.log('Selected Cities:', citiesString);
-  };
+    if (onSave) {
+      onSave(selectedCitiesNames);
+    }
+  }, [selectedCities, states, onSave]);
 
   return (
-    <div className="max-w-4xl mx-auto px-4 py-6 bg-white shadow-lg rounded-lg">
+    <div className="w-[270px] pt-[8%] mx-auto">
       <h2 className="text-2xl font-semibold mb-4">Choose Your Operation Area</h2>
-
-      <form onSubmit={handleSubmit} className="space-y-4">
-        {/* State Selection */}
-        <div className="mb-4">
-          <label htmlFor="states" className="block text-lg font-medium mb-2">Select States:</label>
-          <div className="bg-gray-100 border border-gray-300 rounded-lg">
-            <div className="flex items-center px-4 py-2 border-b border-gray-300">
-              <input
-                type="checkbox"
-                id="select-all-states"
-                checked={selectedStates.length === states.length}
-                onChange={handleSelectAllStates}
-                className="mr-2"
-              />
-              <label htmlFor="select-all-states" className="text-md">Select All States</label>
-            </div>
-            {states.map((state) => (
-              <div key={state.id} className="flex items-center px-4 py-2 border-b border-gray-300">
+      <div className="space-y-4">
+        <div className="text-left mb-[15px]">
+          <div className="flex items-center mb-[15px]">
+            <input
+              type="checkbox"
+              id="select-all-states"
+              checked={selectedStates.length === states.length}
+              onChange={handleSelectAllStates}
+              className="mr-[5px]"
+            />
+            <label htmlFor="select-all-states" className="text-md">Select All States</label>
+          </div>
+          {states.map((state) => (
+            <div key={state.id} className="mb-[15px]">
+              <div className="flex items-center">
                 <input
                   type="checkbox"
                   id={`state-${state.id}`}
                   checked={selectedStates.includes(state.id)}
                   onChange={handleStateChange}
                   value={state.id}
-                  className="mr-2"
+                  className="mr-[5px]"
                 />
                 <label htmlFor={`state-${state.id}`} className="text-md">{state.name}</label>
+                <button
+                  type="button"
+                  onClick={() => setExpandedState(expandedState === state.id ? null : state.id)}
+                  className="ml-auto bg-[#4CAF50] text-white px-2 py-1 rounded transition-all ease-in-out duration-300 cursor-pointer hover:bg-[#43A047]"
+                >
+                  {expandedState === state.id ? 'Hide Cities' : 'Show Cities'}
+                </button>
               </div>
-            ))}
-          </div>
-        </div>
-
-        {/* Cities Selection */}
-        {selectedStates.length > 0 && (
-          selectedStates.map((stateId) => (
-            <div key={stateId} className="mb-4">
-              <div
-                onClick={() => setExpandedState(expandedState === stateId ? null : stateId)}
-                className="cursor-pointer flex items-center justify-between px-4 py-2 border border-gray-300 bg-gray-100 rounded-lg"
-              >
-                <h3 className="text-lg font-medium">{states.find(state => state.id === stateId)?.name} Cities:</h3>
-                <span className="text-blue-500">
-                  {expandedState === stateId ? 'Collapse' : 'Expand'}
-                </span>
-              </div>
-              {expandedState === stateId && (
-                <div className="bg-gray-100 border border-gray-300 rounded-lg mt-2">
-                  <div className="flex items-center px-4 py-2 border-b border-gray-300">
+              {expandedState === state.id && (
+                <div className="ml-6 mt-2 bg-[#f2f2f2] border border-gray-300 rounded-lg p-[15px] w-[200px]">
+                  <div className="flex items-center mb-[10px]">
                     <input
                       type="checkbox"
-                      id={`select-all-cities-${stateId}`}
-                      checked={selectedCities[stateId]?.length === (citiesData[stateId]?.length || 0)}
-                      onChange={() => handleSelectAllCities(stateId)}
-                      className="mr-2"
+                      id={`select-all-cities-${state.id}`}
+                      checked={selectedCities[state.id]?.length === (citiesData[state.id]?.length || 0)}
+                      onChange={() => handleSelectAllCities(state.id)}
+                      className="mr-[5px]"
                     />
-                    <label htmlFor={`select-all-cities-${stateId}`} className="text-md">Select All Cities</label>
+                    <label htmlFor={`select-all-cities-${state.id}`} className="text-md">Select All Cities</label>
                   </div>
-                  {citiesData[stateId]?.map((city) => (
-                    <div key={city} className="flex items-center px-4 py-2 border-b border-gray-300">
+                  {citiesData[state.id]?.map((city) => (
+                    <div key={city} className="flex items-center mb-[5px]">
                       <input
                         type="checkbox"
-                        id={`city-${stateId}-${city}`}
-                        checked={selectedCities[stateId]?.includes(city) || false}
-                        onChange={() => handleCityChange(stateId, city)}
-                        className="mr-2"
+                        id={`city-${state.id}-${city}`}
+                        checked={selectedCities[state.id]?.includes(city) || false}
+                        onChange={() => handleCityChange(state.id, city)}
+                        className="mr-[5px]"
                       />
-                      <label htmlFor={`city-${stateId}-${city}`} className="text-md">{city}</label>
+                      <label htmlFor={`city-${state.id}-${city}`} className="text-md">{city}</label>
                     </div>
                   ))}
                 </div>
               )}
             </div>
-          ))
-        )}
+          ))}
+        </div>
 
         <button
-          type="submit"
-          className="bg-blue-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600 transition duration-300"
+          type="button"
+          onClick={handleSave}
+          className="uppercase outline-none bg-[#4CAF50] w-full border-0 py-[15px] text-white text-[14px] transition-all ease-in-out duration-300 cursor-pointer hover:bg-[#43A047]"
         >
-          Submit
+          Save
         </button>
-      </form>
+      </div>
     </div>
   );
 };

@@ -10,6 +10,10 @@ import {
 import { Home } from './components/Home';
 import { UserCard } from './components/UserCard';
 import { CompanySite } from './components/CompanySite';
+import { About } from './components/About';
+import RegistrationForm from './helper/RegistrationForm';
+import TermsAndConditions from './components/Terms&Condition';
+import PrivacyAndPolicies from './components/Privacy&Policies';
 
 
 const baseUrl = 'https://transportkart-backend.onrender.com';
@@ -25,6 +29,22 @@ const router = createBrowserRouter([
   {
     path:"/user/:companyName",
     element: <CompanySite baseUrl={baseUrl}/>
+  },
+  {
+    path:"/register-user",
+    element: <RegistrationForm/>
+  },
+  {
+    path:"/about",
+    element: <About/>
+  },
+  {
+    path:"/termsAndConditions",
+    element: <TermsAndConditions/>
+  },
+  {
+    path:"/privacyAndPolicies",
+    element: <PrivacyAndPolicies/>
   }
 ]);
 
