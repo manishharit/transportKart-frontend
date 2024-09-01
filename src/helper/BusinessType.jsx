@@ -30,7 +30,7 @@ const BusinessTypeSelection = ({ onSave }) => {
   }, [selectedTypes, onSave]);
 
   return (
-    <div className="flex justify-center items-center min-h-screen md:h-auto h-24">
+    <div className="flex justify-center items-center min-h-96 md:h-auto h-24">
       <div className="p-4 w-full max-w-lg mx-auto">
         <h2 className="text-2xl font-semibold mb-4 text-center">Choose Business Type</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 pl-12 md:pl-0 gap-4 mb-4">
