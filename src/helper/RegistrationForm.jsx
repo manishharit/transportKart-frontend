@@ -105,6 +105,12 @@ const RegistrationForm = () => {
     if (!formData.numberOfEmployee) formErrors.numberOfEmployee = 'Number of Team Members is required';
     if (!formData.numberOfTrucks) formErrors.numberOfTrucks = 'Number of Trucks is required';
 
+    // forms validations
+    if (!formData.fromLocation) formErrors.fromLocation = "Fill From Locations!";
+    if (!formData.toLocation) formErrors.toLocation = "Fill To Locations!";
+    if (formData.truckTypes.length === 0) formErrors.truckTypes = "Fill TruckType!";
+    if (formData.businessTypes.length === 0) formErrors.businessTypes = "Fill BusinessType!";
+
     return formErrors;
   };
 
@@ -228,16 +234,31 @@ const RegistrationForm = () => {
           {errors.numberOfTrucks && <p className="text-red-500 text-sm">{errors.numberOfTrucks}</p>}
 
           <button
-            type="button"
-            onClick={toggleFromModal}
-            className="uppercase bg-[#4CAF50] w-full py-3 text-white text-sm hover:bg-[#43A047] mt-2"
-          >
-            From: Select City/State
-          </button>
-
-          {isFromModalOpen && (
-            <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50">
-              <div className="relative bg-white p-6 w-full max-w-md mx-auto rounded">
+              type="button"
+              onClick={toggleFromModal}
+              className="uppercase bg-[#4CAF50] w-full py-3 text-white text-sm hover:bg-[#43A047] mt-2"
+            >
+              From: Select City/State
+            </button>
+            {errors.fromLocation && <p className="text-red-500 text-sm">{errors.fromLocation}</p>}
+            
+            {isFromModalOpen && (
+              <div
+                className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50"
+                onClick={toggleFromModal}  // This will close the modal if the user clicks outside
+              >
+                <div
+                  className="relative bg-white p-6 w-full max-w-md mx-auto rounded"
+                  onClick={(e) => e.stopPropagation()}  // Prevents the modal from closing when clicking inside it
+                >
+                {/* Close button */}
+                <button
+                  onClick={toggleFromModal}
+                  className="absolute top-2 right-2 text-gray-600 hover:text-gray-900"
+                >
+                  ✖
+                </button>
+          
                 <SelectCityState onSave={(location) => handleLocationSave(location, 'from')} onClose={toggleFromModal} />
               </div>
             </div>
@@ -250,30 +271,60 @@ const RegistrationForm = () => {
           >
             To: Select City/State
           </button>
-
+          {errors.toLocation && <p className="text-red-500 text-sm">{errors.toLocation}</p>}
+          
           {isToModalOpen && (
-            <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50">
-              <div className="relative bg-white p-6 w-full max-w-md mx-auto rounded">
+            <div
+              className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50"
+              onClick={toggleToModal}  // This will close the modal if the user clicks outside
+            >
+              <div
+                className="relative bg-white p-6 w-full max-w-md mx-auto rounded"
+                onClick={(e) => e.stopPropagation()}  // Prevents closing when clicking inside the modal
+              >
+                {/* Close button */}
+                <button
+                  onClick={toggleToModal}
+                  className="absolute top-2 right-2 text-gray-600 hover:text-gray-900"
+                >
+                  ✖
+                </button>
+          
                 <SelectCityState onSave={(location) => handleLocationSave(location, 'to')} onClose={toggleToModal} />
               </div>
             </div>
           )}
 
-          <button
-            type="button"
-            onClick={toggleTruckTypeModal}
-            className="uppercase bg-[#4CAF50] w-full py-3 text-white text-sm hover:bg-[#43A047] mt-2"
-          >
-            Select Truck Type
-          </button>
-
-          {isTruckTypeModalOpen && (
-            <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50">
-              <div className="relative bg-white p-6 w-full max-w-md mx-auto rounded overflow-y-auto max-h-[80vh]">
-                <TruckTypeSelection onSave={handleTruckTypeSave} onClose={toggleTruckTypeModal} />
+            <button
+              type="button"
+              onClick={toggleTruckTypeModal}
+              className="uppercase bg-[#4CAF50] w-full py-3 text-white text-sm hover:bg-[#43A047] mt-2"
+            >
+              Select Truck Type
+            </button>
+            {errors.truckTypes && <p className="text-red-500 text-sm">{errors.truckTypes}</p>}
+            
+            {isTruckTypeModalOpen && (
+              <div
+                className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50"
+                onClick={toggleTruckTypeModal}  // This will close the modal if the user clicks outside
+              >
+                <div
+                  className="relative bg-white p-6 w-full max-w-md mx-auto rounded overflow-y-auto max-h-[80vh]"
+                  onClick={(e) => e.stopPropagation()}  // Prevents closing when clicking inside the modal
+                >
+                  {/* Close button */}
+                  <button
+                    onClick={toggleTruckTypeModal}
+                    className="absolute top-2 right-2 text-gray-600 hover:text-gray-900"
+                  >
+                    ✖
+                  </button>
+            
+                  <TruckTypeSelection onSave={handleTruckTypeSave} onClose={toggleTruckTypeModal} />
+                </div>
               </div>
-            </div>
-          )}
+            )}
 
           <button
             type="button"
@@ -282,10 +333,25 @@ const RegistrationForm = () => {
           >
             Select Business Type
           </button>
-
+          {errors.businessTypes && <p className="text-red-500 text-sm">{errors.businessTypes}</p>}
+          
           {isBusinessTypeModalOpen && (
-            <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50">
-              <div className="relative bg-white p-6 w-full max-w-md mx-auto rounded">
+            <div
+              className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50"
+              onClick={toggleBusinessTypeModal}  // Closes the modal if the user clicks outside
+            >
+              <div
+                className="relative bg-white p-6 w-full max-w-md mx-auto rounded"
+                onClick={(e) => e.stopPropagation()}  // Prevents closing when clicking inside the modal
+              >
+                {/* Close button */}
+                <button
+                  onClick={toggleBusinessTypeModal}
+                  className="absolute top-2 right-2 text-gray-600 hover:text-gray-900"
+                >
+                  ✖
+                </button>
+          
                 <BusinessTypeSelection onSave={handleBusinessTypeSave} onClose={toggleBusinessTypeModal} />
               </div>
             </div>
