@@ -1,7 +1,11 @@
 import React from 'react';
+import { NavBar } from './NavBar';
+import { Footer } from './Footer';
 
 const PrivacyAndPolicies = () => {
   return (
+  <>
+  <NavBar/>
     <div className="max-w-4xl mx-auto p-8">
       <h1 className="text-3xl font-bold mb-6 text-center">Privacy Policy for TransportKart.com</h1>
 
@@ -142,6 +146,8 @@ const PrivacyAndPolicies = () => {
 
       <p className="text-xl font-bold mb-4">Last Updated: 21-08-2024</p>
     </div>
+    <Footer/>
+    </> 
   );
 };
 
