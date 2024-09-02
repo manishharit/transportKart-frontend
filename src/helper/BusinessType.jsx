@@ -23,9 +23,11 @@ const BusinessTypeSelection = ({ onSave }) => {
   }, []);
 
   const handleSave = useCallback(() => {
-    console.log("Selected Business Types:", selectedTypes);
+    const selectedTypesString = selectedTypes.join(',');
+    console.log("Selected Business Types:", selectedTypesString);
+    // console.log("Selected Business Types:", selectedTypes);
     if (onSave) {
-      onSave(selectedTypes);
+      onSave(selectedTypesString);
     }
   }, [selectedTypes, onSave]);
 

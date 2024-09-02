@@ -44,9 +44,11 @@ const TruckTypeSelection = ({ onSave }) => {
   }, []);
 
   const handleSave = useCallback(() => {
-    console.log("Selected Truck Types:", selectedTypes);
+    const selectedTypesString = selectedTypes.join(',');
+    console.log("Selected Truck Types:", selectedTypesString);
+    // console.log("Selected Truck Types:", selectedTypes);
     if (onSave) {
-      onSave(selectedTypes);
+      onSave(selectedTypesString);
     }
   }, [selectedTypes, onSave]);
 

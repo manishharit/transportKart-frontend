@@ -16,7 +16,7 @@ import TermsAndConditions from './components/Terms&Condition';
 import PrivacyAndPolicies from './components/Privacy&Policies';
 
 
-const baseUrl = 'https://transportkart-backend.onrender.com';
+const baseUrl = 'http://localhost:8080';
 const router = createBrowserRouter([
   {
     path:"/",
@@ -32,7 +32,7 @@ const router = createBrowserRouter([
   },
   {
     path:"/register-user",
-    element: <RegistrationForm/>
+    element: <RegistrationForm baseUrl={baseUrl}/>
   },
   {
     path:"/about",

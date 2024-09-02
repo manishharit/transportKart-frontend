@@ -2,23 +2,31 @@ import React, { useState } from 'react';
 import { SelectCityState } from './SelectCityState';
 import TruckTypeSelection from './VehicleTypeData';
 import BusinessTypeSelection from './BusinessType';
+import Loader from './Loader';
+import axios from 'axios';
+import { useNavigate } from 'react-router-dom';
 
-const RegistrationForm = () => {
+const RegistrationForm = ({baseUrl}) => {
+
+  const [loading, setLoading] = useState(false);
+  const navigate = useNavigate();
+
+
   const [formData, setFormData] = useState({
     companyName: '',
     contactName: '',
-    mobileNo: '',
-    whatsappNo: '',
+    contactNo: '',
+    whatsAppNo: '',
     address: '',
-    about: '',
-    panNo: '',
-    establishmentDate: '',
+    aboutUs: '',
+    couponCode: '',
+    established: '',
     numberOfEmployee: '',
     numberOfTrucks: '',
-    truckTypes: [],
-    businessTypes: [],
-    fromLocation: '',
-    toLocation: '',
+    vehicleType: '',
+    serviceType: '',
+    fromCity: '',
+    toCity: '',
   });
 
   const [errors, setErrors] = useState({});
@@ -36,7 +44,7 @@ const RegistrationForm = () => {
     const { name, value } = e.target;
 
     // Allow only digits for mobileNo and whatsappNo
-    if (name === 'mobileNo' || name === 'whatsappNo') {
+    if (name === 'contactNo' || name === 'whatsAppNo') {
       if (/^\d*$/.test(value)) {
         setFormData({ ...formData, [name]: value });
 
@@ -59,7 +67,7 @@ const RegistrationForm = () => {
   const handleTruckTypeSave = (selectedTypes) => {
     setFormData((prevData) => ({
       ...prevData,
-      truckTypes: selectedTypes,
+      vehicleType: selectedTypes,
     }));
     toggleTruckTypeModal();
   };
@@ -67,7 +75,7 @@ const RegistrationForm = () => {
   const handleBusinessTypeSave = (selectedTypes) => {
     setFormData((prevData) => ({
       ...prevData,
-      businessTypes: selectedTypes,
+      serviceType: selectedTypes,
     }));
     toggleBusinessTypeModal();
   };
@@ -75,7 +83,7 @@ const RegistrationForm = () => {
   const handleLocationSave = (location, type) => {
     setFormData((prevData) => ({
       ...prevData,
-      [`${type}Location`]: location,
+      [`${type}City`]: location,
     }));
     type === 'from' ? toggleFromModal() : toggleToModal();
   };
@@ -86,35 +94,53 @@ const RegistrationForm = () => {
     if (!formData.companyName) formErrors.companyName = 'Company Name is required';
     if (!formData.contactName) formErrors.contactName = 'Owner Name is required';
 
-    if (!formData.mobileNo) {
-      formErrors.mobileNo = 'Mobile No is required';
-    } else if (formData.mobileNo.length !== 10) {
-      formErrors.mobileNo = 'Mobile No must be exactly 10 digits';
+    if (!formData.contactNo) {
+      formErrors.contactNo = 'Mobile No is required';
+    } else if (formData.contactNo.length !== 10) {
+      formErrors.contactNo = 'Mobile No must be exactly 10 digits';
     }
 
-    if (!formData.whatsappNo) {
-      formErrors.whatsappNo = 'WhatsApp No is required';
-    } else if (formData.whatsappNo.length !== 10) {
-      formErrors.whatsappNo = 'WhatsApp No must be exactly 10 digits';
+    if (!formData.whatsAppNo) {
+      formErrors.whatsAppNo = 'WhatsApp No is required';
+    } else if (formData.whatsAppNo.length !== 10) {
+      formErrors.whatsAppNo = 'WhatsApp No must be exactly 10 digits';
     }
 
     if (!formData.address) formErrors.address = 'Address is required';
-    if (!formData.about) formErrors.about = 'About is required';
-    if (!formData.panNo) formErrors.panNo = 'PAN No is required';
-    if (!formData.establishmentDate) formErrors.establishmentDate = 'Establishment Date is required';
+    if (!formData.aboutUs) formErrors.aboutUs = 'About is required';
+    if (!formData.established) formErrors.established = 'Establishment Date is required';
     if (!formData.numberOfEmployee) formErrors.numberOfEmployee = 'Number of Team Members is required';
     if (!formData.numberOfTrucks) formErrors.numberOfTrucks = 'Number of Trucks is required';
 
     // forms validations
-    if (!formData.fromLocation) formErrors.fromLocation = "Fill From Locations!";
-    if (!formData.toLocation) formErrors.toLocation = "Fill To Locations!";
-    if (formData.truckTypes.length === 0) formErrors.truckTypes = "Fill TruckType!";
-    if (formData.businessTypes.length === 0) formErrors.businessTypes = "Fill BusinessType!";
+    if (!formData.fromCity) formErrors.fromCity = "Fill From Locations!";
+    if (!formData.toCity) formErrors.toCity = "Fill To Locations!";
+    if (formData.vehicleType.length === 0) formErrors.vehicleType = "Fill TruckType!";
+    if (formData.serviceType.length === 0) formErrors.serviceType = "Fill BusinessType!";
 
     return formErrors;
   };
 
-  const handleSubmit = (e) => {
+  // payment starting 
+
+  const loadScript = (src) => {
+    return new Promise((resolve) => {
+      const script = document.createElement("script");
+      script.src = src;
+      script.onload = () => {
+        resolve(true);
+      };
+      script.onerror = () => {
+        resolve(false);
+      };
+      document.body.appendChild(script);
+    });
+  };
+
+// payment ending
+
+
+  const handleSubmit = async (e) => {
     e.preventDefault();
     const validationErrors = validateForm();
 
@@ -125,10 +151,106 @@ const RegistrationForm = () => {
       setErrors({});
       // Reset form if needed
       // setFormData({...initialFormData});
+
+      // starting
+      setLoading(true)
+      try {
+        const resp = await axios.post(`${baseUrl}/user/create`,formData)
+        sessionStorage.setItem('userData', JSON.stringify(resp.data));
+        console.log(resp)
+        setLoading(false)
+      } catch (error) {
+        console.log(error)
+        alert("Error !")
+        setLoading(false)
+        return
+      }
+
+
+      const res = await loadScript(
+        "https://checkout.razorpay.com/v1/checkout.js"
+      );
+      if (!res) {
+        alert("Razorpay SDK failed to load. Are you online?");
+        return;
+      }
+      
+      try {
+        const userDatafromSession = sessionStorage.getItem('userData');
+      const userRespfromSession = JSON.parse(userDatafromSession);
+      console.log(userRespfromSession.companyName)
+        const request = {
+          amount:3100,
+          companyName:userRespfromSession.companyName
+        }
+        const response = await axios.post(`${baseUrl}/user/api/payment/create_order`,request)
+
+        const amount = response.data.amount;
+        if(response.data.status === 'created'){
+                const options = {
+  
+                  key: "rzp_live_Ivx0RsduJhbON5",
+                  amount: amount/100,
+                  currency: response.data.currency,
+                  name: "TransportKart",
+                  description: "TransportKart Business Membership",
+                  // image: heroBanner,
+                  order_id: response.data.id,
+                  handler: async function (response) {
+                    setLoading(true)
+                    sessionStorage.setItem("id",response.razorpay_payment_id)
+                    alert("We are processing your data do not refresh or reload page take screenshot your paymentId is :"+ response.razorpay_payment_id)
+
+                    try {
+                      const userData = sessionStorage.getItem('userData');
+                      const userResp = JSON.parse(userData);
+                        const statusresponse = await axios.post(`${baseUrl}/user/api/payment/update/status/${response.razorpay_payment_id}/company`,userResp);
+                        alert('Account has been created and active now !')
+                        setLoading(false)
+                        navigate(`/user/${userResp.companyName}`)
+                    } catch (error) {
+                      alert("process has failed contact on email with your payment id")
+                      setLoading(false)
+                        console.error("Error while making profile active:", error);
+                    }
+                  },
+                  prefill: {
+                    name: "",
+                    email: "",
+                    contact: ""
+                  },
+                  notes: {
+                    address: response.data.notes.gameId
+                  },
+                  theme: {
+                    color: "#3399cc"
+                  }
+                };
+      
+                const rzp1 = new window.Razorpay(options);
+                rzp1.on('payment.failed', function (response) {
+                  alert("Payment has failed any deduction from bank will we refelect back in 2-3 days")
+                });
+                rzp1.open();
+              }
+        else if(response.status ==200){
+          alert(response.data)
+        }    
+        // setLoading(false)
+    } catch (error) {
+      alert("payment failed")
+      setLoading(false)
+        console.error(error);
+    }
+    setLoading(false)
+      // ending
+
+
     }
   };
 
-  return (
+  return (<>
+  {loading?<Loader/>:null }
     <div className="w-[360px] pt-[8%] mx-auto">
       <div className="relative z-10 bg-white max-w-[360px] mx-auto mb-[100px] p-[45px] text-center shadow-md">
         <form onSubmit={handleSubmit}>
@@ -156,27 +278,27 @@ const RegistrationForm = () => {
 
           <input
             type="text"
-            name="mobileNo"
-            value={formData.mobileNo}
+            name="contactNo"
+            value={formData.contactNo}
             onChange={handleInputChange}
             placeholder="Mobile No"
             maxLength={10}
             className="outline-none bg-[#f2f2f2] w-full border-0 mb-4 p-3 text-sm"
             required
           />
-          {errors.mobileNo && <p className="text-red-500 text-sm">{errors.mobileNo}</p>}
+          {errors.contactNo && <p className="text-red-500 text-sm">{errors.contactNo}</p>}
 
           <input
             type="text"
-            name="whatsappNo"
-            value={formData.whatsappNo}
+            name="whatsAppNo"
+            value={formData.whatsAppNo}
             onChange={handleInputChange}
             placeholder="WhatsApp No"
             maxLength={10}
             className="outline-none bg-[#f2f2f2] w-full border-0 mb-4 p-3 text-sm"
             required
           />
-          {errors.whatsappNo && <p className="text-red-500 text-sm">{errors.whatsappNo}</p>}
+          {errors.whatsAppNo && <p className="text-red-500 text-sm">{errors.whatsAppNo}</p>}
 
           <input
             type="text"
@@ -190,26 +312,15 @@ const RegistrationForm = () => {
           {errors.address && <p className="text-red-500 text-sm">{errors.address}</p>}
 
           <input
-            type="text"
-            name="panNo"
-            value={formData.panNo}
-            onChange={handleInputChange}
-            placeholder="PAN No"
-            className="outline-none bg-[#f2f2f2] w-full border-0 mb-4 p-3 text-sm"
-            required
-          />
-          {errors.panNo && <p className="text-red-500 text-sm">{errors.panNo}</p>}
-
-          <input
             type="number"
-            name="establishmentDate"
-            value={formData.establishmentDate}
+            name="established"
+            value={formData.established}
             onChange={handleInputChange}
             placeholder="Company Establishment Year"
             className="outline-none bg-[#f2f2f2] w-full border-0 mb-4 p-3 text-sm"
             required
           />
-          {errors.establishmentDate && <p className="text-red-500 text-sm">{errors.establishmentDate}</p>}
+          {errors.established && <p className="text-red-500 text-sm">{errors.established}</p>}
 
           <input
             type="number"
@@ -240,7 +351,7 @@ const RegistrationForm = () => {
             >
               From: Select City/State
             </button>
-            {errors.fromLocation && <p className="text-red-500 text-sm">{errors.fromLocation}</p>}
+            {errors.fromCity && <p className="text-red-500 text-sm">{errors.fromCity}</p>}
             
             {isFromModalOpen && (
               <div
@@ -271,7 +382,7 @@ const RegistrationForm = () => {
           >
             To: Select City/State
           </button>
-          {errors.toLocation && <p className="text-red-500 text-sm">{errors.toLocation}</p>}
+          {errors.toCity && <p className="text-red-500 text-sm">{errors.toCity}</p>}
           
           {isToModalOpen && (
             <div
@@ -302,7 +413,7 @@ const RegistrationForm = () => {
             >
               Select Truck Type
             </button>
-            {errors.truckTypes && <p className="text-red-500 text-sm">{errors.truckTypes}</p>}
+            {errors.vehicleType && <p className="text-red-500 text-sm">{errors.vehicleType}</p>}
             
             {isTruckTypeModalOpen && (
               <div
@@ -333,7 +444,7 @@ const RegistrationForm = () => {
           >
             Select Business Type
           </button>
-          {errors.businessTypes && <p className="text-red-500 text-sm">{errors.businessTypes}</p>}
+          {errors.serviceType && <p className="text-red-500 text-sm">{errors.serviceType}</p>}
           
           {isBusinessTypeModalOpen && (
             <div
@@ -359,14 +470,23 @@ const RegistrationForm = () => {
 
           <input
             type="text"
-            name="about"
-            value={formData.about}
+            name="aboutUs"
+            value={formData.aboutUs}
             onChange={handleInputChange}
             placeholder="About Company"
             className="outline-none bg-[#f2f2f2] w-full h-[100px] border-0 mt-4 p-3 text-sm"
             required
           />
-          {errors.about && <p className="text-red-500 text-sm">{errors.about}</p>}
+          {errors.aboutUs && <p className="text-red-500 text-sm">{errors.aboutUs}</p>}
+
+          <input
+            name="couponCode"
+            value={formData.couponCode}
+            onChange={handleInputChange}
+            placeholder="Coupon Code"
+            className="outline-none bg-[#f2f2f2] w-full border-0 mb-4 p-3 text-sm mt-2"
+          />
+
 
 
           <button
@@ -378,6 +498,7 @@ const RegistrationForm = () => {
         </form>
       </div>
     </div>
+    </>
   );
 };
 

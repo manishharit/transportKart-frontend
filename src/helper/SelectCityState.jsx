@@ -94,11 +94,18 @@ export const SelectCityState = ({ onSave }) => {
   };
 
   const handleSave = useCallback(() => {
-    const selectedCitiesNames = Object.keys(selectedCities).flatMap((stateId) =>
-      selectedCities[stateId].map((city) => `${states.find((state) => state.id === stateId)?.name}: ${city}`)
-    );
+    // const selectedCitiesNames = Object.keys(selectedCities).flatMap((stateId) =>
+    //   selectedCities[stateId].map((city) => `${states.find((state) => state.id === stateId)?.name}: ${city}`)
+    // );
 
-    console.log("Selected Cities and States:", selectedCitiesNames);
+    // console.log("Selected Cities and States:", selectedCitiesNames);
+
+    const selectedCitiesNames = Object.values(selectedCities)
+    .flat()
+    .join(',');
+
+  console.log("Selected Cities:", selectedCitiesNames);
+
 
     if (onSave) {
       onSave(selectedCitiesNames);
