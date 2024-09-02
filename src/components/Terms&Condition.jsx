@@ -1,7 +1,11 @@
 import React from 'react';
+import { Footer } from './Footer';
+import { NavBar } from './NavBar';
 
 const TermsAndConditions = () => {
   return (
+    <>
+    <NavBar/>
     <div className="max-w-4xl mx-auto p-8">
       <h1 className="text-3xl font-bold mb-6 text-center">Terms and Conditions for TransportKart.com</h1>
 
@@ -132,8 +136,8 @@ const TermsAndConditions = () => {
       If you have any questions or comments about these Terms or the Website, please contact us at connect@transportkart.com. <br />
       </p>
     </div>
-
-    
+    <Footer/>
+    </>
   );
 };
 

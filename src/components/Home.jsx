@@ -23,7 +23,7 @@ export const Home = () => {
             </div>
         </div>
     {/* home second */}
-        {/* <div className="mt-5 lg:flex">
+        <div className="mt-5 lg:flex">
         
         <div className="p-5 lg:w-[50%]">
             <h3 className="font-bold text-center text-yellow-600 text-2xl"> Who We Are</h3>
@@ -39,10 +39,10 @@ export const Home = () => {
             <img className="lg:rounded-3xl" src={herSecondSec} />
         </div>
       
-        </div> */}
+        </div>
 
     {/* home third */}
-    {/* <div className="lg:h-[50vh] h-[31vh] bg-no-repeat bg-cover mt-5" style={{backgroundImage: `url(${homethirdbg})`}}>
+    <div className="lg:h-[50vh] h-[31vh] bg-no-repeat bg-cover mt-5" style={{backgroundImage: `url(${homethirdbg})`}}>
             <div className="bg-[rgba(0,0,0,0.5)] gap-2.5 h-full flex justify-center items-center text-xl">
                 <p className="text-gray-100 font-bold text-justify">
                 Our foremost goal is to cater the<br/>requirements of our nationwide
@@ -50,11 +50,11 @@ export const Home = () => {
                 ensure utmost client satisfaction.
                 </p>
             </div>
-        </div> */}
+        </div>
 
     {/* home forth */}
 
-    {/* <div className="mt-5 lg:flex">
+    <div className="mt-5 lg:flex">
         <div className="lg:w-[40%] lg:pt-20 lg:pl-5">
             <img className="lg:rounded-3xl" src={homefourthSec}  alt="heroSecondSec"  />
         </div>
@@ -75,7 +75,7 @@ export const Home = () => {
             </p>
         </div>
         
-        </div> */}
+        </div>
         {/* Pricing Component*/}
 
         <section class="py-6 leading-7 text-gray-900 bg-white sm:py-12 md:py-16">
@@ -102,7 +102,7 @@ export const Home = () => {
                 </h3>
                 <div class="flex items-end mt-6 leading-7 text-gray-900 border-0 border-gray-200">
                     <p class="box-border m-0 text-6xl font-semibold leading-none border-solid">
-                        ₹3100
+                        ₹3500
                     </p>
                     <p class="box-border m-0 border-solid" style={{borderImage: 'initial'}}>
                         / Year
@@ -241,7 +241,7 @@ export const Home = () => {
 
                 <a href="#"
                     class="inline-flex justify-center w-full px-4 py-3 mt-8 font-sans text-sm leading-none text-center text-white no-underline bg-blue-600 border rounded-md cursor-pointer hover:bg-blue-700 hover:border-blue-700 hover:text-white focus-within:bg-blue-700 focus-within:border-blue-700 focus-within:text-white sm:text-base md:text-lg">
-                    Start Now
+                    Coming Soon
                 </a>
             </div>
                    {/*  Price 3 */}
@@ -347,7 +347,7 @@ export const Home = () => {
                 </ul>
                 <a href="#"
                     class="inline-flex justify-center w-full px-4 py-3 mt-8 font-sans text-sm leading-none text-center text-blue-600 no-underline bg-transparent border border-blue-600 rounded-md cursor-pointer hover:bg-blue-700 hover:border-blue-700 hover:text-white focus-within:bg-blue-700 focus-within:border-blue-700 focus-within:text-white sm:text-base md:text-lg">
-                    Start Now
+                    Coming Soon
                 </a>
 
             </div>
@@ -362,7 +362,7 @@ export const Home = () => {
 
     {/* sixth component */}
 
-    <div className="lg:h-[90vh] h-[60vh] sm:h-0 bg-no-repeat bg-cover mt-5" style={{backgroundImage: `url(${homeContactbg})`}}>
+    {/* <div className="lg:h-[90vh] h-[60vh] sm:h-0 bg-no-repeat bg-cover mt-5" style={{backgroundImage: `url(${homeContactbg})`}}>
       <div className="h-full flex-col bg-[rgba(0,0,0,0.9)] gap-2.5 text-center lg:pt-20 pt-20">
       <h3 className="text-white text-5xl">Contact Us</h3>
         <p className="text-white text-xl pt-5 pb-7">
@@ -383,8 +383,44 @@ export const Home = () => {
 
       </div>
 
-    </div>
+    </div> */}
+    <div className='pt-[5rem] pb-[3rem] bg-gray-900' id='contact'>
+        <div className='grid grid-cols-1 md:grid-cols-2 gap-[2rem] items-center w-[80%] mx-auto'>
+            <div>
+                <p className='text-[17px] text-white opacity-75'>Get in Touch</p>
+                <h1 className='mt-[0.6rem] p-2 sm:p-0 leading-[3.5rem] text-white text-[27px] md:text-[30px] lg:text-[38px] xl:text-[45px]'>Let&apos;s make your <span className='text-yellow-400'>Brand</span> brilliant !
+                </h1>
+                <p className='text-[15px] text-white mt-[1rem] opacity-75'>Feel free to reach out to discuss your next project or any inquiries you may have. We look forward to hearing from you! You can also connect with us on </p>
+                <a className='mt-[2rem] mb-[2rem] text-[25px] text-yellow-300 hover:text-yellow-500 font-semibold' href='mailto:connect@transportkart.com'>Email Us</a>
+            </div>
+            <div>
+                <div className='grid grid-cols-1 sm:grid-cols-2 gap-[1rem] items-center'>
+                    <input
+                        type='text'
+                        placeholder='Name'
+                        className='py-[0.7rem] outline-none text-white bg-gray-800 rounded-md px-4'
+                    />
+                    <input
+                        type='number'
+                        placeholder='Contact No'
+                        className='py-[0.7rem] outline-none text-white bg-gray-800 rounded-md px-4'
+                    />
+                </div>
+                <input 
+                    type='email' 
+                    placeholder='Email' 
+                    className='py-[0.7rem] mb-[1.5rem] mt-[1.5rem] w-full outline-none text-white bg-gray-800 rounded-md px-4'
+                />
+                <textarea
+                    placeholder='Message'
+                    className='py-[0.7rem] w-full outline-none text-white bg-gray-800 rounded-md px-4'
+                    rows={4}
+                ></textarea>
+                <button className='py-[0.7rem] mb-[1.5rem] mt-[1.5rem] w-full outline-none text-white bg-blue-700  hover:bg-blue-800 rounded-md px-4'>Submit</button>
+            </div>
+        </div>
 
+    </div>
 
     
     <Footer/>

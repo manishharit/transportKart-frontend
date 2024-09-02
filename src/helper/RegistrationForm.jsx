@@ -5,6 +5,8 @@ import BusinessTypeSelection from './BusinessType';
 import Loader from './Loader';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
+import { NavBar } from '../components/NavBar';
+import { Footer } from '../components/Footer';
 
 const RegistrationForm = ({baseUrl}) => {
 
@@ -120,6 +122,7 @@ const RegistrationForm = ({baseUrl}) => {
 
     return formErrors;
   };
+  
 
   // payment starting 
 
@@ -250,6 +253,7 @@ const RegistrationForm = ({baseUrl}) => {
   };
 
   return (<>
+  <NavBar/>
   {loading?<Loader/>:null }
     <div className="w-[360px] pt-[8%] mx-auto">
       <div className="relative z-10 bg-white max-w-[360px] mx-auto mb-[100px] p-[45px] text-center shadow-md">
@@ -498,6 +502,7 @@ const RegistrationForm = ({baseUrl}) => {
         </form>
       </div>
     </div>
+    <Footer/>
     </>
   );
 };

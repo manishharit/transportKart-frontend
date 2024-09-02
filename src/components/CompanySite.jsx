@@ -89,8 +89,8 @@ export const CompanySite = ({ baseUrl }) => {
         </div>
         <div className="lg:pl-10 p-5">
             <p className="text-justify font-light lg:w-[40rem]">
-            {item.aboutUs? item.about :
-            "Welcome to Our Company, where excellence in logistics meets unparalleled dedication to customer satisfaction.we have emerged as a dynamic force in the logistics industry.  We prides itself on offering a comprehensive range of services tailored to meet the diverse needs of our clients. Specializing in part-load movement services across India, we ensure prompt and reliable transportation solutions that exceed expectations,providing efficient cargo transportation services nationwide.."
+            {item.aboutUs ? item.aboutUs :
+            "Welcome to Our Company, where excellence in logistics meets unparalleled dedication to customer satisfaction.we have emerged as a dynamic force in the logistics industry.We prides itself on offering a comprehensive range of services tailored to meet the diverse needs of our clients. Specializing in part-load movement services across India, we ensure prompt and reliable transportation solutions that exceed expectations,providing efficient cargo transportation services nationwide.."
             }
             </p>
         </div>
