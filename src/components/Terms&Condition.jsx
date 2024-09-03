@@ -131,6 +131,20 @@ const TermsAndConditions = () => {
       In no event shall TransportKart be responsible to any person or entity for any loss or damage, whether direct, indirect, incidental, consequential, or otherwise, arising out of access or use or dissemination of information contained in the Website, including, but not limited to, damages for loss of profits, data, or damage to the user's computer systems, even if TransportKart has been advised of the possibility of such damages. <br />
       </p>
 
+      <h2 className="text-xl font-semibold mb-4">Cancellation & Refund Policy</h2>
+      <p className="mb-4 text-justify">
+      1. All services purchased through TransportKART are final and non-returnable. <br />
+      2. Once payment is made, users cannot buy back or exchange services. <br />
+      3. No refunds will be issued under any circumstances after a purchase is completed. <br />
+      4. Users agree that all sales are final and non-refundable. <br />
+      5. Changes or modifications to services are not permitted once purchased. <br />
+      6. TransportKART does not provide refunds for unused or partially used services. <br />
+      7. Users are responsible for reviewing service details before making a payment. <br />
+      9. Any issues or changes in personal circumstances will not warrant a refund. <br />
+      10.This policy applies to all services and transactions made with TransportKART. <br />
+      11.By purchasing services, users accept this no-refund and no-buyback policy.
+      </p>
+
       <h2 className="text-xl font-semibold mb-4">Contact Information</h2>
       <p className="mb-4 text-justify">
       If you have any questions or comments about these Terms or the Website, please contact us at connect@transportkart.com. <br />

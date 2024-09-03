@@ -133,6 +133,20 @@ const PrivacyAndPolicies = () => {
       Response Time: We will respond to your request within 30 days of receiving it. If we are unable to fulfill your request within this timeframe, we will inform you of the reason for the delay.
       </p>
 
+      <h2 className="text-xl font-semibold mb-4">Cancellation & Refund Policy</h2>
+      <p className="mb-4 text-justify">
+      1. All services purchased through TransportKART are final and non-returnable. <br />
+      2. Once payment is made, users cannot buy back or exchange services. <br />
+      3. No refunds will be issued under any circumstances after a purchase is completed. <br />
+      4. Users agree that all sales are final and non-refundable. <br />
+      5. Changes or modifications to services are not permitted once purchased. <br />
+      6. TransportKART does not provide refunds for unused or partially used services. <br />
+      7. Users are responsible for reviewing service details before making a payment. <br />
+      9. Any issues or changes in personal circumstances will not warrant a refund. <br />
+      10.This policy applies to all services and transactions made with TransportKART. <br />
+      11.By purchasing services, users accept this no-refund and no-buyback policy.
+      </p>
+
       <h2 className="text-xl font-semibold mb-4">Contact Us</h2>
       <p className="mb-4 text-justify">
       Privacy Concerns: If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at connect@transportkart.com. <br />

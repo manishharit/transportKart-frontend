@@ -390,8 +390,11 @@ export const Home = () => {
                 <p className='text-[17px] text-white opacity-75'>Get in Touch</p>
                 <h1 className='mt-[0.6rem] p-2 sm:p-0 leading-[3.5rem] text-white text-[27px] md:text-[30px] lg:text-[38px] xl:text-[45px]'>Let&apos;s make your <span className='text-yellow-400'>Brand</span> brilliant !
                 </h1>
-                <p className='text-[15px] text-white mt-[1rem] opacity-75'>Feel free to reach out to discuss your next project or any inquiries you may have. We look forward to hearing from you! You can also connect with us on </p>
-                <a className='mt-[2rem] mb-[2rem] text-[25px] text-yellow-300 hover:text-yellow-500 font-semibold' href='mailto:connect@transportkart.com'>Email Us</a>
+                <p className='text-[15px] text-white mt-[1rem] opacity-75 '>
+                Address : <br />
+                SmART-EMS,
+                H-48, Sriram Colony, Banthala, <br />  Loni, Ghaziabad, Uttar Pradesh - 201102. <br /> You can also connect with us on </p>
+                <a className='mt-[2rem] mb-[2rem] text-[25px]  text-yellow-300 hover:text-yellow-500 font-semibold' href='mailto:connect@transportkart.com'>Email</a>
             </div>
             <div>
                 <div className='grid grid-cols-1 sm:grid-cols-2 gap-[1rem] items-center'>
