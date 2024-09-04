@@ -257,6 +257,7 @@ const RegistrationForm = ({baseUrl}) => {
   {loading?<Loader/>:null }
     <div className="w-[360px] pt-[8%] mx-auto">
       <div className="relative z-10 bg-white max-w-[360px] mx-auto mb-[100px] p-[45px] text-center shadow-md">
+        <h1 className='mb-4 text-2xl font-bold'>Registration Form</h1>
         <form onSubmit={handleSubmit}>
           <input
             type="text"
