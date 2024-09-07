@@ -192,7 +192,7 @@ const RegistrationForm = ({baseUrl}) => {
         if(response.data.status === 'created'){
                 const options = {
   
-                  key: "rzp_live_Ivx0RsduJhbON5",
+                  key: "rzp_live_lvzUSNGXgy9nVG",
                   amount: amount/100,
                   currency: response.data.currency,
                   name: "TransportKart",
