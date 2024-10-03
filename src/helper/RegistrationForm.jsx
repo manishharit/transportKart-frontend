@@ -498,7 +498,7 @@ const RegistrationForm = ({baseUrl}) => {
             type="submit"
             className="uppercase bg-[#4CAF50] w-full py-3 text-white text-sm hover:bg-[#43A047] mt-4"
           >
-            Register
+            Pay Now
           </button>
         </form>
       </div>
