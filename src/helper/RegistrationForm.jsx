@@ -170,7 +170,8 @@ const RegistrationForm = ({baseUrl}) => {
           console.log(error);
           alert("An error occurred!"); // Default error message for other errors
         }
-        alert("Error !")
+        // 
+      
         setLoading(false)
         return
       }
