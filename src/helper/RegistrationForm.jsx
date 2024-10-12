@@ -164,7 +164,14 @@ const RegistrationForm = ({baseUrl}) => {
         setLoading(false)
       } catch (error) {
         console.log(error)
-        alert("Error !")
+        if (error.response && error.response.status === 400) {
+          alert("Comapany already registered please contact 7079891216"); // Display API error message
+        } else {
+          console.log(error);
+          alert("An error occurred!"); // Default error message for other errors
+        }
+        // 
+      
         setLoading(false)
         return
       }
@@ -183,7 +190,7 @@ const RegistrationForm = ({baseUrl}) => {
       const userRespfromSession = JSON.parse(userDatafromSession);
       console.log(userRespfromSession.companyName)
         const request = {
-          amount:3100,
+          amount:3500,
           companyName:userRespfromSession.companyName
         }
         const response = await axios.post(`${baseUrl}/user/api/payment/create_order`,request)
