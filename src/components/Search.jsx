@@ -69,6 +69,10 @@ export const Search = ({ baseUrl , onDataFetch }) => {
     {
       key:"Pradhan Transport",
       value:"Pradhan Transport"
+    },
+    {
+      key:"SPEED LOGISTICS",
+      value:"SPEED LOGISTICS"
     }
 
   ];
